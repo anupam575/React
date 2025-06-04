@@ -1,0 +1,7539 @@
+1
+00:00:00,230 --> 00:00:00,560
+[Music]
+[संगीत]
+
+2
+00:00:00,560 --> 00:00:02,679
+uh so Amir should we start with the
+उह इतना अमीर हमें शुरू करना चाहिए
+
+3
+00:00:02,679 --> 00:00:07,200
+inter sure sir okay uh can you open any
+इंटर श्योर सर ओके उह आप कोई भी खोल सकते हैं
+
+4
+00:00:07,200 --> 00:00:09,920
+editor which you are comfortable with
+संपादक जो आप के साथ सहज हैं
+
+5
+00:00:09,920 --> 00:00:11,719
+sure sir
+ज़रूर सर
+
+6
+00:00:11,719 --> 00:00:16,560
+yeah um okay I'll just start some new
+हाँ उम ठीक है मैं बस कुछ नया शुरू करूँगा
+
+7
+00:00:16,560 --> 00:00:20,160
+open Thea and share the screen okay sir
+थिया खोलें और स्क्रीन को ठीक करें सर
+
+8
+00:00:20,160 --> 00:00:23,080
+just a second
+बस एक पल
+
+9
+00:00:23,320 --> 00:00:27,680
+yeah okay I'm sharing the
+हाँ ठीक है मैं साझा कर रहा हूँ
+
+10
+00:00:27,840 --> 00:00:32,320
+screen okay is my screen
+स्क्रीन ठीक है मेरी स्क्रीन है
+
+11
+00:00:32,320 --> 00:00:36,760
+visible uh yes now it is visible okay
+दिखाई दे रहा है हाँ अब यह ठीक दिखाई दे रहा है
+
+12
+00:00:36,760 --> 00:00:39,600
+okay uh you
+ठीक है उह तुम
+
+13
+00:00:39,600 --> 00:00:44,920
+can create two functions okay one for
+दो फ़ंक्शंस बना सकते हैं ठीक है
+
+14
+00:00:44,920 --> 00:00:50,199
+like uh you can create one okay yes sir
+उह की तरह आप एक ठीक बना सकते हैं हाँ सर
+
+15
+00:00:50,199 --> 00:00:52,000
+yeah yeah create
+हाँ हाँ बनाओ
+
+16
+00:00:52,000 --> 00:00:54,840
+it and inside first function return
+यह और पहले फ़ंक्शन के अंदर वापसी
+
+17
+00:00:54,840 --> 00:00:57,120
+return
+वापस करना
+
+18
+00:00:57,280 --> 00:01:01,920
+two and then in second function return
+दो और फिर दूसरे फ़ंक्शन में वापसी
+
+19
+00:01:02,480 --> 00:01:06,960
+yes sir okay uh now create a
+हाँ सर ठीक है उह अब एक बनाओ
+
+20
+00:01:08,680 --> 00:01:10,759
+variable
+चर
+
+21
+00:01:10,759 --> 00:01:15,560
+let uh in parenthesis
+कोष्ठक में उह
+
+22
+00:01:15,560 --> 00:01:17,159
+write
+लिखना
+
+23
+00:01:17,159 --> 00:01:20,720
+uh Function
+उह समारोह
+
+24
+00:01:23,079 --> 00:01:27,079
+One comp function
+एक COMP फ़ंक्शन
+
+25
+00:01:28,200 --> 00:01:34,479
+to and console this
+इसे और सांत्वना
+
+26
+00:01:34,479 --> 00:01:36,560
+okay
+ठीक है
+
+27
+00:01:36,560 --> 00:01:40,079
+okay tell me what will be the
+ठीक है मुझे बताओ कि क्या होगा
+
+28
+00:01:40,079 --> 00:01:43,680
+output okay so output will be four over
+आउटपुट ठीक है इसलिए आउटपुट चार से अधिक होगा
+
+29
+00:01:43,680 --> 00:01:46,280
+here as I am able to guess cuz what will
+यहाँ के रूप में मैं cuz का अनुमान लगाने में सक्षम हूं कि क्या होगा
+
+30
+00:01:46,280 --> 00:01:48,880
+happen that uh it will go over here
+ऐसा होता है कि उह यह यहाँ पर जाएगा
+
+31
+00:01:48,880 --> 00:01:51,079
+where we are calling this function
+जहां हम इस फ़ंक्शन को बुला रहे हैं
+
+32
+00:01:51,079 --> 00:01:53,439
+function one and it will give us the
+एक कार्य करें और यह हमें देगा
+
+33
+00:01:53,439 --> 00:01:55,719
+value two and then after that we are
+मूल्य दो और फिर उसके बाद हम हैं
+
+34
+00:01:55,719 --> 00:01:58,280
+passing it a value uh we are giving it
+इसे एक मूल्य पास करते हुए उह हम इसे दे रहे हैं
+
+35
+00:01:58,280 --> 00:02:00,200
+another value which is being returned by
+एक और मूल्य जिसके द्वारा वापस किया जा रहा है
+
+36
+00:02:00,200 --> 00:02:03,320
+this function two which will be
+यह फ़ंक्शन दो जो होगा
+
+37
+00:02:03,320 --> 00:02:07,399
+four so first one is returning to and
+चार तो पहले एक और वापस लौट रहा है
+
+38
+00:02:07,399 --> 00:02:11,239
+second one is returning four yes so why
+दूसरा एक चार हाँ लौट रहा है तो क्यों
+
+39
+00:02:11,239 --> 00:02:14,480
+four um cuz what happens over here
+चार उम cuz यहाँ पर क्या होता है
+
+40
+00:02:14,480 --> 00:02:16,560
+firstly when it is returned over here it
+सबसे पहले जब यह यहाँ पर लौटा दिया जाता है
+
+41
+00:02:16,560 --> 00:02:18,720
+will be assigned to a but again we are
+एक को सौंपा जाएगा लेकिन फिर से हम हैं
+
+42
+00:02:18,720 --> 00:02:22,040
+in uh changing that value to four after
+उह में उस मूल्य को चार के बाद बदल रहा है
+
+43
+00:02:22,040 --> 00:02:22,840
+this
+यह
+
+44
+00:02:22,840 --> 00:02:27,720
+comma okay okay okay yes sir okay uh can
+कॉमा ठीक है ठीक है हाँ सर ठीक है उह कैन
+
+45
+00:02:27,720 --> 00:02:30,120
+you uh
+आप उह
+
+46
+00:02:30,120 --> 00:02:32,040
+yes sir can you create an
+हाँ सर आप एक बना सकते हैं
+
+47
+00:02:32,040 --> 00:02:36,920
+array sure sir um just a
+सरणी यकीन है सर उम बस एक
+
+48
+00:02:37,840 --> 00:02:40,640
+second uh write three
+दूसरा उह तीन लिखें
+
+49
+00:02:40,640 --> 00:02:43,640
+strings
+तार
+
+50
+00:02:48,200 --> 00:02:53,720
+okay yes uh and create one
+ठीक है हाँ उह और एक बनाओ
+
+51
+00:02:53,720 --> 00:02:57,720
+string okay
+ठीक है
+
+52
+00:03:01,599 --> 00:03:06,440
+uh hello there this
+उह नमस्ते वहाँ यह
+
+53
+00:03:06,440 --> 00:03:13,360
+is okay uh now uh what you do
+ठीक है उह अब उह आप क्या करते हैं
+
+54
+00:03:13,360 --> 00:03:16,120
+is do
+है
+
+55
+00:03:16,120 --> 00:03:19,840
+uh ARR
+उह गिरफ्तारी
+
+56
+00:03:20,360 --> 00:03:24,840
+includes huh uh for
+के लिए हुह उह शामिल हैं
+
+57
+00:03:24,840 --> 00:03:30,120
+a for uh don't keep a uh keep
+उह के लिए एक उह नहीं है
+
+58
+00:03:30,120 --> 00:03:32,040
+o
+हे
+
+59
+00:03:32,040 --> 00:03:36,319
+n uh okay like
+n उह ठीक है
+
+60
+00:03:36,319 --> 00:03:42,519
+zero like this no no no o yes sir o o o
+इस तरह शून्य नहीं, कोई नहीं ओ हाँ सर ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ ओ
+
+61
+00:03:42,519 --> 00:03:48,640
+okay o o n okay yes and uh store it in a
+ठीक है ओ ओ एन ठीक है हाँ और उह इसे एक में स्टोर करते हैं
+
+62
+00:03:50,640 --> 00:03:54,159
+variable and create one more uh any
+चर और एक और उह बनाएँ
+
+63
+00:03:54,159 --> 00:03:59,640
+other variable and include uh
+अन्य चर और उह शामिल हैं
+
+64
+00:04:00,280 --> 00:04:04,079
+one two include one
+एक दो में एक शामिल है
+
+65
+00:04:04,079 --> 00:04:06,400
+two
+दो
+
+66
+00:04:06,400 --> 00:04:11,159
+one don't uh keep space okay just like
+एक उह नहीं है जैसे जगह ठीक है
+
+67
+00:04:11,159 --> 00:04:12,760
+this
+यह
+
+68
+00:04:12,760 --> 00:04:17,640
+yes and and and and
+हाँ और और और
+
+69
+00:04:18,320 --> 00:04:21,880
+uh in string you have written the
+उह में स्ट्रिंग में आपने लिखा है
+
+70
+00:04:21,880 --> 00:04:25,320
+sentence just remove the sentence like
+वाक्य बस वाक्य को हटा दें
+
+71
+00:04:25,320 --> 00:04:29,800
+keep only one word any one word yeah and
+केवल एक शब्द किसी एक शब्द को हाँ और रखें
+
+72
+00:04:29,800 --> 00:04:32,000
+and
+और
+
+73
+00:04:32,000 --> 00:04:36,600
+uh write uh like write another
+उह एक और लिखने की तरह उह लिखते हैं
+
+74
+00:04:36,600 --> 00:04:39,600
+variable
+चर
+
+75
+00:04:40,039 --> 00:04:44,880
+H uh which includes
+एच उह जिसमें शामिल है
+
+76
+00:04:44,880 --> 00:04:50,039
+uh in for string St Str
+उह के लिए स्ट्रिंग स्ट्रे
+
+77
+00:04:52,840 --> 00:04:55,400
+includes uh
+उह भी शामिल है
+
+78
+00:04:55,400 --> 00:04:57,800
+write dou
+लिखें
+
+79
+00:04:57,800 --> 00:05:01,639
+L okay
+एल ठीक है
+
+80
+00:05:01,800 --> 00:05:04,080
+and tell me what will be the
+और मुझे बताओ कि क्या होगा
+
+81
+00:05:04,080 --> 00:05:07,479
+output okay got
+आउटपुट ठीक है
+
+82
+00:05:07,479 --> 00:05:09,639
+it
+यह
+
+83
+00:05:09,639 --> 00:05:12,320
+um
+एक
+
+84
+00:05:12,320 --> 00:05:15,440
+okay for this what I'm able to guess
+इसके लिए ठीक है कि मैं क्या अनुमान लगाने में सक्षम हूं
+
+85
+00:05:15,440 --> 00:05:18,280
+over here what it will do that it will
+यहाँ पर यह क्या करेगा कि यह होगा
+
+86
+00:05:18,280 --> 00:05:20,720
+take the string which is LL over here
+वह स्ट्रिंग लें जो यहाँ पर है
+
+87
+00:05:20,720 --> 00:05:23,280
+and it will go over this array and it
+और यह इस सरणी पर जाएगा और यह
+
+88
+00:05:23,280 --> 00:05:25,199
+will check cover is it present over
+कवर कवर होगा यह ऊपर मौजूद है
+
+89
+00:05:25,199 --> 00:05:27,880
+there or not so it will return just uh
+वहाँ या नहीं, यह सिर्फ उह वापस आ जाएगा
+
+90
+00:05:27,880 --> 00:05:33,120
+you have to console log of it wa okay
+आपको इसे WA का लॉग कंसोल करना होगा ठीक है
+
+91
+00:05:34,440 --> 00:05:39,639
+okay all three variables got
+ठीक है सभी तीन चर मिल गए
+
+92
+00:05:44,120 --> 00:05:47,120
+it okay
+यह ठीक है
+
+93
+00:05:47,120 --> 00:05:52,000
+so this is okay so for the new Arrow
+तो यह नए तीर के लिए ठीक है
+
+94
+00:05:52,000 --> 00:05:54,080
+here what I'm able to guess it will give
+यहाँ मैं क्या अनुमान लगाने में सक्षम हूं
+
+95
+00:05:54,080 --> 00:05:57,240
+us the result as a true and for the
+हमें एक सत्य के रूप में और के लिए परिणाम
+
+96
+00:05:57,240 --> 00:06:00,680
+another R which is one two basically
+एक और आर जो मूल रूप से एक दो है
+
+97
+00:06:00,680 --> 00:06:03,680
+um over here what we are searching is
+उम यहाँ पर हम जो खोज रहे हैं वह है
+
+98
+00:06:03,680 --> 00:06:08,160
+basically the um uh like uh the element
+मूल रूप से उह उह उह तत्व की तरह
+
+99
+00:06:08,160 --> 00:06:11,199
+that we are searching does it is is it
+कि हम खोज कर रहे हैं यह है
+
+100
+00:06:11,199 --> 00:06:15,120
+in there in any of the um
+वहाँ किसी भी उम में
+
+101
+00:06:15,120 --> 00:06:19,599
+this that is actually so it will it will
+यह वास्तव में ऐसा है यह होगा
+
+102
+00:06:19,599 --> 00:06:22,800
+give us false and this one this first
+हमें झूठा दे दो और यह पहले यह एक
+
+103
+00:06:22,800 --> 00:06:25,120
+one it will give us again
+एक यह हमें फिर से देगा
+
+104
+00:06:25,120 --> 00:06:28,440
+um cludes basically okay so it will give
+उम क्लूड्स मूल रूप से ठीक है इसलिए यह देगा
+
+105
+00:06:28,440 --> 00:06:30,720
+us false two because we are not able to
+हमें झूठ दो क्योंकि हम नहीं कर पा रहे हैं
+
+106
+00:06:30,720 --> 00:06:33,080
+find something exactly the same inside
+अंदर कुछ ठीक उसी तरह का पता लगाएं
+
+107
+00:06:33,080 --> 00:06:35,639
+the elements that we are searching for
+जिन तत्वों को हम खोज रहे हैं
+
+108
+00:06:35,639 --> 00:06:38,599
+and only this last one will give us
+और केवल यह आखिरी ही हमें देगा
+
+109
+00:06:38,599 --> 00:06:43,240
+true okay but uh o n is there right yes
+सच है ठीक है, लेकिन उह ओ एन सही हाँ है
+
+110
+00:06:43,240 --> 00:06:47,000
+but uh it is not exactly matching with
+लेकिन उह यह बिल्कुल मेल नहीं खाता है
+
+111
+00:06:47,000 --> 00:06:49,919
+yes sir okay so subring of substring is
+हाँ सर ठीक है तो सब्सट्रिंग का सबरिंग है
+
+112
+00:06:49,919 --> 00:06:50,680
+not
+नहीं
+
+113
+00:06:50,680 --> 00:06:52,919
+allowed yes
+हाँ की अनुमति दी
+
+114
+00:06:52,919 --> 00:06:55,639
+sir cuz we are searching for the element
+सर cuz हम तत्व की खोज कर रहे हैं
+
+115
+00:06:55,639 --> 00:06:58,800
+over here inside this ARR and when I am
+यहाँ पर इस गिरफ्तारी के अंदर और जब मैं हूँ
+
+116
+00:06:58,800 --> 00:07:01,120
+searching for string actually so it is
+वास्तव में स्ट्रिंग के लिए खोज करना तो यह है
+
+117
+00:07:01,120 --> 00:07:04,400
+checking for a string that is present in
+एक स्ट्रिंग के लिए जाँच जो मौजूद है
+
+118
+00:07:04,400 --> 00:07:07,120
+there or not uh in the whole string but
+पूरे स्ट्रिंग में उह नहीं है, लेकिन
+
+119
+00:07:07,120 --> 00:07:09,520
+when I'm searching for this ARR actually
+जब मैं वास्तव में इस गिरफ्तार की खोज कर रहा हूं
+
+120
+00:07:09,520 --> 00:07:11,960
+so what it is doing that it is checking
+तो यह क्या कर रहा है कि यह जाँच कर रहा है
+
+121
+00:07:11,960 --> 00:07:16,199
+if that um uh that complete element is
+अगर वह उम उह वह पूर्ण तत्व है
+
+122
+00:07:16,199 --> 00:07:21,360
+there or not so yes in the situation it
+स्थिति में ऐसा ही हाँ है
+
+123
+00:07:21,360 --> 00:07:25,360
+will arrive when uh it will show True
+जब उह यह सच दिखाएगा
+
+124
+00:07:25,360 --> 00:07:27,879
+like if I do something like this then it
+जैसे अगर मैं ऐसा कुछ करता हूं तो यह
+
+125
+00:07:27,879 --> 00:07:30,400
+will show me true okay okay okay got it
+मुझे सच दिखाएगा ठीक है ठीक है ठीक है
+
+126
+00:07:30,400 --> 00:07:33,160
+yes sir
+जी श्रीमान
+
+127
+00:07:34,280 --> 00:07:38,240
+okay okay uh can you write one console L
+ठीक है ठीक है उह आप एक कंसोल एल लिख सकते हैं
+
+128
+00:07:38,240 --> 00:07:40,960
+hello are you able to hear me yeah yeah
+हैलो क्या आप मुझे हाँ सुन सकते हैं हाँ
+
+129
+00:07:40,960 --> 00:07:46,840
+no I able to like my Wi-Fi it just
+नहीं, मैं अपने वाई-फाई को पसंद करने में सक्षम हूं
+
+130
+00:07:46,840 --> 00:07:48,800
+turn yes
+हाँ करना
+
+131
+00:07:48,800 --> 00:07:51,960
+sir can you write one
+सर क्या आप एक लिख सकते हैं
+
+132
+00:07:51,960 --> 00:07:56,080
+console uh below this or uh another one
+इस या उह के नीचे कंसोल उह
+
+133
+00:07:56,080 --> 00:07:58,479
+okay another another one okay okay got
+ठीक है एक और एक और ठीक है
+
+134
+00:07:58,479 --> 00:07:59,800
+it so just a can
+यह सिर्फ एक कर सकते हैं
+
+135
+00:07:59,800 --> 00:08:01,000
+[Music]
+[संगीत]
+
+136
+00:08:01,000 --> 00:08:02,800
+comment yes
+टिप्पणी हाँ
+
+137
+00:08:02,800 --> 00:08:08,080
+sir uh you can write console log
+सर उह आप कंसोल लॉग लिख सकते हैं
+
+138
+00:08:08,199 --> 00:08:09,759
+of
+का
+
+139
+00:08:09,759 --> 00:08:11,360
+true
+सत्य
+
+140
+00:08:11,360 --> 00:08:17,919
+true double equal to huh a blank
+सच्चा डबल एक रिक्त हुह के बराबर है
+
+141
+00:08:17,919 --> 00:08:22,680
+string okay what will be the output okay
+स्ट्रिंग ठीक है क्या आउटपुट ठीक होगा
+
+142
+00:08:22,680 --> 00:08:26,000
+so uh blank basically no string right
+तो उह रिक्त मूल रूप से कोई स्ट्रिंग सही नहीं है
+
+143
+00:08:26,000 --> 00:08:29,560
+yeah okay okay so in this case what it
+हाँ ठीक है तो इस मामले में यह क्या है
+
+144
+00:08:29,560 --> 00:08:31,599
+will do it will compare the data type
+यह डेटा प्रकार की तुलना करेगा
+
+145
+00:08:31,599 --> 00:08:35,760
+actually and uh for this string the data
+वास्तव में और यूएच इस स्ट्रिंग के लिए डेटा
+
+146
+00:08:35,760 --> 00:08:37,640
+type yes
+हाँ टाइप करें
+
+147
+00:08:37,640 --> 00:08:40,599
+sir and uh when it it will try to
+सर और उह जब यह करने की कोशिश करेगा
+
+148
+00:08:40,599 --> 00:08:42,200
+compare the data type it will be
+डेटा प्रकार की तुलना करें
+
+149
+00:08:42,200 --> 00:08:44,920
+evaluate evaluated to the false actually
+वास्तव में झूठे का मूल्यांकन करें
+
+150
+00:08:44,920 --> 00:08:46,519
+because we are not we don't have
+क्योंकि हमारे पास नहीं हैं
+
+151
+00:08:46,519 --> 00:08:49,480
+anything over there so it will return us
+वहाँ पर कुछ भी तो यह हमें वापस कर देगा
+
+152
+00:08:49,480 --> 00:08:54,680
+false but you told me the data type yes
+गलत लेकिन आपने मुझे डेटा प्रकार हां कहा
+
+153
+00:08:54,680 --> 00:08:59,760
+sir okay when it compare value at which
+सर ठीक है जब यह मूल्य की तुलना करता है
+
+154
+00:08:59,760 --> 00:09:02,399
+situation it will compare it okay if I
+स्थिति की तुलना करना ठीक है अगर मैं
+
+155
+00:09:02,399 --> 00:09:05,079
+if I do something like a uh there a
+अगर मैं वहाँ एक उह की तरह कुछ करता हूं
+
+156
+00:09:05,079 --> 00:09:07,760
+strict uh strictly strictly equal
+सख्त उह सख्ती से समान
+
+157
+00:09:07,760 --> 00:09:10,000
+equality operator it will compare the
+समानता ऑपरेटर यह तुलना करेगा
+
+158
+00:09:10,000 --> 00:09:12,560
+values inside the uh like whatever I'm
+उह के अंदर मान
+
+159
+00:09:12,560 --> 00:09:15,120
+am comparing actually and if that case
+वास्तव में तुलना कर रहा हूँ और अगर वह मामला है
+
+160
+00:09:15,120 --> 00:09:17,920
+is true if the data type and value of
+यदि डेटा प्रकार और मूल्य का मूल्य सच है
+
+161
+00:09:17,920 --> 00:09:20,920
+both of the op prints I am passing it is
+ओपी प्रिंट के दोनों मैं इसे पास कर रहा हूं
+
+162
+00:09:20,920 --> 00:09:23,640
+true it will return me through okay uh
+यह सच है कि यह मुझे ठीक है उह के माध्यम से वापस कर देगा
+
+163
+00:09:23,640 --> 00:09:26,680
+do one more consoler just we will uh
+एक और कंसोलर करो बस हम उह करेंगे
+
+164
+00:09:26,680 --> 00:09:29,959
+wait for this okay and
+इसके लिए प्रतीक्षा करें ठीक है और
+
+165
+00:09:29,959 --> 00:09:32,640
+right you told me for double equal to it
+सही आपने मुझे इसके बराबर के लिए कहा था
+
+166
+00:09:32,640 --> 00:09:36,640
+will uh check for data type right data
+यूएच डेटा प्रकार के सही डेटा के लिए जाँच करेगा
+
+167
+00:09:36,640 --> 00:09:39,720
+type yes sir okay uh can you write one
+टाइप करें हाँ सर ठीक है उह आप एक लिख सकते हैं
+
+168
+00:09:39,720 --> 00:09:42,040
+as a
+के तौर पर
+
+169
+00:09:43,640 --> 00:09:47,920
+string okay and one as a
+स्ट्रिंग ठीक है और एक के रूप में एक
+
+170
+00:09:47,920 --> 00:09:49,680
+value
+कीमत
+
+171
+00:09:49,680 --> 00:09:51,720
+okay
+ठीक है
+
+172
+00:09:51,720 --> 00:09:55,680
+so okay okay
+तो ठीक है ठीक है
+
+173
+00:09:55,680 --> 00:10:00,959
+okay okay so okay my bad I guess uh I
+ठीक है ठीक है तो मेरे बुरे मुझे लगता है कि मैं मुझे लगता है
+
+174
+00:10:00,959 --> 00:10:03,000
+said the opposite
+इसके विपरीत कहा
+
+175
+00:10:03,000 --> 00:10:07,120
+thing cuz yes sir uh cuz what it will do
+बात cuz हाँ सर उह cuz यह क्या करेगा
+
+176
+00:10:07,120 --> 00:10:08,600
+that it will compare the values over
+कि यह मूल्यों की तुलना करेगा
+
+177
+00:10:08,600 --> 00:10:10,160
+here if they are same it won't compare
+यहाँ अगर वे समान हैं तो इसकी तुलना नहीं होगी
+
+178
+00:10:10,160 --> 00:10:12,160
+the data type but for the Triple equal
+डेटा प्रकार लेकिन ट्रिपल समान के लिए
+
+179
+00:10:12,160 --> 00:10:14,120
+to it will compare the data type as well
+इसके लिए डेटा प्रकार की तुलना भी होगी
+
+180
+00:10:14,120 --> 00:10:18,839
+as the value yeah yes sir and what you
+मूल्य के रूप में हाँ हाँ सर और आप क्या
+
+181
+00:10:18,839 --> 00:10:22,040
+told in true true triple equal
+सच्चे सच्चे ट्रिपल समान में बताया गया
+
+182
+00:10:22,040 --> 00:10:24,920
+to what will okay so
+क्या ठीक होगा
+
+183
+00:10:24,920 --> 00:10:27,680
+it okay it will give us
+यह ठीक है यह हमें देगा
+
+184
+00:10:27,680 --> 00:10:30,680
+false us false and for double equal to
+झूठी हमें गलत और दोगुनी के लिए बराबर
+
+185
+00:10:30,680 --> 00:10:33,160
+as well true
+साथ ही सच
+
+186
+00:10:33,160 --> 00:10:36,839
+double it will give give us false okay
+डबल यह हमें झूठा ठीक देगा
+
+187
+00:10:36,839 --> 00:10:40,120
+okay yes sir check your chat
+ठीक है हाँ सर अपनी चैट की जाँच करें
+
+188
+00:10:40,120 --> 00:10:42,920
+box yes
+बक्से हाँ
+
+189
+00:10:42,920 --> 00:10:46,800
+sir and tell me what will be
+सर और मुझे बताओ कि क्या होगा
+
+190
+00:10:46,800 --> 00:10:50,800
+the okay
+ठीक
+
+191
+00:11:00,120 --> 00:11:02,560
+okay so it will give us
+ठीक है तो यह हमें देगा
+
+192
+00:11:02,560 --> 00:11:06,880
+false why okay so what what we are doing
+झूठ क्यों ठीक है तो हम क्या कर रहे हैं
+
+193
+00:11:06,880 --> 00:11:08,800
+over here we are we have created this
+यहाँ हम हैं हमने इसे बनाया है
+
+194
+00:11:08,800 --> 00:11:11,360
+variable using let keyword and we are
+लेट कीवर्ड का उपयोग करके वैरिएबल और हम हैं
+
+195
+00:11:11,360 --> 00:11:13,920
+directly assigning it a value of 10 and
+सीधे इसे 10 और का मान असाइन करना
+
+196
+00:11:13,920 --> 00:11:15,760
+after that we have created another
+उसके बाद हमने एक और बनाया है
+
+197
+00:11:15,760 --> 00:11:18,120
+variable B which is which we have
+चर बी जो हमारे पास है
+
+198
+00:11:18,120 --> 00:11:20,240
+created using number Constructor and we
+नंबर कंस्ट्रक्टर का उपयोग करके बनाया गया है और हम
+
+199
+00:11:20,240 --> 00:11:22,240
+have put a new keyword over here so
+यहाँ पर एक नया कीवर्ड रखा है
+
+200
+00:11:22,240 --> 00:11:24,519
+whenever we use new keyword what it does
+जब भी हम नए कीवर्ड का उपयोग करते हैं तो यह क्या करता है
+
+201
+00:11:24,519 --> 00:11:26,959
+that it returns as an object so when we
+यह एक वस्तु के रूप में लौटता है जब हम
+
+202
+00:11:26,959 --> 00:11:28,959
+are comparing a triple equals to B we
+हम एक ट्रिपल के बराबर हैं हम b के बराबर हैं
+
+203
+00:11:28,959 --> 00:11:32,000
+are comparing a equals to the to an
+एक के बराबर की तुलना कर रहे हैं
+
+204
+00:11:32,000 --> 00:11:34,959
+object actually that we are returning
+वास्तव में हम लौट रहे हैं
+
+205
+00:11:34,959 --> 00:11:38,040
+from this new keyword so it will check
+इस नए कीवर्ड से यह जांच करेगा
+
+206
+00:11:38,040 --> 00:11:41,200
+the type you as well yes sir it will
+आप जिस प्रकार के रूप में अच्छी तरह से हाँ सर यह करेंगे
+
+207
+00:11:41,200 --> 00:11:44,560
+check the type as well okay okay take
+टाइप की जाँच करें ठीक है ठीक है ठीक है
+
+208
+00:11:44,560 --> 00:11:45,360
+this
+यह
+
+209
+00:11:45,360 --> 00:11:49,000
+one okay just a
+एक ठीक है बस एक
+
+210
+00:11:53,399 --> 00:11:56,720
+second uh before this uh tell me what's
+इस उह से पहले दूसरा उह मुझे बताओ कि क्या है
+
+211
+00:11:56,720 --> 00:11:58,920
+the concept of shallow copy and deep
+उथले कॉपी और गहरी की अवधारणा
+
+212
+00:11:58,920 --> 00:12:00,360
+copy
+कॉपी
+
+213
+00:12:00,360 --> 00:12:04,000
+got it okay so whenever we are doing
+जब भी हम कर रहे हों तो ठीक हो गया
+
+214
+00:12:04,000 --> 00:12:05,760
+shallow copy shallow copy basically
+उथले कॉपी उथले कॉपी मूल रूप से
+
+215
+00:12:05,760 --> 00:12:08,800
+means that you are coping an object to
+इसका मतलब है कि आप किसी वस्तु का सामना कर रहे हैं
+
+216
+00:12:08,800 --> 00:12:11,839
+another object but you just comparing
+एक और वस्तु लेकिन आप बस तुलना कर रहे हैं
+
+217
+00:12:11,839 --> 00:12:14,399
+the uh you're just copying all the
+उह आप बस सभी की नकल कर रहे हैं
+
+218
+00:12:14,399 --> 00:12:17,079
+properties but only the properties that
+गुण लेकिन केवल गुण जो
+
+219
+00:12:17,079 --> 00:12:20,160
+are on the top of the hierarchy that are
+पदानुक्रम के शीर्ष पर हैं जो हैं
+
+220
+00:12:20,160 --> 00:12:22,440
+outermost properties they will have a
+सबसे बाहरी गुण उनके पास एक होगा
+
+221
+00:12:22,440 --> 00:12:24,279
+new reference whenever they are copied
+नया संदर्भ जब भी उन्हें कॉपी किया जाता है
+
+222
+00:12:24,279 --> 00:12:27,120
+into another object but when you have
+किसी अन्य वस्तु में लेकिन जब आपके पास हो
+
+223
+00:12:27,120 --> 00:12:29,320
+nested objects they won't have a new
+नेस्टेड ऑब्जेक्ट्स में वे एक नया नहीं होंगे
+
+224
+00:12:29,320 --> 00:12:31,920
+reference they will still point to the
+संदर्भ वे अभी भी इंगित करेंगे
+
+225
+00:12:31,920 --> 00:12:34,760
+old address that was inside the um
+पुराना पता जो उम के अंदर था
+
+226
+00:12:34,760 --> 00:12:38,320
+original object but in case of deep copy
+मूल वस्तु लेकिन गहरी प्रति के मामले में
+
+227
+00:12:38,320 --> 00:12:40,920
+as well as these dope hierarchical
+साथ ही इन डोप पदानुक्रमित
+
+228
+00:12:40,920 --> 00:12:43,360
+properties will have a new reference as
+गुण के रूप में एक नया संदर्भ होगा
+
+229
+00:12:43,360 --> 00:12:45,839
+well as those in nested objects will
+साथ ही नेस्टेड ऑब्जेक्ट्स में वे होंगे
+
+230
+00:12:45,839 --> 00:12:48,680
+have a a new reference in the memory
+मेमोरी में एक नया संदर्भ है
+
+231
+00:12:48,680 --> 00:12:53,680
+address okay okay so tell me what uh
+पता ठीक है ठीक है तो मुझे बताओ कि उह क्या है
+
+232
+00:12:53,680 --> 00:12:55,519
+what's the concept here and tell me
+यहाँ क्या अवधारणा है और मुझे बताओ
+
+233
+00:12:55,519 --> 00:12:58,320
+what's the output got it got it so what
+आउटपुट क्या मिला है, यह क्या मिला है
+
+234
+00:12:58,320 --> 00:13:00,600
+we are doing over here that we have this
+हम यहाँ कर रहे हैं कि हमारे पास यह है
+
+235
+00:13:00,600 --> 00:13:03,959
+a object basically which pres represents
+मूल रूप से एक वस्तु जो प्रस्तुत करती है
+
+236
+00:13:03,959 --> 00:13:07,720
+this uh this others actually name other
+यह उह यह अन्य वास्तव में अन्य नाम है
+
+237
+00:13:07,720 --> 00:13:11,040
+so this is basically a top hierarchical
+तो यह मूल रूप से एक शीर्ष पदानुक्रमित है
+
+238
+00:13:11,040 --> 00:13:13,720
+property so it will go and create our
+संपत्ति तो यह जाएगा और हमारे निर्माण करेगा
+
+239
+00:13:13,720 --> 00:13:17,320
+object and inside that we are extracting
+वस्तु और अंदर हम निकाल रहे हैं
+
+240
+00:13:17,320 --> 00:13:21,120
+this properties of this object a object
+इस ऑब्जेक्ट के यह गुण एक वस्तु
+
+241
+00:13:21,120 --> 00:13:23,079
+so there we have something like this
+तो वहाँ हमारे पास कुछ है
+
+242
+00:13:23,079 --> 00:13:26,920
+again what and now I'm doing that Z do
+फिर से क्या और अब मैं कर रहा हूँ कि z करते हैं
+
+243
+00:13:26,920 --> 00:13:29,639
+name so Z do name basically represent
+नाम तो z do नाम मूल रूप से प्रतिनिधित्व करता है
+
+244
+00:13:29,639 --> 00:13:32,480
+the uh this name actually that we have
+उह यह नाम वास्तव में हमारे पास है
+
+245
+00:13:32,480 --> 00:13:35,000
+created inside name and it will be
+नाम के अंदर बनाया गया है और यह होगा
+
+246
+00:13:35,000 --> 00:13:39,079
+reinitialized with the um Adil actually
+वास्तव में उम आदिल के साथ पुनर्निवेशित
+
+247
+00:13:39,079 --> 00:13:42,399
+and instead we have the over here Adil
+और इसके बजाय हमारे पास यहाँ आदिल है
+
+248
+00:13:42,399 --> 00:13:44,199
+but when we are trying to access the
+लेकिन जब हम एक्सेस करने की कोशिश कर रहे हैं
+
+249
+00:13:44,199 --> 00:13:47,600
+original object that we have here we are
+मूल वस्तु जो हमारे पास है यहाँ हम हैं
+
+250
+00:13:47,600 --> 00:13:51,399
+trying to access it using a do name and
+एक नाम और उपयोग का उपयोग करके इसे एक्सेस करने की कोशिश कर रहा है
+
+251
+00:13:51,399 --> 00:13:53,839
+here I have made a show uh I have
+यहाँ मैंने एक शो उह बनाया है जो मेरे पास है
+
+252
+00:13:53,839 --> 00:13:56,079
+created a shallow copy basically this is
+मूल रूप से एक उथली प्रतिलिपि बनाई गई है
+
+253
+00:13:56,079 --> 00:13:59,279
+a top hierarchy property so it will be
+एक शीर्ष पदानुक्रम संपत्ति तो यह होगा
+
+254
+00:13:59,279 --> 00:14:01,000
+uh it will be having a new reference
+उह यह एक नया संदर्भ होगा
+
+255
+00:14:01,000 --> 00:14:03,839
+inside my second object so it will give
+मेरी दूसरी वस्तु के अंदर तो यह देगा
+
+256
+00:14:03,839 --> 00:14:05,680
+us me others only when I'm going to
+जब मैं जा रहा हूँ तो मुझे दूसरों के लिए
+
+257
+00:14:05,680 --> 00:14:09,880
+print it other yes sir
+इसे अन्य हाँ सर प्रिंट करें
+
+258
+00:14:09,880 --> 00:14:12,880
+okay
+ठीक है
+
+259
+00:14:13,639 --> 00:14:16,959
+uh uh can you check the comment
+उह उह आप टिप्पणी की जांच कर सकते हैं
+
+260
+00:14:16,959 --> 00:14:19,639
+box
+डिब्बा
+
+261
+00:14:19,639 --> 00:14:23,639
+yeah okay
+हाँ ठीक है
+
+262
+00:14:30,240 --> 00:14:33,800
+okay in this case what I get is uh uh
+ठीक है इस मामले में मुझे क्या मिलता है उह उह
+
+263
+00:14:33,800 --> 00:14:35,920
+one
+एक
+
+264
+00:14:35,920 --> 00:14:39,759
+and uh what I'm doing over here okay so
+और उह मैं यहाँ पर क्या कर रहा हूँ ठीक है
+
+265
+00:14:39,759 --> 00:14:42,000
+let me explain this first uh what I'm
+मुझे यह पहले उह समझाने दो मैं क्या हूँ
+
+266
+00:14:42,000 --> 00:14:45,079
+getting over here is uh I have added
+यहाँ पर पहुंचना उह है जो मैंने जोड़ा है
+
+267
+00:14:45,079 --> 00:14:47,279
+unary operator in front of true
+सच के सामने unary ऑपरेटर
+
+268
+00:14:47,279 --> 00:14:50,160
+basically it EV it will evaluate the
+मूल रूप से यह ईवी का मूल्यांकन करेगा
+
+269
+00:14:50,160 --> 00:14:52,440
+expression uh it will evaluate this true
+अभिव्यक्ति उह यह इस सच का मूल्यांकन करेगा
+
+270
+00:14:52,440 --> 00:14:55,000
+as to be one and I'll get the one as
+एक होने के लिए और मैं एक के रूप में मिल जाएगा
+
+271
+00:14:55,000 --> 00:14:58,120
+output and then I have this negation of
+आउटपुट और फिर मेरे पास यह नकार है
+
+272
+00:14:58,120 --> 00:15:00,600
+something written so basically it is
+कुछ लिखा है तो मूल रूप से यह है
+
+273
+00:15:00,600 --> 00:15:03,680
+true in in starting and after that what
+शुरू में और उसके बाद क्या में सच है
+
+274
+00:15:03,680 --> 00:15:06,440
+I'm doing I'm making it false so it will
+मैं कर रहा हूँ मैं इसे गलत बना रहा हूँ इसलिए यह होगा
+
+275
+00:15:06,440 --> 00:15:09,240
+give me result as false okay fine yes
+मुझे परिणाम के रूप में गलत ठीक है ठीक है हाँ
+
+276
+00:15:09,240 --> 00:15:11,440
+sir
+महोदय
+
+277
+00:15:11,440 --> 00:15:16,240
+uh okay can you write an example for
+उह ठीक है आप के लिए एक उदाहरण लिख सकते हैं
+
+278
+00:15:16,240 --> 00:15:19,759
+function just a
+बस एक समारोह
+
+279
+00:15:20,320 --> 00:15:23,480
+second okay
+द्वितीय
+
+280
+00:15:23,480 --> 00:15:26,279
+function C
+समारोह सी
+
+281
+00:15:26,279 --> 00:15:29,000
+function and I want um multip
+समारोह और मुझे उम गुण चाहिए
+
+282
+00:15:29,000 --> 00:15:31,560
+application of three numbers any three
+तीन नंबरों का आवेदन किसी भी तीन
+
+283
+00:15:31,560 --> 00:15:36,000
+numbers cut it sir
+संख्या ने इसे काट दिया सर
+
+284
+00:15:47,010 --> 00:15:50,500
+[Music]
+[संगीत]
+
+285
+00:16:18,120 --> 00:16:20,279
+okay okay so what I'm doing over here
+ठीक है ठीक है तो मैं यहाँ क्या कर रहा हूँ
+
+286
+00:16:20,279 --> 00:16:22,120
+that I have made this function name
+कि मैंने इस फ़ंक्शन का नाम बनाया है
+
+287
+00:16:22,120 --> 00:16:24,399
+Curry function inside that I'm returning
+करी फंक्शन अंदर है कि मैं लौट रहा हूं
+
+288
+00:16:24,399 --> 00:16:27,240
+a function Anonymous function basically
+मूल रूप से एक फ़ंक्शन अनाम कार्य
+
+289
+00:16:27,240 --> 00:16:29,800
+and uh I don't need this this actually
+और उह मुझे यह वास्तव में इसकी आवश्यकता नहीं है
+
+290
+00:16:29,800 --> 00:16:32,920
+so yeah I am returning Anonymous
+तो हाँ, मैं अनाम लौट रहा हूँ
+
+291
+00:16:32,920 --> 00:16:34,800
+function which is basically taking
+फ़ंक्शन जो मूल रूप से ले रहा है
+
+292
+00:16:34,800 --> 00:16:37,279
+another argument as B and inside that
+बी और अंदर के रूप में एक और तर्क
+
+293
+00:16:37,279 --> 00:16:39,560
+function what I'm doing I'm multiplying
+मैं जो कर रहा हूं वह मैं गुणा कर रहा हूं
+
+294
+00:16:39,560 --> 00:16:41,920
+these two variables actually as soon as
+ये दोनों चर वास्तव में जितनी जल्दी हो सके
+
+295
+00:16:41,920 --> 00:16:43,839
+it will be called with another variable
+इसे एक और चर के साथ कहा जाएगा
+
+296
+00:16:43,839 --> 00:16:45,920
+it will multiply and after that what I'm
+यह कई गुना होगा और उसके बाद मैं क्या हूँ
+
+297
+00:16:45,920 --> 00:16:49,720
+doing I'm passing mult over here and uh
+कर रहा हूँ मैं यहाँ और उह पर बहु ​​पारित हो रहा हूँ
+
+298
+00:16:49,720 --> 00:16:56,360
+just a sec okay I'll just do this
+बस एक सेकंड ठीक है मैं बस यह करूँगा
+
+299
+00:16:56,360 --> 00:17:00,360
+um um just a second okay I'll return uh
+उम उम बस एक सेकंड ठीक है मैं वापस लौटूंगा
+
+300
+00:17:00,360 --> 00:17:02,319
+something from here which will be the
+यहाँ से कुछ जो होगा
+
+301
+00:17:02,319 --> 00:17:06,240
+result actually rest equals to A star uh
+परिणाम वास्तव में एक स्टार उह के बराबर है
+
+302
+00:17:06,240 --> 00:17:09,919
+not a star I'll just do mult star C so
+एक स्टार नहीं मैं सिर्फ मल्टी स्टार सी करूँगा
+
+303
+00:17:09,919 --> 00:17:12,359
+what I'm doing over here that when I'll
+मैं यहाँ क्या कर रहा हूँ कि मैं कब करूँगा
+
+304
+00:17:12,359 --> 00:17:13,720
+call this function I'll call this
+इस फ़ंक्शन को कॉल करें मैं इसे कॉल करूंगा
+
+305
+00:17:13,720 --> 00:17:16,839
+function with a and uh I'll return
+एक और उह के साथ कार्य करेंगे मैं वापस आऊंगा
+
+306
+00:17:16,839 --> 00:17:18,679
+another function from here and I'm
+यहाँ से एक और कार्य और मैं
+
+307
+00:17:18,679 --> 00:17:20,640
+storing that reference somewhere and I'm
+उस संदर्भ को कहीं न कहीं संग्रहीत करना और मैं हूँ
+
+308
+00:17:20,640 --> 00:17:23,720
+again calling this function with B uh uh
+फिर से इस फ़ंक्शन को b uh uh के साथ कॉल करना
+
+309
+00:17:23,720 --> 00:17:25,839
+with with some another value and after
+कुछ और मूल्य के साथ और उसके बाद
+
+310
+00:17:25,839 --> 00:17:28,000
+that inside that function I'm creating
+उस फ़ंक्शन के अंदर मैं बना रहा हूं
+
+311
+00:17:28,000 --> 00:17:29,640
+the multiplication of these two
+इन दोनों का गुणन
+
+312
+00:17:29,640 --> 00:17:32,000
+variables which will give me some result
+चर जो मुझे कुछ परिणाम देंगे
+
+313
+00:17:32,000 --> 00:17:33,840
+and after that I'm again returning a
+और उसके बाद मैं फिर से लौट रहा हूं
+
+314
+00:17:33,840 --> 00:17:35,919
+function which will be executed and it
+फ़ंक्शन जिसे निष्पादित किया जाएगा और यह
+
+315
+00:17:35,919 --> 00:17:38,360
+will take the argument with the help of
+की मदद से तर्क ले जाएगा
+
+316
+00:17:38,360 --> 00:17:41,440
+closures actually okay what is going on
+क्लोजर वास्तव में ठीक है कि क्या चल रहा है
+
+317
+00:17:41,440 --> 00:17:43,280
+over here that this function this Auto
+यहाँ पर कि यह ऑटो कार्य करता है
+
+318
+00:17:43,280 --> 00:17:45,200
+function will uh will be executed
+फ़ंक्शन उह को निष्पादित किया जाएगा
+
+319
+00:17:45,200 --> 00:17:48,240
+earlier uh would have been executed but
+इससे पहले उह को निष्पादित किया गया होगा लेकिन
+
+320
+00:17:48,240 --> 00:17:50,559
+it will still hold the uh there's a
+यह अभी भी उह को पकड़ लेगा
+
+321
+00:17:50,559 --> 00:17:53,240
+reference to the old variable that was
+पुराने चर का संदर्भ जो था
+
+322
+00:17:53,240 --> 00:17:55,200
+created outside it actually in the
+वास्तव में इसके बाहर बनाया गया
+
+323
+00:17:55,200 --> 00:17:57,559
+lexical scope of that parent uh of that
+उस माता -पिता का शाब्दिक दायरा उह
+
+324
+00:17:57,559 --> 00:18:01,440
+function and it will execute it and it
+कार्य और यह इसे और इसे निष्पादित करेगा
+
+325
+00:18:01,440 --> 00:18:05,039
+will just multiply the that that the
+बस उस गुणा को गुणा करेगा
+
+326
+00:18:05,039 --> 00:18:08,159
+result outside it Le uh result in its
+इसके बाहर परिणाम ले uh परिणाम इसके बारे में
+
+327
+00:18:08,159 --> 00:18:10,799
+lexical scope and to the variable that
+लेक्सिकल स्कोप और चर के लिए
+
+328
+00:18:10,799 --> 00:18:13,280
+I'm passing to this function and it will
+मैं इस फ़ंक्शन के लिए गुजर रहा हूं और यह होगा
+
+329
+00:18:13,280 --> 00:18:16,320
+return me that result okay yes sir go
+मुझे वह परिणाम वापस लौटाओ ठीक है हाँ सर जाओ
+
+330
+00:18:16,320 --> 00:18:19,039
+ahead uh show me the output
+आगे उह मुझे आउटपुट दिखाओ
+
+331
+00:18:19,039 --> 00:18:25,240
+of sure sir okay let me pass two then it
+यकीन है कि सर ठीक है मुझे दो पास करने दो तो यह
+
+332
+00:18:25,240 --> 00:18:27,559
+will return me function I'll execute it
+मुझे फ़ंक्शन वापस कर दूंगा मैं इसे निष्पादित करूंगा
+
+333
+00:18:27,559 --> 00:18:30,280
+over here 2
+यहाँ पर 2
+
+334
+00:18:30,280 --> 00:18:38,200
+three then again two so it will me see
+तीन फिर फिर से दो तो यह मुझे देखेगा
+
+335
+00:18:39,520 --> 00:18:44,679
+okay uh I don't need to L uh I
+ठीक है उह मुझे l uh की जरूरत नहीं है
+
+336
+00:18:44,679 --> 00:18:46,180
+have
+पास होना
+
+337
+00:18:46,180 --> 00:18:48,080
+[Music]
+[संगीत]
+
+338
+00:18:48,080 --> 00:18:51,080
+okay um what did you
+ठीक है उम तुमने क्या किया
+
+339
+00:18:51,080 --> 00:18:54,600
+say can you zoom it please yes sir just
+कह सकते हैं कि आप इसे ज़ूम कर सकते हैं कृपया हाँ सर बस
+
+340
+00:18:54,600 --> 00:18:56,240
+a
+ए
+
+341
+00:18:56,240 --> 00:18:59,840
+second um
+द्वितीय वाला
+
+342
+00:18:59,840 --> 00:19:03,720
+okay is it visible to you sir yeah okay
+ठीक है यह आपको दिखाई दे रहा है सर हाँ ठीक है
+
+343
+00:19:03,720 --> 00:19:05,799
+so what I have done over here that uh
+तो मैंने यहाँ क्या किया है कि उह
+
+344
+00:19:05,799 --> 00:19:08,200
+when I did not script it it gave me
+जब मैंने स्क्रिप्ट नहीं की तो उसने मुझे दिया
+
+345
+00:19:08,200 --> 00:19:11,360
+result 12 how it worked that
+परिणाम 12 यह कैसे काम किया
+
+346
+00:19:11,360 --> 00:19:14,520
+uh is I called this function and it
+उह मैं इस फ़ंक्शन और यह कहा जाता है
+
+347
+00:19:14,520 --> 00:19:16,679
+returned me another function I call this
+मुझे एक और फ़ंक्शन लौटा दिया जिसे मैं यह कहता हूं
+
+348
+00:19:16,679 --> 00:19:18,480
+function with two and it returned me
+दो के साथ कार्य और इसने मुझे लौटा दिया
+
+349
+00:19:18,480 --> 00:19:19,919
+another function I executed that
+एक और फ़ंक्शन मैंने इसे निष्पादित किया
+
+350
+00:19:19,919 --> 00:19:22,159
+function immediately it was returned so
+फ़ंक्शन तुरंत इसे वापस कर दिया गया था
+
+351
+00:19:22,159 --> 00:19:24,159
+it I provided it another expression
+यह मैंने इसे एक और अभिव्यक्ति प्रदान किया
+
+352
+00:19:24,159 --> 00:19:25,919
+which was two and then three so
+जो दो और फिर तीन थे
+
+353
+00:19:25,919 --> 00:19:27,679
+basically two and three and two and
+मूल रूप से दो और तीन और दो और
+
+354
+00:19:27,679 --> 00:19:29,960
+three both go multip M lied over here
+तीन दोनों लोग यहाँ पर झूठ बोलते हैं
+
+355
+00:19:29,960 --> 00:19:32,679
+and that value was uh stored somewhere
+और यह मान उह कहीं संग्रहीत था
+
+356
+00:19:32,679 --> 00:19:34,400
+and after that I returned another
+और उसके बाद मैं एक और लौटा
+
+357
+00:19:34,400 --> 00:19:35,919
+function that I executed immediately
+कार्य जो मैंने तुरंत निष्पादित किया
+
+358
+00:19:35,919 --> 00:19:38,640
+with the value of two so when I had read
+दो के मूल्य के साथ जब मैंने पढ़ा था
+
+359
+00:19:38,640 --> 00:19:41,000
+that I just returned that result which
+कि मैं अभी वह परिणाम लौटा दिया जो
+
+360
+00:19:41,000 --> 00:19:43,600
+was six I got from here and then I
+छह था मैं यहाँ से मिला और फिर मैं
+
+361
+00:19:43,600 --> 00:19:47,039
+provided two from uh this expression and
+इस अभिव्यक्ति से उह से दो प्रदान किए गए और
+
+362
+00:19:47,039 --> 00:19:49,720
+it got multili 6 into 2 12 it returned
+यह मल्टीली 6 में 2 12 में वापस आ गया
+
+363
+00:19:49,720 --> 00:19:53,600
+me the result okay than cool
+मुझे शांत से ठीक है
+
+364
+00:19:53,600 --> 00:19:56,640
+uh okay uh can you
+उह ठीक है उह आप कर सकते हैं
+
+365
+00:19:56,640 --> 00:20:00,640
+create uh
+उह बनाएँ
+
+366
+00:20:00,720 --> 00:20:04,760
+a function yes sir where you have to
+एक समारोह हाँ सर जहां आपको करना है
+
+367
+00:20:04,760 --> 00:20:09,400
+emerge merge the two strings
+उभरते हैं दो तार मर्ज
+
+368
+00:20:10,039 --> 00:20:13,720
+alternativ okay you got my point yes sir
+अल्टरनेटिव ठीक है आपको मेरी बात मिल गई है हाँ सर
+
+369
+00:20:13,720 --> 00:20:18,960
+uh so okay let me show an example con s
+उह तो ठीक है मुझे एक उदाहरण शंकु दिखाते हैं
+
+370
+00:20:18,960 --> 00:20:23,679
+str1 equals to maybe um so hello I'll
+str1 शायद उम के बराबर है तो नमस्ते मैं
+
+371
+00:20:23,679 --> 00:20:26,440
+I'll keep the string small for now yeah
+मैं अभी के लिए स्ट्रिंग को छोटा रखूंगा
+
+372
+00:20:26,440 --> 00:20:29,760
+yeah and then hello world okay so what
+हाँ और फिर नमस्ते दुनिया ठीक है तो क्या
+
+373
+00:20:29,760 --> 00:20:32,360
+you are seeing me to do as I'm able to
+आप मुझे ऐसा करने के लिए देख रहे हैं जैसा कि मैं सक्षम हूं
+
+374
+00:20:32,360 --> 00:20:35,080
+understand I have to get a string three
+समझें मुझे एक स्ट्रिंग तीन प्राप्त करना है
+
+375
+00:20:35,080 --> 00:20:38,919
+let me just string 3 equals to it will
+मुझे बस स्ट्रिंग 3 इसके बराबर है
+
+376
+00:20:38,919 --> 00:20:44,520
+be something like this h w e uh sorry h
+इस तरह से कुछ होना चाहिए h w e uh सॉरी h
+
+377
+00:20:44,520 --> 00:20:50,000
+w e o l r l l o d something like this
+w e o l l r l l o d d कुछ इस तरह
+
+378
+00:20:50,000 --> 00:20:54,320
+yes yes and suppose if after World there
+हाँ हाँ और मान लीजिए कि क्या दुनिया के बाद वहाँ
+
+379
+00:20:54,320 --> 00:20:58,400
+is 1 2 3 4 so it should arrive 1 2 3 4
+1 2 3 4 है इसलिए यह 1 2 3 4 पर पहुंचना चाहिए
+
+380
+00:20:58,400 --> 00:21:02,320
+okay okay okay and after and vice versa
+ठीक है ठीक है ठीक है और इसके बाद और इसके विपरीत
+
+381
+00:21:02,320 --> 00:21:05,400
+for if in string one there is 1 2 3 4
+यदि स्ट्रिंग में एक है तो 1 2 3 4 है
+
+382
+00:21:05,400 --> 00:21:07,679
+then it should appear 1 2 3 the
+तब यह 1 2 3 दिखाई देना चाहिए
+
+383
+00:21:07,679 --> 00:21:09,600
+remaining strings should the remaining
+शेष तार शेष होना चाहिए
+
+384
+00:21:09,600 --> 00:21:14,080
+Str should be there got it yeah okay um
+Str होना चाहिए यह हाँ ठीक है उम
+
+385
+00:21:14,080 --> 00:21:15,919
+okay so what I'm thinking over here to
+ठीक है तो मैं यहाँ पर क्या सोच रहा हूँ
+
+386
+00:21:15,919 --> 00:21:20,000
+do that I will create um okay what I'm
+ऐसा करो कि मैं उम ठीक बनाऊंगा कि मैं क्या हूं
+
+387
+00:21:20,000 --> 00:21:23,360
+doing trying to do over here that I will
+यहाँ पर करने की कोशिश कर रहा हूँ कि मैं करूँगा
+
+388
+00:21:23,360 --> 00:21:25,120
+iterate over this string actually at
+वास्तव में इस स्ट्रिंग पर पुनरावृत्ति
+
+389
+00:21:25,120 --> 00:21:28,200
+First I'll do something like this for uh
+पहले मैं उह के लिए ऐसा कुछ करूँगा
+
+390
+00:21:28,200 --> 00:21:29,200
+I
+मैं
+
+391
+00:21:29,200 --> 00:21:31,120
+okay I have two variables actually I'll
+ठीक है मेरे पास दो चर हैं जो वास्तव में मैं हूँ
+
+392
+00:21:31,120 --> 00:21:33,279
+have two variables which will be
+दो चर हैं जो होंगे
+
+393
+00:21:33,279 --> 00:21:36,279
+something like this let I and J what
+कुछ इस तरह से मैं और जे क्या करते हैं
+
+394
+00:21:36,279 --> 00:21:38,279
+I'll do that I'll create them outside
+मैं ऐसा करूँगा कि मैं उन्हें बाहर बनाऊंगा
+
+395
+00:21:38,279 --> 00:21:42,200
+the loop and I will start iterating over
+लूप और मैं खत्म हो जाना शुरू कर देंगे
+
+396
+00:21:42,200 --> 00:21:45,279
+this string actually so as soon as one
+यह स्ट्रिंग वास्तव में एक के रूप में जल्द ही
+
+397
+00:21:45,279 --> 00:21:47,679
+of the string comes to end I will uh
+स्ट्रिंग के अंत में आता है मैं उह होगा
+
+398
+00:21:47,679 --> 00:21:49,840
+I'll I'll have something some condition
+मैं कुछ हालत में हूँ
+
+399
+00:21:49,840 --> 00:21:51,880
+like that uh if that if any of the
+उस उह की तरह अगर कोई भी अगर कोई है
+
+400
+00:21:51,880 --> 00:21:54,919
+string is ended actually if that index
+स्ट्रिंग वास्तव में समाप्त हो जाती है अगर वह सूचकांक
+
+401
+00:21:54,919 --> 00:21:56,720
+is over what I'll do I'll store the
+मैं जो करूँगा वह मैं स्टोर करूँगा
+
+402
+00:21:56,720 --> 00:21:59,120
+reference of I or J
+I या J का संदर्भ
+
+403
+00:21:59,120 --> 00:22:01,120
+and I will compare that with the help of
+और मैं इसकी मदद से तुलना करूंगा
+
+404
+00:22:01,120 --> 00:22:04,000
+while loop actually so I'll do something
+जबकि लूप वास्तव में इसलिए मैं कुछ करूँगा
+
+405
+00:22:04,000 --> 00:22:07,520
+like this while I is I mean uh while I
+इस तरह से जब मैं हूं तो मेरा मतलब है उह जबकि मैं
+
+406
+00:22:07,520 --> 00:22:09,559
+for example in this Loop actually while
+उदाहरण के लिए इस लूप में वास्तव में जबकि
+
+407
+00:22:09,559 --> 00:22:11,440
+I is still less than the length of this
+मैं अभी भी इस की लंबाई से कम है
+
+408
+00:22:11,440 --> 00:22:13,799
+second string I'll still still iterate
+दूसरा स्ट्रिंग मैं अभी भी पुनरावृत्ति करूँगा
+
+409
+00:22:13,799 --> 00:22:16,440
+over that and for in the result array
+उस पर और परिणाम सरणी के लिए
+
+410
+00:22:16,440 --> 00:22:18,880
+I'll keep adding this U the result
+मैं इस परिणाम को जोड़ता रहूंगा
+
+411
+00:22:18,880 --> 00:22:21,559
+actually it should be vice versa as well
+वास्तव में यह इसके विपरीत भी होना चाहिए
+
+412
+00:22:21,559 --> 00:22:24,120
+right yes sir yes sir okay so that's why
+ठीक है हाँ सर हाँ सर ठीक है तो क्यों
+
+413
+00:22:24,120 --> 00:22:27,360
+I have I need two variables to hold the
+मुझे पकड़ने के लिए मुझे दो चर की आवश्यकता है
+
+414
+00:22:27,360 --> 00:22:29,520
+indexes okay
+अनुक्रमित ठीक है
+
+415
+00:22:29,520 --> 00:22:33,919
+yes so I'll create this uh string
+हां तो मैं इस उह स्ट्रिंग को बनाऊंगा
+
+416
+00:22:33,919 --> 00:22:38,880
+rest and R equals to for now it is
+आराम और आर अब के लिए बराबर है
+
+417
+00:22:38,880 --> 00:22:43,039
+empty and what I'm doing over here
+खाली और मैं यहाँ क्या कर रहा हूँ
+
+418
+00:22:43,039 --> 00:22:46,480
+not okay
+ठीक नहीं
+
+419
+00:22:46,520 --> 00:22:50,720
+for let I = to
+के लिए मैं = करने के लिए
+
+420
+00:22:54,919 --> 00:22:56,480
+Z
+जेड
+
+421
+00:22:56,480 --> 00:22:59,360
+okay um
+ठीक एक
+
+422
+00:22:59,360 --> 00:23:02,480
+just a second I'm thinking how can I do
+बस एक सेकंड मैं सोच रहा हूं कि मैं कैसे कर सकता हूं
+
+423
+00:23:02,480 --> 00:23:05,960
+it in a better
+यह एक बेहतर में
+
+424
+00:23:06,320 --> 00:23:11,760
+way let's just it you can zoom a little
+रास्ता चलो बस यह आप थोड़ा ज़ूम कर सकते हैं
+
+425
+00:23:11,760 --> 00:23:17,559
+a little yeah yeah okay sir is less
+थोड़ा हाँ हाँ ठीक है सर कम है
+
+426
+00:23:17,880 --> 00:23:22,039
+than s str1 dot
+STR1 डॉट की तुलना में
+
+427
+00:23:22,039 --> 00:23:25,039
+length
+लंबाई
+
+428
+00:23:26,039 --> 00:23:29,000
+i++ um
+मैं ++ एक
+
+429
+00:23:29,000 --> 00:23:31,880
+did I make
+क्या मैंने बनाया?
+
+430
+00:23:32,279 --> 00:23:35,240
+mistake
+गलती
+
+431
+00:23:35,240 --> 00:23:38,880
+okay I need my classes actually I
+ठीक है मुझे वास्तव में मेरी कक्षाओं की आवश्यकता है
+
+432
+00:23:38,880 --> 00:23:45,240
+guess just a second then okay I'll start
+लगता है बस एक सेकंड तो ठीक है मैं शुरू करूँगा
+
+433
+00:23:45,240 --> 00:23:48,240
+comparing
+की तुलना
+
+434
+00:23:49,520 --> 00:23:52,640
+and okay okay then I'll do something
+और ठीक है ठीक है तो मैं कुछ करूँगा
+
+435
+00:23:52,640 --> 00:23:56,640
+like this test. push
+इस परीक्षण की तरह। धकेलना
+
+436
+00:23:59,919 --> 00:24:01,799
+I'll just hold in another variable
+मैं सिर्फ एक और चर में पकड़ लूंगा
+
+437
+00:24:01,799 --> 00:24:07,240
+actually I'll create this let IAL to
+वास्तव में मैं इसे बनाने के लिए इसे बनाऊंगा
+
+438
+00:24:09,200 --> 00:24:12,640
+Z oh okay that was the mistake I put
+Z ओह ठीक है कि गलती मैंने डाली थी
+
+439
+00:24:12,640 --> 00:24:15,640
+comma by mistake
+गलती से अल्पविराम
+
+440
+00:24:18,000 --> 00:24:23,640
+and and and rest no that's not
+और और बाकी नहीं यह नहीं है
+
+441
+00:24:23,640 --> 00:24:26,840
+push equal to rest
+आराम के बराबर धक्का
+
+442
+00:24:26,840 --> 00:24:29,000
+plus uh s
+प्लस उह एस
+
+443
+00:24:29,000 --> 00:24:32,000
+Str
+एसटीआर
+
+444
+00:24:35,240 --> 00:24:38,600
+1 of
+1 का
+
+445
+00:24:39,120 --> 00:24:42,200
+I okay so what I'm doing over here that
+मैं ठीक हूं तो मैं यहाँ क्या कर रहा हूँ
+
+446
+00:24:42,200 --> 00:24:47,600
+uh I'm pushing it here
+उह मैं इसे यहाँ धक्का दे रहा हूँ
+
+447
+00:24:47,960 --> 00:24:50,520
+and
+और
+
+448
+00:24:50,520 --> 00:24:55,600
+okay and I have to check also I is less
+ठीक है और मुझे यह भी जांचना है कि मैं कम है
+
+449
+00:24:55,600 --> 00:24:59,799
+than Str str2 length
+Str2 की लंबाई से
+
+450
+00:25:00,640 --> 00:25:02,360
+okay so what I'm doing over here that I
+ठीक है तो मैं यहाँ क्या कर रहा हूँ कि मैं
+
+451
+00:25:02,360 --> 00:25:05,480
+am iterating with the help of this Loop
+इस लूप की मदद से iterating हूँ
+
+452
+00:25:05,480 --> 00:25:08,480
+what I'm doing I have started with the
+मैं जो कर रहा हूं वह मैंने शुरू किया है
+
+453
+00:25:08,480 --> 00:25:11,480
+uh zeroth index and I'm checking if my I
+उह शून्य सूचकांक और मैं जाँच कर रहा हूँ अगर मेरी मैं
+
+454
+00:25:11,480 --> 00:25:15,279
+is smaller than uh string 1 do length
+उह स्ट्रिंग 1 की तुलना में छोटा है
+
+455
+00:25:15,279 --> 00:25:18,240
+and I'm checking if that and I'm am
+और मैं जाँच कर रहा हूँ कि अगर वह और मैं हूँ
+
+456
+00:25:18,240 --> 00:25:20,919
+comparing again if that is the case with
+फिर से तुलना करना अगर ऐसा है
+
+457
+00:25:20,919 --> 00:25:22,760
+the string two dot length actually
+स्ट्रिंग दो डॉट लंबाई वास्तव में
+
+458
+00:25:22,760 --> 00:25:25,120
+length of the second string and if
+दूसरे स्ट्रिंग की लंबाई और अगर
+
+459
+00:25:25,120 --> 00:25:27,760
+that's the case I'll just uh go ahead
+यही कारण है कि मैं बस उह आगे जाऊंगा
+
+460
+00:25:27,760 --> 00:25:30,679
+and I I will push this sorry not push
+और मैं इस खेद को धक्का नहीं दूंगा
+
+461
+00:25:30,679 --> 00:25:36,159
+but I'll add this string one of I to the
+लेकिन मैं इस स्ट्रिंग को मैं में से एक जोड़ दूंगा
+
+462
+00:25:36,159 --> 00:25:41,159
+uh rest to the rest and yeah so I have
+उह आराम करने के लिए और हाँ तो मेरे पास है
+
+463
+00:25:41,159 --> 00:25:43,360
+to also
+भी
+
+464
+00:25:43,360 --> 00:25:46,600
+add okay
+ठीक हो जाना
+
+465
+00:25:46,600 --> 00:25:52,799
+then rest equals to rest plus s of S2 of
+फिर आराम से बाकी के s2 के बराबर होता है
+
+466
+00:25:52,799 --> 00:25:56,159
+I something like this so it will do
+मैं कुछ इस तरह से ऐसा करेगा
+
+467
+00:25:56,159 --> 00:25:57,559
+something like this in the first
+पहले में ऐसा कुछ
+
+468
+00:25:57,559 --> 00:25:59,480
+iteration
+यात्रा
+
+469
+00:25:59,480 --> 00:26:01,880
+sir a second yes
+सर एक दूसरा हाँ
+
+470
+00:26:01,880 --> 00:26:07,880
+sir see there is a end operator yes sir
+सर देखिए एक एंड ऑपरेटर है यस सर
+
+471
+00:26:07,880 --> 00:26:13,039
+yeah so if any of one length doesn't
+हाँ तो अगर कोई एक लंबाई में से कोई भी नहीं है
+
+472
+00:26:13,039 --> 00:26:17,320
+satisfies yes sir look into it just I'm
+संतुष्ट हाँ सर इसे देखो बस मैं हूँ
+
+473
+00:26:17,320 --> 00:26:20,480
+just yes sir uh in case what happens for
+बस हाँ सर उह मामले में क्या होता है
+
+474
+00:26:20,480 --> 00:26:22,279
+example I have reached over here when I
+उदाहरण मैं यहाँ पर पहुँच गया हूँ जब मैं
+
+475
+00:26:22,279 --> 00:26:25,840
+am at the index like maybe okay 1 2 3 4
+इंडेक्स में हूँ जैसे शायद ठीक है 1 2 3 4
+
+476
+00:26:25,840 --> 00:26:28,799
+5 when I am at index five it will just
+5 जब मैं इंडेक्स फाइव पर हूं तो यह बस होगा
+
+477
+00:26:28,799 --> 00:26:31,080
+check this with the Str str1 dot length
+STR STR1 डॉट लंबाई के साथ इसकी जाँच करें
+
+478
+00:26:31,080 --> 00:26:32,840
+and it will Loop out because this
+और यह बाहर लूप होगा क्योंकि यह
+
+479
+00:26:32,840 --> 00:26:36,080
+situation is not true it will move out
+स्थिति सच नहीं है यह बाहर निकल जाएगा
+
+480
+00:26:36,080 --> 00:26:38,440
+of this Loop it will just you have
+इस लूप में से यह सिर्फ आपके पास होगा
+
+481
+00:26:38,440 --> 00:26:41,520
+another loop to go through yes sir yes
+एक और लूप यस सर यस के माध्यम से जाने के लिए
+
+482
+00:26:41,520 --> 00:26:47,480
+sir yes you can go yes and
+सर हाँ आप हाँ जा सकते हैं और
+
+483
+00:26:48,559 --> 00:26:52,440
+okay um okay so this what I'm doing go
+ठीक है उम ठीक है तो यह क्या कर रहा हूँ
+
+484
+00:26:52,440 --> 00:26:54,440
+here so it will do something like this
+यहाँ तो यह कुछ ऐसा करेगा
+
+485
+00:26:54,440 --> 00:26:57,080
+it will take C
+यह सी ले जाएगा
+
+486
+00:26:57,080 --> 00:27:00,360
+then in in this line for the iteration
+फिर पुनरावृत्ति के लिए इस लाइन में
+
+487
+00:27:00,360 --> 00:27:03,440
+it will go something rest plus s of 205
+यह 205 के कुछ आराम से जाएगा
+
+488
+00:27:03,440 --> 00:27:06,000
+okay so it will do
+ठीक है तो यह करेगा
+
+489
+00:27:06,000 --> 00:27:08,760
+HW and again it will come here for the
+HW और फिर से यह यहाँ के लिए आएगा
+
+490
+00:27:08,760 --> 00:27:11,600
+first index yeah so this is how it will
+पहला इंडेक्स हाँ, तो यह कैसे होगा
+
+491
+00:27:11,600 --> 00:27:14,200
+do once it the loop ends it means that
+एक बार जब यह लूप समाप्त हो जाता है तो इसका मतलब है कि इसका मतलब है
+
+492
+00:27:14,200 --> 00:27:17,600
+we have reached at the end of one of the
+हम एक के अंत में पहुंच गए हैं
+
+493
+00:27:17,600 --> 00:27:20,559
+um yes it will mean that we have reached
+उम हाँ इसका मतलब यह होगा कि हम पहुंच गए हैं
+
+494
+00:27:20,559 --> 00:27:22,760
+at the one of uh end of the one of the
+में से एक के उह अंत में
+
+495
+00:27:22,760 --> 00:27:26,600
+strings so I'll just uh initiate this m
+स्ट्रिंग्स तो मैं सिर्फ उह इस एम की शुरुआत करूँगा
+
+496
+00:27:26,600 --> 00:27:30,000
+equals to
+के बराबर
+
+497
+00:27:30,200 --> 00:27:33,720
+I so what I'm going to do over here I'll
+मैं तो मैं यहाँ पर क्या करने जा रहा हूँ
+
+498
+00:27:33,720 --> 00:27:34,840
+check
+जाँच करना
+
+499
+00:27:34,840 --> 00:27:39,720
+while m is less than actually m is less
+जबकि एम वास्तव में एम से कम है एम कम है
+
+500
+00:27:39,720 --> 00:27:44,679
+than um okay
+उम ठीक है
+
+501
+00:27:44,679 --> 00:27:49,080
+okay sdr1 dot
+ठीक है SDR1 डॉट
+
+502
+00:27:49,080 --> 00:27:51,440
+length oror
+लंबाई का ऑरोर
+
+503
+00:27:51,440 --> 00:27:53,679
+SDR 2 do
+एसडीआर 2 करो
+
+504
+00:27:53,679 --> 00:27:56,480
+length I'm checking if it is less than
+यदि मैं यह कम है तो लंबाई मैं जाँच कर रहा हूँ
+
+505
+00:27:56,480 --> 00:27:59,519
+any of two
+दो में से कोई भी
+
+506
+00:27:59,519 --> 00:28:01,760
+if
+अगर
+
+507
+00:28:01,760 --> 00:28:06,880
+um okay so I have to do an optimization
+उम ठीक है तो मुझे एक अनुकूलन करना है
+
+508
+00:28:06,880 --> 00:28:09,559
+over here uh that should be something
+यहाँ पर उह जो कुछ होना चाहिए
+
+509
+00:28:09,559 --> 00:28:13,519
+like that
+उस तरह
+
+510
+00:28:14,840 --> 00:28:18,799
+if I want to execute
+अगर मैं निष्पादित करना चाहता हूं
+
+511
+00:28:18,799 --> 00:28:21,519
+only
+केवल
+
+512
+00:28:21,519 --> 00:28:26,240
+okay um if m
+ठीक है उम अगर एम
+
+513
+00:28:26,240 --> 00:28:31,279
+is less okay if m equals
+यदि एम बराबर होता है तो ठीक है
+
+514
+00:28:32,279 --> 00:28:35,279
+equals okay if m equals equals string 1
+ठीक है यदि एम के बराबर स्ट्रिंग 1 के बराबर है
+
+515
+00:28:35,279 --> 00:28:37,600
+do
+करना
+
+516
+00:28:39,440 --> 00:28:41,880
+length
+लंबाई
+
+517
+00:28:41,880 --> 00:28:44,360
+else okay so basically what I'm doing
+और ठीक है तो मूल रूप से मैं क्या कर रहा हूं
+
+518
+00:28:44,360 --> 00:28:48,120
+over here that I'm checking if that m is
+यहाँ पर कि मैं जाँच कर रहा हूँ अगर वह एम है
+
+519
+00:28:48,120 --> 00:28:51,360
+not equal to actually string 1 do length
+वास्तव में स्ट्रिंग 1 की लंबाई के बराबर नहीं है
+
+520
+00:28:51,360 --> 00:28:56,799
+yeah um then what I'll do that uh I'll
+हाँ उम तो मैं क्या करूँगा कि उह मैं करूँगा
+
+521
+00:28:56,799 --> 00:29:00,760
+just go ahead and and uh oh yeah so I'll
+बस आगे बढ़ो और उह ओह हाँ तो मैं हूँ
+
+522
+00:29:00,760 --> 00:29:01,679
+just go
+बस जाओ
+
+523
+00:29:01,679 --> 00:29:05,760
+ahead and do something let me see okay
+आगे और कुछ करो मुझे ठीक है
+
+524
+00:29:05,760 --> 00:29:07,679
+so if that is the
+तो अगर वह है
+
+525
+00:29:07,679 --> 00:29:11,880
+case which means it means that uh it is
+मामला जिसका मतलब है कि इसका मतलब है कि उह यह है
+
+526
+00:29:11,880 --> 00:29:17,399
+still it is still not ended then I'll do
+फिर भी यह अभी भी समाप्त नहीं हुआ है तो मैं करूँगा
+
+527
+00:29:17,399 --> 00:29:19,960
+rest equals to
+बाकी के बराबर
+
+528
+00:29:19,960 --> 00:29:22,919
+rest
+आराम
+
+529
+00:29:22,919 --> 00:29:24,960
+plus s
+प्लस एस
+
+530
+00:29:24,960 --> 00:29:28,399
+str2 sorry s str1
+STR2 सॉरी S STR1
+
+531
+00:29:28,399 --> 00:29:33,320
+of M and I'll increase
+एम और मैं बढ़ूंगा
+
+532
+00:29:35,440 --> 00:29:40,799
+m++ then if that's not the
+m ++ तो अगर यह नहीं है
+
+533
+00:29:42,679 --> 00:29:47,559
+case Okay and then the F finally I'll
+मामला ठीक है और फिर एफ अंत में मैं करूंगा
+
+534
+00:29:47,559 --> 00:29:50,159
+just log this
+बस इसे लॉग करें
+
+535
+00:29:50,159 --> 00:29:53,440
+rest it should work but I'm just doing a
+आराम करें यह काम करना चाहिए लेकिन मैं सिर्फ एक कर रहा हूं
+
+536
+00:29:53,440 --> 00:29:57,039
+reiteration over here that what it will
+यहाँ पर दोहराना कि यह क्या करेगा
+
+537
+00:29:57,039 --> 00:30:00,880
+do that I am creating this uh uh rest
+ऐसा करो कि मैं इस उह उह आराम कर रहा हूँ
+
+538
+00:30:00,880 --> 00:30:02,679
+variable over here what it is doing it
+यहाँ पर चर यह क्या कर रहा है
+
+539
+00:30:02,679 --> 00:30:04,679
+it it is just containing empty string
+यह सिर्फ खाली स्ट्रिंग युक्त है
+
+540
+00:30:04,679 --> 00:30:06,559
+and after that I have created a variable
+और उसके बाद मैंने एक चर बनाया है
+
+541
+00:30:06,559 --> 00:30:09,279
+M what I'm doing inside this loop I have
+एम मैं इस लूप के अंदर क्या कर रहा हूं जो मेरे पास है
+
+542
+00:30:09,279 --> 00:30:11,840
+declared this loop I uh which is
+इस लूप I उह को घोषित किया
+
+543
+00:30:11,840 --> 00:30:14,159
+starting from zero and what I'm doing
+शून्य से शुरू और मैं क्या कर रहा हूं
+
+544
+00:30:14,159 --> 00:30:16,200
+I'm checking if that I is still less
+मैं जाँच कर रहा हूँ कि क्या मैं अभी भी कम है
+
+545
+00:30:16,200 --> 00:30:19,200
+than the uh string one or string two uh
+उह स्ट्रिंग एक या स्ट्रिंग दो उह से
+
+546
+00:30:19,200 --> 00:30:21,760
+if that's the case if any of the
+यदि ऐसा है तो कोई भी है
+
+547
+00:30:21,760 --> 00:30:24,760
+condition is uh not Sai satisfied
+हालत उह नहीं है
+
+548
+00:30:24,760 --> 00:30:26,760
+actually if that string reaches to the
+वास्तव में अगर वह स्ट्रिंग तक पहुंचता है
+
+549
+00:30:26,760 --> 00:30:28,480
+end actually if that I
+वास्तव में अगर मैं
+
+550
+00:30:28,480 --> 00:30:30,120
+has already been equal to this string
+पहले से ही इस स्ट्रिंग के बराबर है
+
+551
+00:30:30,120 --> 00:30:33,120
+one do length then I will just go ahead
+एक लंबाई तो मैं बस आगे बढ़ूंगा
+
+552
+00:30:33,120 --> 00:30:36,039
+and I'll terminate this Loop because I
+और मैं इस लूप को समाप्त कर दूंगा क्योंकि मैं
+
+553
+00:30:36,039 --> 00:30:38,720
+need both of them to be less than the
+दोनों की तुलना में कम होने की जरूरत है
+
+554
+00:30:38,720 --> 00:30:41,960
+length of the strings so if that's the
+स्ट्रिंग्स की लंबाई तो अगर वह है
+
+555
+00:30:41,960 --> 00:30:46,000
+case what I'll do I'll go ahead and um
+मैं क्या करूँगा मैं आगे जाऊंगा और उम करूंगा
+
+556
+00:30:46,000 --> 00:30:47,799
+I'll reassign the value to this rest
+मैं इस आराम के लिए मूल्य को फिर से असाइन करूंगा
+
+557
+00:30:47,799 --> 00:30:50,360
+variable and once I have reassigned the
+चर और एक बार मैंने फिर से सौंप दिया है
+
+558
+00:30:50,360 --> 00:30:52,480
+value it will be like something um
+मूल्य यह कुछ उम की तरह होगा
+
+559
+00:30:52,480 --> 00:30:56,039
+string one uh sorry string one of I will
+स्ट्रिंग एक उह सॉरी स्ट्रिंग में से एक मैं करूँगा
+
+560
+00:30:56,039 --> 00:30:58,440
+be added first so
+पहले जोड़ा जा सकता है
+
+561
+00:30:58,440 --> 00:30:59,840
+that that means it will be something
+इसका मतलब है कि यह कुछ होगा
+
+562
+00:30:59,840 --> 00:31:02,600
+like that this H will be added and after
+जैसे कि यह एच जोड़ा जाएगा और बाद में
+
+563
+00:31:02,600 --> 00:31:04,799
+that what I'm doing after that string
+कि मैं उस स्ट्रिंग के बाद क्या कर रहा हूं
+
+564
+00:31:04,799 --> 00:31:06,960
+two of I will be added I can put it in
+दो मैं जोड़ा जाएगा मैं इसे डाल सकता हूँ
+
+565
+00:31:06,960 --> 00:31:08,880
+single line as well so it will be
+सिंगल लाइन के साथ -साथ यह भी होगा
+
+566
+00:31:08,880 --> 00:31:13,159
+something like string two of I so it
+कुछ स्ट्रिंग दो की तरह मैं ऐसा करता हूं
+
+567
+00:31:13,159 --> 00:31:15,840
+will just give me the result as HW for
+बस मुझे HW के लिए परिणाम देंगे
+
+568
+00:31:15,840 --> 00:31:19,720
+first iteration and for the uh second
+पहला पुनरावृत्ति और यूएच सेकंड के लिए
+
+569
+00:31:19,720 --> 00:31:21,760
+iteration it will go to this and it will
+पुनरावृत्ति यह इस पर जाएगा और यह होगा
+
+570
+00:31:21,760 --> 00:31:24,440
+do something EO like this and it will
+इस तरह से कुछ ईओ करें और यह होगा
+
+571
+00:31:24,440 --> 00:31:27,120
+continuously uh do that till one of the
+लगातार उह ऐसा करते हैं कि एक तक एक तक
+
+572
+00:31:27,120 --> 00:31:30,240
+string is that like is is already being
+स्ट्रिंग यह है कि जैसा कि पहले से ही हो रहा है
+
+573
+00:31:30,240 --> 00:31:32,919
+equal to the length actually of the uh
+वास्तव में उह की लंबाई के बराबर
+
+574
+00:31:32,919 --> 00:31:36,840
+of the ey so then and uh with each
+आंखों की तो और फिर उह प्रत्येक के साथ
+
+575
+00:31:36,840 --> 00:31:39,840
+iteration I'm increasing the I'm I'm I'm
+पुनरावृति मैं बढ़ रहा हूँ मैं हूँ मैं हूँ
+
+576
+00:31:39,840 --> 00:31:42,639
+reassigning the value to m equal to I
+मैं के बराबर मूल्य को पुन: असाइन करना
+
+577
+00:31:42,639 --> 00:31:44,919
+and I'm after comparing uh sorry after
+और मैं उह सॉरी के बाद तुलना करने के बाद हूं
+
+578
+00:31:44,919 --> 00:31:47,159
+completing this loop I comparing this m
+इस लूप को पूरा करते हुए मैं इस मी की तुलना कर रहा हूं
+
+579
+00:31:47,159 --> 00:31:49,120
+with the string one dot length I'm
+स्ट्रिंग एक डॉट लंबाई के साथ मैं हूँ
+
+580
+00:31:49,120 --> 00:31:52,519
+checking if that m is still small than
+जाँच कर रहा है कि क्या वह अभी भी छोटा है
+
+581
+00:31:52,519 --> 00:31:56,519
+string one do length or if m is okay
+स्ट्रिंग एक लंबाई या यदि एम ठीक है
+
+582
+00:31:56,519 --> 00:31:59,080
+this was the mistake that if that m is
+यह गलती थी कि अगर वह एम है
+
+583
+00:31:59,080 --> 00:32:01,279
+less than Str Str two do length if
+कम से कम str दो लंबाई अगर
+
+584
+00:32:01,279 --> 00:32:03,840
+that's the case I'll go inside this Loop
+यही कारण है कि मैं इस लूप के अंदर जाऊंगा
+
+585
+00:32:03,840 --> 00:32:06,679
+so basically in in our case it won't be
+तो मूल रूप से हमारे मामले में यह नहीं होगा
+
+586
+00:32:06,679 --> 00:32:09,360
+executed for this m s Str m is less than
+इस m s str m के लिए निष्पादित से कम है
+
+587
+00:32:09,360 --> 00:32:11,760
+s str1 dot length but it will go ahead
+s str1 डॉट लंबाई लेकिन यह आगे बढ़ेगा
+
+588
+00:32:11,760 --> 00:32:14,080
+and compare m is less than s str2 dot
+और तुलना M S STR2 डॉट से कम है
+
+589
+00:32:14,080 --> 00:32:17,600
+length so uh this will be the true in
+लंबाई तो उह यह सच होगा
+
+590
+00:32:17,600 --> 00:32:19,679
+this case because it will be five is
+यह मामला क्योंकि यह पांच होगा
+
+591
+00:32:19,679 --> 00:32:22,320
+less than the length which will be guess
+लंबाई से कम जो अनुमान लगाएगा
+
+592
+00:32:22,320 --> 00:32:25,279
+10 so it will go ahead and it will check
+10 तो यह आगे बढ़ेगा और यह जांच करेगा
+
+593
+00:32:25,279 --> 00:32:28,159
+if that m is not equals to equals to
+यदि वह एम के बराबर नहीं है
+
+594
+00:32:28,159 --> 00:32:30,480
+string one dot length but it is so it
+स्ट्रिंग एक डॉट लंबाई लेकिन यह तो है
+
+595
+00:32:30,480 --> 00:32:33,159
+will go to the lse case and it will just
+एलएसई मामले में जाएंगे और यह बस होगा
+
+596
+00:32:33,159 --> 00:32:38,039
+do rest equals to St Str + 2 and and or
+आराम करें st str + 2 और या के बराबर
+
+597
+00:32:38,039 --> 00:32:41,600
+or I can do one thing if I know that's
+या मैं एक काम कर सकता हूं अगर मुझे पता है कि यह है
+
+598
+00:32:41,600 --> 00:32:46,760
+the case what I can do no but okay okay
+वह मामला जो मैं कर सकता हूं, लेकिन ठीक है ठीक है
+
+599
+00:32:46,760 --> 00:32:49,480
+so it will do one thing like that uh
+तो यह उस उह की तरह एक काम करेगा
+
+600
+00:32:49,480 --> 00:32:52,039
+like for the each iteration it will
+प्रत्येक पुनरावृत्ति के लिए यह होगा
+
+601
+00:32:52,039 --> 00:32:55,120
+increase the m and finally when m is at
+एम और अंत में जब एम पर है
+
+602
+00:32:55,120 --> 00:32:57,960
+the last index uh uh has crossed the the
+अंतिम सूचकांक उह उह पार कर गया है
+
+603
+00:32:57,960 --> 00:32:59,880
+last index it means that it has already
+अंतिम सूचकांक इसका मतलब है कि यह पहले से ही है
+
+604
+00:32:59,880 --> 00:33:02,559
+reached to the length of the string so
+स्ट्रिंग की लंबाई तक पहुंच गया
+
+605
+00:33:02,559 --> 00:33:06,120
+it will just uh uh uh that the both of
+यह सिर्फ उह उह होगा कि दोनों
+
+606
+00:33:06,120 --> 00:33:08,559
+the conditions will be uh false and the
+शर्तें उह गलत होंगी और
+
+607
+00:33:08,559 --> 00:33:10,159
+loop will be terminated and just
+लूप को समाप्त कर दिया जाएगा और बस
+
+608
+00:33:10,159 --> 00:33:11,559
+pointing this
+यह इंगित कर रहा है
+
+609
+00:33:11,559 --> 00:33:15,360
+rest okay yes sir shall I call this
+आराम करो ठीक है हाँ सर मैं इसे फोन करूँगा
+
+610
+00:33:15,360 --> 00:33:18,080
+function
+समारोह
+
+611
+00:33:19,840 --> 00:33:23,159
+yeah are you passing any two
+हाँ, आप किसी भी दो पास कर रहे हैं
+
+612
+00:33:23,159 --> 00:33:26,120
+strings in function uh actually I just
+फ़ंक्शन में स्ट्रिंग्स उह वास्तव में मैं बस
+
+613
+00:33:26,120 --> 00:33:27,919
+uh got the reference of these two
+उह को इन दोनों का संदर्भ मिला
+
+614
+00:33:27,919 --> 00:33:29,519
+strings from
+से तार
+
+615
+00:33:29,519 --> 00:33:34,200
+here okay yes sir uh where I'm getting
+यहाँ ठीक है हाँ सर उह मैं कहाँ मिल रहा हूँ
+
+616
+00:33:34,200 --> 00:33:35,600
+undefined
+अपरिभाषित
+
+617
+00:33:35,600 --> 00:33:38,880
+from okay so the result is that we
+ठीक से परिणाम यह है कि हम
+
+618
+00:33:38,880 --> 00:33:46,600
+expected h e uh h w e o l r l l o d yeah
+अपेक्षित h e uh h w e o o l r l l o d yea
+
+619
+00:33:46,600 --> 00:33:49,840
+and okay we got
+और ठीक है हम मिल गए
+
+620
+00:33:49,840 --> 00:33:53,399
+another can you pass two strings in a
+एक और आप एक में दो तार पास कर सकते हैं
+
+621
+00:33:53,399 --> 00:33:58,039
+function yes and then uh it because if
+कार्य हाँ और फिर इसे क्योंकि अगर
+
+622
+00:33:58,039 --> 00:34:02,080
+pass any uh two strings
+किसी भी उह दो तार पास करें
+
+623
+00:34:02,080 --> 00:34:05,360
+then yes I have passed string strings
+तो हाँ, मैंने स्ट्रिंग स्ट्रिंग्स पास कर चुके हैं
+
+624
+00:34:05,360 --> 00:34:10,280
+over here okay and uh you can like in
+यहाँ ठीक है और उह आप पसंद कर सकते हैं
+
+625
+00:34:10,280 --> 00:34:12,960
+that string you can uh where you are
+वह स्ट्रिंग आप जहां हैं, वहां उह कर सकते हैं
+
+626
+00:34:12,960 --> 00:34:16,639
+calling you can write any two strings
+कॉलिंग आप किसी भी दो तार लिख सकते हैं
+
+627
+00:34:16,639 --> 00:34:18,280
+where you are calling
+आप कहाँ बुला रहे हैं
+
+628
+00:34:18,280 --> 00:34:22,040
+function okay okay yes in merge two
+कार्य ठीक है ठीक है हाँ मर्ज दो में
+
+629
+00:34:22,040 --> 00:34:24,359
+Springs you can yes
+स्प्रिंग्स आप हाँ कर सकते हैं
+
+630
+00:34:24,359 --> 00:34:28,918
+sir got it so I'll just return the rest
+सर को मिल गया तो मैं बस बाकी को वापस कर दूंगा
+
+631
+00:34:28,918 --> 00:34:33,119
+from here return rest and then I'll do
+यहाँ से आराम करो और फिर मैं करूँगा
+
+632
+00:34:33,119 --> 00:34:36,359
+something like this console.log yeah
+इस कंसोल की तरह कुछ
+
+633
+00:34:36,359 --> 00:34:39,760
+that's fine and here I will pass Str
+यह ठीक है और यहाँ मैं स्ट्रैट पास करूंगा
+
+634
+00:34:39,760 --> 00:34:42,239
+str1 Str
+str1 str
+
+635
+00:34:42,239 --> 00:34:44,560
+str2
+STR2
+
+636
+00:34:44,560 --> 00:34:50,560
+and if you okay like you can pass values
+और अगर आप ठीक हैं जैसे आप मान पास कर सकते हैं
+
+637
+00:34:50,560 --> 00:34:52,440
+okay you have
+ठीक है आपके पास है
+
+638
+00:34:52,440 --> 00:34:54,359
+created
+बनाया था
+
+639
+00:34:54,359 --> 00:34:58,240
+okay yes sir you can pass the vales
+ठीक है हाँ सर आप वैल पास कर सकते हैं
+
+640
+00:34:58,240 --> 00:35:01,880
+directly instead of instead of Okay C it
+ठीक सी के बजाय सीधे इसके बजाय सी।
+
+641
+00:35:01,880 --> 00:35:04,800
+got it so you want me to pass the values
+यह मिल गया है ताकि आप चाहते हैं कि मैं मान पास करूं
+
+642
+00:35:04,800 --> 00:35:08,880
+here right yes got it
+यह ठीक है हाँ यह मिल गया
+
+643
+00:35:11,040 --> 00:35:15,640
+sir maybe if I do something yeah uh
+सर शायद अगर मैं कुछ हाँ करता हूँ
+
+644
+00:35:15,640 --> 00:35:19,359
+write uh after that you can write one
+इसके बाद उह लिखें आप एक लिख सकते हैं
+
+645
+00:35:19,359 --> 00:35:23,000
+two just write got
+दो बस लिख गए
+
+646
+00:35:23,000 --> 00:35:27,000
+it okay should I run yeah yeah pleas go
+यह ठीक है मैं हाँ चलाना चाहिए हाँ दलील जाओ
+
+647
+00:35:27,000 --> 00:35:28,640
+ahead
+आगे
+
+648
+00:35:28,640 --> 00:35:31,520
+okay so it is working till here fine but
+ठीक है तो यह यहाँ ठीक होने तक काम कर रहा है लेकिन
+
+649
+00:35:31,520 --> 00:35:33,760
+after that it is get
+उसके बाद यह मिलता है
+
+650
+00:35:33,760 --> 00:35:37,000
+undefined because it is not able to get
+अपरिभाषित क्योंकि यह प्राप्त करने में सक्षम नहीं है
+
+651
+00:35:37,000 --> 00:35:38,280
+um
+एक
+
+652
+00:35:38,280 --> 00:35:41,800
+okay yeah till one it is going and after
+ठीक है हाँ एक तक यह जा रहा है और बाद में
+
+653
+00:35:41,800 --> 00:35:47,200
+that what I'm doing string 2 of M um
+कि मैं एम उम के स्ट्रिंग 2 कर रहा हूँ
+
+654
+00:35:47,200 --> 00:35:50,640
+string to of M uh okay so it is not able
+स्ट्रिंग टू एम उह ठीक है इसलिए यह सक्षम नहीं है
+
+655
+00:35:50,640 --> 00:35:52,359
+to find this
+यह खोजने के लिए
+
+656
+00:35:52,359 --> 00:35:56,359
+index um
+एक अनुक्रमित
+
+657
+00:35:58,079 --> 00:36:01,960
+okay can I uh like try some debugging
+ठीक है मैं कुछ डिबगिंग की कोशिश कर सकता हूँ
+
+658
+00:36:01,960 --> 00:36:06,200
+yeah yeah you can go ahead got
+हाँ हाँ आप आगे बढ़ सकते हैं
+
+659
+00:36:07,880 --> 00:36:14,839
+it 2 3 4 5 6 7 so should be
+यह 2 3 4 5 6 7 तो होना चाहिए
+
+660
+00:36:14,839 --> 00:36:22,400
+six okay it is going 10 5 1 2 3 4
+छह ठीक है यह 10 5 1 2 3 4 जा रहा है
+
+661
+00:36:22,400 --> 00:36:25,400
+5
+5
+
+662
+00:36:26,160 --> 00:36:28,359
+and okay
+और ठीक है
+
+663
+00:36:28,359 --> 00:36:32,680
+okay so the value should
+ठीक है तो मूल्य होना चाहिए
+
+664
+00:36:32,680 --> 00:36:35,720
+be okay it is going till
+ठीक है यह तब तक चल रहा है
+
+665
+00:36:35,720 --> 00:36:38,960
+six and after that
+छह और उसके बाद
+
+666
+00:36:38,960 --> 00:36:42,319
+again it is
+फिर से यह है
+
+667
+00:36:50,960 --> 00:36:54,960
+checking okay
+ठीक है
+
+668
+00:36:59,680 --> 00:37:02,890
+okay it is getting the value
+ठीक है यह मूल्य मिल रहा है
+
+669
+00:37:02,890 --> 00:37:06,150
+[Music]
+[संगीत]
+
+670
+00:37:10,800 --> 00:37:13,800
+here
+यहाँ
+
+671
+00:37:15,720 --> 00:37:22,440
+um okay S Plus s Str of 2
+उम ठीक है एस प्लस एस एसटी 2
+
+672
+00:37:28,359 --> 00:37:33,520
+okay okay okay so what I'm able to see
+ठीक है ठीक है तो मैं क्या देख पा रहा हूं
+
+673
+00:37:33,520 --> 00:37:37,640
+over here that uh while I am over here
+यहाँ पर कि उह जबकि मैं यहाँ पर हूँ
+
+674
+00:37:37,640 --> 00:37:40,240
+while I am here it is not accessing the
+जबकि मैं यहाँ हूँ यह एक्सेस नहीं कर रहा है
+
+675
+00:37:40,240 --> 00:37:41,640
+last
+अंतिम
+
+676
+00:37:41,640 --> 00:37:46,160
+value it is just going going till the
+मूल्य यह सिर्फ तब तक जा रहा है
+
+677
+00:37:46,160 --> 00:37:50,040
+one when I'm over here with the M over
+एक जब मैं यहाँ एम ओवर के साथ खत्म हो गया
+
+678
+00:37:50,040 --> 00:37:53,440
+here so even after incrementing it is
+यहाँ भी वृद्धि के बाद भी यह है
+
+679
+00:37:53,440 --> 00:37:55,920
+going to
+जा रहा हूँ
+
+680
+00:37:55,920 --> 00:38:01,680
+M let me do something like this
+एम मुझे कुछ इस तरह से करने दो
+
+681
+00:38:01,680 --> 00:38:03,960
+maybe
+शायद
+
+682
+00:38:03,960 --> 00:38:05,520
+no
+नहीं
+
+683
+00:38:05,520 --> 00:38:08,520
+just
+अभी
+
+684
+00:38:08,720 --> 00:38:11,599
+okay m is basically the length of the
+ठीक है एम मूल रूप से की लंबाई है
+
+685
+00:38:11,599 --> 00:38:12,720
+string
+डोरी
+
+686
+00:38:12,720 --> 00:38:17,240
+so okay I'll do something
+तो ठीक है मैं कुछ करूँगा
+
+687
+00:38:17,240 --> 00:38:19,000
+like
+पसंद
+
+688
+00:38:19,000 --> 00:38:23,000
+this equals
+यह बराबर है
+
+689
+00:38:26,000 --> 00:38:29,440
+to rest
+आराम करने के लिए
+
+690
+00:38:36,680 --> 00:38:39,400
+dot
+डॉट
+
+691
+00:38:39,400 --> 00:38:43,079
+spli slice
+विभाजित स्लाइस
+
+692
+00:38:43,079 --> 00:38:46,319
+CH and it will take
+Ch और यह ले जाएगा
+
+693
+00:38:46,319 --> 00:38:51,680
+the index where we have to start
+सूचकांक जहां हमें शुरू करना है
+
+694
+00:38:58,240 --> 00:39:03,119
+for that I'll remove this for while
+इसके लिए मैं इसे समय के लिए हटा दूँगा
+
+695
+00:39:03,119 --> 00:39:07,040
+loop and
+लूप और
+
+696
+00:39:07,040 --> 00:39:12,599
+else rest plus okay
+बाकी और ठीक है ठीक है
+
+697
+00:39:13,720 --> 00:39:15,880
+else
+अन्य
+
+698
+00:39:15,880 --> 00:39:20,200
+this it will just start from this uh
+यह सिर्फ इस उह से शुरू होगा
+
+699
+00:39:20,200 --> 00:39:24,200
+index and
+सूचकांक और
+
+700
+00:39:27,720 --> 00:39:30,520
+I'll cut this line for
+मैं इस लाइन को काट दूँगा
+
+701
+00:39:30,520 --> 00:39:34,200
+now okay so what I'm what I'm doing over
+अब ठीक है तो मैं क्या कर रहा हूँ
+
+702
+00:39:34,200 --> 00:39:40,599
+here that uh if uh M of uh like if M has
+यहाँ उह अगर उह के उह की तरह अगर एम है
+
+703
+00:39:40,599 --> 00:39:42,560
+already reached till the end of string 1
+पहले से ही स्ट्रिंग 1 के अंत तक पहुंच गया
+
+704
+00:39:42,560 --> 00:39:45,960
+do length I'll just go ahead and uh I'll
+लंबाई करो मैं बस आगे जाऊँगा और उह मैं हूँ
+
+705
+00:39:45,960 --> 00:39:49,440
+add the remaining string uh to the to my
+मेरे लिए शेष स्ट्रिंग उह जोड़ें
+
+706
+00:39:49,440 --> 00:39:52,160
+rest actually but it is if it is not
+वास्तव में आराम करें, लेकिन यह है अगर यह नहीं है
+
+707
+00:39:52,160 --> 00:39:55,480
+that the case then I'll just go ahead
+यह मामला तब मैं बस आगे जाऊंगा
+
+708
+00:39:55,480 --> 00:39:58,920
+and uh I'll go ahead with that under the
+और उह मैं उस के साथ आगे बढ़ूंगा
+
+709
+00:39:58,920 --> 00:40:00,079
+string
+डोरी
+
+710
+00:40:00,079 --> 00:40:04,440
+okay okay so it
+ठीक है ठीक है तो यह
+
+711
+00:40:04,599 --> 00:40:06,359
+is it
+यह है
+
+712
+00:40:06,359 --> 00:40:09,800
+is it is
+क्या यह है
+
+713
+00:40:11,319 --> 00:40:13,599
+just
+अभी
+
+714
+00:40:13,599 --> 00:40:19,680
+okay so far it is working fine till here
+ठीक है अब तक यह यहाँ तक ठीक काम कर रहा है
+
+715
+00:40:36,560 --> 00:40:41,160
+okay this line is not getting
+ठीक है यह लाइन नहीं मिल रही है
+
+716
+00:40:42,599 --> 00:40:45,359
+executed okay this is the condition that
+निष्पादित ठीक है यह वह स्थिति है
+
+717
+00:40:45,359 --> 00:40:47,240
+is getting executed
+निष्पादित हो रहा है
+
+718
+00:40:47,240 --> 00:40:51,839
+and why it is so m equals to oh okay
+और यह क्यों है, ओह ठीक है के बराबर है
+
+719
+00:40:51,839 --> 00:40:53,720
+okay okay okay okay okay I got it I got
+ठीक है ठीक है ठीक है ठीक है मैं मिल गया मैं मिल गया
+
+720
+00:40:53,720 --> 00:40:55,880
+it actually what is the error that I'm
+यह वास्तव में क्या त्रुटि है जो मैं हूं
+
+721
+00:40:55,880 --> 00:40:59,760
+making got it good
+मेकिंग गॉट इट गुड
+
+722
+00:41:02,680 --> 00:41:09,040
+it for now I'll check like this
+अभी के लिए मैं इस तरह की जाँच करूँगा
+
+723
+00:41:12,200 --> 00:41:14,760
+okay okay so what I'm what I was doing
+ठीक है ठीक है तो मैं क्या कर रहा था
+
+724
+00:41:14,760 --> 00:41:18,440
+over here that no actually but still I
+यहाँ पर कि वास्तव में नहीं, लेकिन फिर भी मैं
+
+725
+00:41:18,440 --> 00:41:22,079
+have increased the I that means it hello
+मैं बढ़ा है जिसका मतलब है कि यह नमस्ते है
+
+726
+00:41:22,079 --> 00:41:26,480
+world hello yes sir
+दुनिया हैलो हाँ सर
+
+727
+00:41:37,680 --> 00:41:41,160
+why in last it is appearing
+क्यों पिछले में यह दिखाई दे रहा है
+
+728
+00:41:41,160 --> 00:41:44,319
+oh yes sir that's that should be
+अरे हाँ सर कि यह होना चाहिए
+
+729
+00:41:44,319 --> 00:41:47,440
+something like this
+कुछ इस तरह
+
+730
+00:41:48,880 --> 00:41:52,079
+but I guess I had to do
+लेकिन मुझे लगता है कि मुझे करना था
+
+731
+00:41:52,079 --> 00:41:54,319
+some like
+कुछ पसंद है
+
+732
+00:41:54,319 --> 00:41:58,600
+this uh okay
+यह उह ठीक है
+
+733
+00:41:58,600 --> 00:42:01,720
+[Music]
+[संगीत]
+
+734
+00:42:01,720 --> 00:42:04,520
+this is the full
+यह पूर्ण है
+
+735
+00:42:06,560 --> 00:42:11,319
+code slice it will be uh
+कोड स्लाइस यह उह होगा
+
+736
+00:42:11,319 --> 00:42:15,520
+you yes sir you should have taken Loop
+आप हाँ सर आपको लूप लेना चाहिए था
+
+737
+00:42:15,520 --> 00:42:18,800
+for for the instead of
+के बजाय के लिए
+
+738
+00:42:18,800 --> 00:42:22,160
+slice okay I'll just go to the previous
+स्लाइस ठीक है मैं बस पिछले में जाऊंगा
+
+739
+00:42:22,160 --> 00:42:25,160
+card
+कार्ड
+
+740
+00:42:33,040 --> 00:42:36,200
+okay okay okay so this is the previous
+ठीक है ठीक है ठीक है तो यह पिछला है
+
+741
+00:42:36,200 --> 00:42:39,760
+code that I had uh by using like this
+कोड जो मेरे पास इस तरह का उपयोग करके उह था
+
+742
+00:42:39,760 --> 00:42:44,440
+while loop okay uh now run
+जबकि लूप ठीक है उह अब दौड़ते हैं
+
+743
+00:42:50,000 --> 00:42:52,640
+it undefined that's the last character
+यह अपरिभाषित है कि अंतिम चरित्र है
+
+744
+00:42:52,640 --> 00:42:54,800
+only yeah last
+केवल हाँ अंतिम
+
+745
+00:42:54,800 --> 00:42:56,000
+[Music]
+[संगीत]
+
+746
+00:42:56,000 --> 00:42:58,319
+character okay okay okay okay I I'm
+चरित्र ठीक है ठीक है ठीक है मैं हूँ
+
+747
+00:42:58,319 --> 00:43:02,319
+getting a point actually so uh okay so
+एक बिंदु वास्तव में इतना उह ठीक है
+
+748
+00:43:02,319 --> 00:43:04,000
+what I'm what I have to do over here
+मैं क्या कर रहा हूँ मुझे यहाँ क्या करना है
+
+749
+00:43:04,000 --> 00:43:05,760
+that I have to put something like this
+मुझे ऐसा कुछ करना है
+
+750
+00:43:05,760 --> 00:43:09,040
+Str str1 do length CU what it is doing
+Str str1 लंबाई cu यह क्या कर रहा है
+
+751
+00:43:09,040 --> 00:43:14,760
+that as soon as it uh uh okay and and
+जैसे ही यह उह ठीक है और और
+
+752
+00:43:14,760 --> 00:43:17,800
+okay so what it is doing that it is
+ठीक है तो यह क्या कर रहा है कि यह है
+
+753
+00:43:17,800 --> 00:43:21,079
+checking if that uh uh okay so as soon
+जाँच कर रहा है कि क्या उह ठीक है
+
+754
+00:43:21,079 --> 00:43:22,400
+as we go over here we have done
+जैसा कि हम यहाँ जाते हैं हमने किया है
+
+755
+00:43:22,400 --> 00:43:24,640
+something m++ right so that will
+कुछ m ++ सही है ताकि होगा
+
+756
+00:43:24,640 --> 00:43:28,240
+increase the m and it won't be like it
+एम बढ़ाएं और यह ऐसा नहीं होगा
+
+757
+00:43:28,240 --> 00:43:31,119
+won't be equal to Str str1 do length so
+Str1 की लंबाई के बराबर नहीं होगा
+
+758
+00:43:31,119 --> 00:43:34,200
+it won't it will go to this code block
+यह इस कोड ब्लॉक में नहीं जाएगा
+
+759
+00:43:34,200 --> 00:43:36,400
+actually it will go to this if
+वास्तव में यह इस पर जाएगा अगर
+
+760
+00:43:36,400 --> 00:43:39,599
+condition okay yes then it should work
+शर्त ठीक है हाँ तो यह काम करना चाहिए
+
+761
+00:43:39,599 --> 00:43:41,520
+now
+अब
+
+762
+00:43:41,520 --> 00:43:46,520
+yeah done in single loop as well oh okay
+हाँ, एकल लूप में भी किया गया है ओह ठीक है
+
+763
+00:43:46,520 --> 00:43:49,680
+okay you can find it out later on uh can
+ठीक है आप इसे बाद में उह कैन पर पता लगा सकते हैं
+
+764
+00:43:49,680 --> 00:43:52,880
+you uh write a
+आप उह लिखते हैं
+
+765
+00:43:52,880 --> 00:43:57,559
+function yes sir uh like for
+कार्य हाँ सर उह के लिए पसंद है
+
+766
+00:43:57,559 --> 00:44:00,440
+a function okay you can all comment it
+एक समारोह ठीक है आप सभी इसे टिप्पणी कर सकते हैं
+
+767
+00:44:00,440 --> 00:44:03,960
+down uh
+नीचे उह
+
+768
+00:44:04,160 --> 00:44:06,520
+yes write
+हाँ लिखो
+
+769
+00:44:06,520 --> 00:44:10,480
+some some uh no need to write function
+कुछ यूएच को फ़ंक्शन लिखने की आवश्यकता नहीं है
+
+770
+00:44:10,480 --> 00:44:13,440
+just remove that okay you just calling
+बस उस ठीक है जो आप सिर्फ फोन करते हैं
+
+771
+00:44:13,440 --> 00:44:15,040
+for
+के लिए
+
+772
+00:44:15,040 --> 00:44:17,839
+purpose okay sir
+उद्देश्य ठीक है सर
+
+773
+00:44:17,839 --> 00:44:21,720
+sum sum in
+योग राशि
+
+774
+00:44:21,720 --> 00:44:25,160
+parenthesis uh okay I have to write a
+कोष्ठक उह ठीक है मुझे एक लिखना है
+
+775
+00:44:25,160 --> 00:44:28,319
+function yeah yeah function calling
+फ़ंक्शन हाँ हाँ फ़ंक्शन कॉलिंग
+
+776
+00:44:28,319 --> 00:44:32,319
+no no function yeah it some
+कोई फंक्शन नहीं हाँ यह कुछ है
+
+777
+00:44:32,319 --> 00:44:37,000
+uh yes sir write 2 comma
+उह हाँ सर 2 अल्पविराम लिखो
+
+778
+00:44:37,000 --> 00:44:41,920
+4 2 comma 4
+4 2 अल्पविराम 4
+
+779
+00:44:41,920 --> 00:44:45,599
+and uh within this like this no no no no
+और इस तरह के भीतर उह नहीं नहीं नहीं नहीं
+
+780
+00:44:45,599 --> 00:44:50,640
+no no new function same same
+कोई नया फ़ंक्शन समान नहीं है
+
+781
+00:44:50,640 --> 00:44:56,119
+sum and for two parenthesis 2 four for
+योग और दो कोष्ठक के लिए 2 चार के लिए
+
+782
+00:44:56,119 --> 00:44:59,040
+two separate parenthesis should be
+दो अलग -अलग कोष्ठक होना चाहिए
+
+783
+00:44:59,040 --> 00:45:03,040
+there uh okay got
+वहाँ ठीक है
+
+784
+00:45:04,000 --> 00:45:08,760
+it two and four four comma
+यह दो और चार चार अल्पविराम
+
+785
+00:45:08,760 --> 00:45:14,040
+comma no no need to write okay like this
+कॉमा नहीं इस तरह लिखने की जरूरत नहीं है
+
+786
+00:45:14,040 --> 00:45:16,800
+for this same function you can have a
+इसी फ़ंक्शन के लिए आप एक हो सकते हैं
+
+787
+00:45:16,800 --> 00:45:18,599
+common
+सामान्य
+
+788
+00:45:18,599 --> 00:45:21,960
+function can you
+आप कार्य कर सकते हैं
+
+789
+00:45:21,960 --> 00:45:24,599
+do okay so I have to make a function
+ठीक है तो मुझे एक फ़ंक्शन बनाना है
+
+790
+00:45:24,599 --> 00:45:27,720
+right for this fun common function
+इस मजेदार सामान्य कार्य के लिए सही
+
+791
+00:45:27,720 --> 00:45:31,920
+like this okay
+यह ठीक है
+
+792
+00:45:35,119 --> 00:45:38,119
+okay
+ठीक है
+
+793
+00:45:48,839 --> 00:45:52,680
+okay okay so what I'm guessing over here
+ठीक है ठीक है तो मैं यहाँ पर क्या अनुमान लगा रहा हूँ
+
+794
+00:45:52,680 --> 00:45:54,720
+what it will do that
+यह क्या करेगा
+
+795
+00:45:54,720 --> 00:45:58,559
+uh um for the first case actually yeah
+उह उम पहले मामले के लिए वास्तव में हाँ
+
+796
+00:45:58,559 --> 00:46:00,680
+so first case what it will do that it
+तो पहला मामला यह क्या करेगा
+
+797
+00:46:00,680 --> 00:46:03,119
+will take two and four as a parameters
+एक मापदंड के रूप में दो और चार ले जाएगा
+
+798
+00:46:03,119 --> 00:46:06,480
+it should the same output you should re
+यह वही आउटपुट होना चाहिए जो आपको फिर से करना चाहिए
+
+799
+00:46:06,480 --> 00:46:10,280
+the same yeah in both of the cases yeah
+दोनों मामलों में एक ही हाँ हाँ
+
+800
+00:46:10,280 --> 00:46:12,800
+but both should be calling it the common
+लेकिन दोनों को इसे आम कहना चाहिए
+
+801
+00:46:12,800 --> 00:46:14,920
+function you have to
+आपको कार्य करना है
+
+802
+00:46:14,920 --> 00:46:19,839
+create okay okay
+ठीक बनाओ ठीक है
+
+803
+00:46:29,079 --> 00:46:32,079
+okay
+ठीक है
+
+804
+00:46:35,760 --> 00:46:38,800
+uh I guess I have to do something like
+उह मुझे लगता है कि मुझे कुछ ऐसा करना है
+
+805
+00:46:38,800 --> 00:46:43,760
+maybe um separate the values or maybe um
+शायद उम मूल्यों को अलग करते हैं या शायद उम
+
+806
+00:46:43,760 --> 00:46:44,640
+no
+नहीं
+
+807
+00:46:44,640 --> 00:46:48,640
+actually that no argument subject will
+वास्तव में यह कोई तर्क विषय नहीं होगा
+
+808
+00:46:48,640 --> 00:46:51,359
+take all the arguments actually do you
+वास्तव में आप सभी तर्कों को लें
+
+809
+00:46:51,359 --> 00:46:55,359
+have an idea how to do this uh no sir I
+एक विचार है कि यह कैसे करना है उह नहीं सर मैं
+
+810
+00:46:55,359 --> 00:46:58,400
+no worries noes
+कोई चिंता नहीं
+
+811
+00:46:58,400 --> 00:47:01,079
+uh just create an
+उह बस एक बनाओ
+
+812
+00:47:01,079 --> 00:47:03,880
+array and inside that array there should
+सरणी और उस सरणी के अंदर वहाँ होना चाहिए
+
+813
+00:47:03,880 --> 00:47:06,319
+be sub
+उप हो
+
+814
+00:47:10,240 --> 00:47:14,640
+aray uh you can write any number three
+aray uh आप किसी भी नंबर तीन लिख सकते हैं
+
+815
+00:47:14,640 --> 00:47:19,119
+write three subar with uh each subar
+उह प्रत्येक सुबार के साथ तीन सुबार लिखें
+
+816
+00:47:19,119 --> 00:47:22,040
+having two
+दो होने के नाते
+
+817
+00:47:22,800 --> 00:47:26,800
+numbers okay
+संख्या ठीक है
+
+818
+00:47:28,200 --> 00:47:31,000
+and you have to just flatten it
+और आपको बस इसे समतल करना होगा
+
+819
+00:47:31,000 --> 00:47:35,160
+out okay I guess there there is a
+ठीक है मुझे लगता है कि वहाँ एक है
+
+820
+00:47:35,160 --> 00:47:38,920
+function that I uh that is AR do flat I
+कार्य करता है कि मैं उह है कि मैं फ्लैट है मैं
+
+821
+00:47:38,920 --> 00:47:43,240
+guess just a second I'll check conal to
+लगता है कि बस एक सेकंड मैं कोनल की जाँच करूँगा
+
+822
+00:47:43,240 --> 00:47:46,960
+flat flat I guess this is the function
+फ्लैट फ्लैट मुझे लगता है कि यह फ़ंक्शन है
+
+823
+00:47:46,960 --> 00:47:48,880
+and if I log this it will give me the
+और अगर मैं इसे लॉग करता हूं तो यह मुझे देगा
+
+824
+00:47:48,880 --> 00:47:52,880
+result I guess and uh should I console
+परिणाम मुझे लगता है और उह मुझे सांत्वना चाहिए
+
+825
+00:47:52,880 --> 00:47:55,200
+look yeah go
+देखो हाँ जाओ
+
+826
+00:47:55,200 --> 00:47:58,839
+ahead yes it is can you do it without
+आगे हाँ यह है कि आप इसे बिना कर सकते हैं
+
+827
+00:47:58,839 --> 00:48:01,079
+inbu function
+inbu समारोह
+
+828
+00:48:01,079 --> 00:48:05,880
+sure okay I'll uh I have
+यकीन है कि ठीक है मैं उह मेरे पास है
+
+829
+00:48:05,880 --> 00:48:10,079
+flaten the
+सतह
+
+830
+00:48:10,559 --> 00:48:14,440
+array okay so what I'm thinking over
+सरणी ठीक है तो मैं क्या सोच रहा हूँ
+
+831
+00:48:14,440 --> 00:48:17,960
+here to do is
+यहाँ करना है
+
+832
+00:48:19,200 --> 00:48:22,200
+uh
+उह
+
+833
+00:48:23,359 --> 00:48:28,079
+okay H okay uh so what I am thinking to
+ठीक है एच ठीक है उह तो मैं क्या सोच रहा हूँ
+
+834
+00:48:28,079 --> 00:48:31,640
+do over here that uh I'll pass this um
+यहाँ पर है कि उह मैं इस उम पास करूँगा
+
+835
+00:48:31,640 --> 00:48:34,520
+okay I'll call this function and uh I'll
+ठीक है मैं इस फ़ंक्शन को फोन करूँगा और उह मैं हूँ
+
+836
+00:48:34,520 --> 00:48:38,079
+pass this array and I'll check if the uh
+इस सरणी को पास करें और मैं जांच करूँगा कि क्या उह
+
+837
+00:48:38,079 --> 00:48:40,800
+object being passed is an array so I'll
+वस्तु पारित किया जा रहा है एक सरणी है इसलिए मैं
+
+838
+00:48:40,800 --> 00:48:44,400
+check if that something I'm receiving is
+जाँच करें कि क्या मुझे कुछ मिल रहा है
+
+839
+00:48:44,400 --> 00:48:47,280
+really an arror or not
+वास्तव में एक अरर या नहीं
+
+840
+00:48:47,280 --> 00:48:52,000
+so um okay if that is an array that I'm
+तो उम ठीक है अगर यह एक सरणी है कि मैं हूँ
+
+841
+00:48:52,000 --> 00:48:53,440
+getting
+उपार्जन
+
+842
+00:48:53,440 --> 00:48:58,720
+something array dot is array
+कुछ सरणी डॉट सरणी है
+
+843
+00:48:58,799 --> 00:49:02,400
+so if that's the case then I'll go ahead
+तो अगर ऐसा है तो मैं आगे बढ़ूंगा
+
+844
+00:49:02,400 --> 00:49:05,160
+else it means that I am already getting
+इसका मतलब है कि मैं पहले से ही प्राप्त कर रहा हूं
+
+845
+00:49:05,160 --> 00:49:06,599
+a
+ए
+
+846
+00:49:06,599 --> 00:49:09,480
+number so if that's the case I'll call
+नंबर तो अगर ऐसा है तो मैं कॉल करूंगा
+
+847
+00:49:09,480 --> 00:49:14,119
+this flaten the array again with the
+इस के साथ फिर से सरणी
+
+848
+00:49:14,119 --> 00:49:17,920
+array that is being um like
+सरणी जो उम की तरह है
+
+849
+00:49:17,920 --> 00:49:19,559
+called
+बुलाया
+
+850
+00:49:19,559 --> 00:49:23,520
+so I have to do something like this else
+इसलिए मुझे ऐसा कुछ करना है
+
+851
+00:49:23,520 --> 00:49:27,839
+else I'll return the value very actually
+और मैं वास्तव में मूल्य वापस करूँगा
+
+852
+00:49:27,839 --> 00:49:30,079
+I I'll keep the variable as value
+मैं वैरिएबल को वैल्यू के रूप में रखूंगा
+
+853
+00:49:30,079 --> 00:49:32,680
+to be more
+अधिक होना
+
+854
+00:49:32,680 --> 00:49:34,920
+accurate
+शुद्ध
+
+855
+00:49:34,920 --> 00:49:38,079
+so okay if array dot is
+तो ठीक है अगर सरणी डॉट है
+
+856
+00:49:38,079 --> 00:49:42,200
+array then flatten the array
+सरणी तो सरणी को समतल करें
+
+857
+00:49:42,200 --> 00:49:45,760
+okay return well okay till here
+ठीक है ठीक है ठीक है यहाँ तक ठीक है
+
+858
+00:49:45,760 --> 00:49:47,920
+everything is fine I
+सब कुछ ठीक है मैं
+
+859
+00:49:47,920 --> 00:49:52,720
+guess um I'm getting well from here so
+लगता है कि मैं यहाँ से अच्छा हो रहा हूँ
+
+860
+00:49:52,720 --> 00:49:55,160
+what I'll do well basically means
+मैं मूल रूप से क्या अच्छा करूँगा
+
+861
+00:49:55,160 --> 00:49:58,079
+initially this is an complete array then
+शुरू में यह एक पूर्ण सरणी है
+
+862
+00:49:58,079 --> 00:50:04,000
+I'll iterate over it let I equal to 0 I
+मैं इस पर पुनरावृति करूँगा मैं 0 के बराबर हूँ
+
+863
+00:50:04,000 --> 00:50:08,440
+less than Val do
+वैल से कम
+
+864
+00:50:10,960 --> 00:50:15,640
+length Okay so I'll
+लंबाई ठीक है तो मैं
+
+865
+00:50:15,640 --> 00:50:18,920
+check here
+यहाँ जाँच करें
+
+866
+00:50:18,960 --> 00:50:23,799
+only if array do is array is this then
+केवल अगर सरणी है तो सरणी है तो यह है
+
+867
+00:50:23,799 --> 00:50:28,440
+only I have to call this for Loop
+केवल मुझे लूप के लिए यह कॉल करना है
+
+868
+00:50:28,799 --> 00:50:33,359
+else I know it is not an array return
+और मुझे पता है कि यह एक सरणी वापसी नहीं है
+
+869
+00:50:33,359 --> 00:50:36,359
+it
+यह
+
+870
+00:50:37,640 --> 00:50:39,319
+so
+इसलिए
+
+871
+00:50:39,319 --> 00:50:42,559
+this where I'm
+यह कहाँ हूँ
+
+872
+00:50:42,559 --> 00:50:45,559
+checking
+चेकिंग
+
+873
+00:50:47,920 --> 00:50:53,079
+yes hello just give me a second I
+हाँ हैलो बस मुझे एक सेकंड दे दो
+
+874
+00:50:53,079 --> 00:50:58,280
+guess yeah okay sir you you uh video I
+लगता है हाँ ठीक है सर तुम uh वीडियो मैं
+
+875
+00:50:58,280 --> 00:51:02,000
+guess it got sto like
+लगता है कि यह की तरह sto मिला है
+
+876
+00:51:02,000 --> 00:51:06,599
+camera just a second I I guess uh okay
+कैमरा सिर्फ एक सेकंड मुझे लगता है कि उह ठीक है
+
+877
+00:51:06,599 --> 00:51:08,799
+my system is on different Wi-Fi that's
+मेरा सिस्टम अलग-अलग वाई-फाई पर है
+
+878
+00:51:08,799 --> 00:51:10,440
+the reason just a second I'm switching
+कारण सिर्फ एक सेकंड मैं स्विच कर रहा हूं
+
+879
+00:51:10,440 --> 00:51:14,280
+back you can no no no uh no just you can
+आप वापस नहीं, नो उह नहीं, बस आप कर सकते हैं
+
+880
+00:51:14,280 --> 00:51:17,119
+close and open your camera yeah now it's
+बंद करें और अपना कैमरा खोलें हाँ अब यह है
+
+881
+00:51:17,119 --> 00:51:20,359
+now it's Yes actually uh it is connected
+अब यह हाँ वास्तव में उह जुड़ा हुआ है
+
+882
+00:51:20,359 --> 00:51:24,559
+with mobile so it needs to be connected
+मोबाइल के साथ इसलिए इसे कनेक्ट करने की आवश्यकता है
+
+883
+00:51:24,559 --> 00:51:28,359
+to Wi-Fi same Wi-Fi okay so for that
+वाई-फाई एक ही वाई-फाई के लिए ठीक है
+
+884
+00:51:28,359 --> 00:51:35,599
+ials to oh okay a mistake that I made I
+ओह, ठीक है एक गलती जो मैंने बनाई थी
+
+885
+00:51:36,480 --> 00:51:40,720
+++ so what I'm checking over here okay
+++ तो मैं यहाँ क्या देख रहा हूँ ठीक है
+
+886
+00:51:40,720 --> 00:51:46,359
+for let I when I is here then I will
+जब मैं यहाँ हूँ तो मैं यहाँ हूँ
+
+887
+00:51:46,359 --> 00:51:48,880
+call this flatten the array
+इस चपटे को सरणी कहें
+
+888
+00:51:48,880 --> 00:51:53,720
+function with what with
+क्या के साथ कार्य करते हैं
+
+889
+00:51:53,720 --> 00:51:57,040
+well okay uh so what I'm think
+अच्छी तरह से ठीक है उह तो मैं क्या सोच रहा हूँ
+
+890
+00:51:57,040 --> 00:51:59,920
+King go here what it will do is
+राजा यहाँ जाओ कि यह क्या करेगा
+
+891
+00:51:59,920 --> 00:52:05,520
+basically um wait I'll create an another
+मूल रूप से उम प्रतीक्षा मैं एक और बनाऊंगा
+
+892
+00:52:05,520 --> 00:52:10,280
+result equals to this array return
+परिणाम इस सरणी रिटर्न के बराबर है
+
+893
+00:52:10,280 --> 00:52:15,040
+return um I'll rest do push basically it
+रिटर्न उम मैं मूल रूप से इसे धक्का दूंगा
+
+894
+00:52:15,040 --> 00:52:19,280
+means that I'm getting um a number and
+इसका मतलब है कि मैं एक नंबर और एक नंबर प्राप्त कर रहा हूँ
+
+895
+00:52:19,280 --> 00:52:22,240
+in that case what I'll do
+उस मामले में मैं क्या करूँगा
+
+896
+00:52:22,240 --> 00:52:27,000
+well um I'll push that value and I'll
+खैर उम मैं उस मूल्य को धक्का दूंगा और मैं
+
+897
+00:52:27,000 --> 00:52:29,720
+return this
+इसे वापस करें
+
+898
+00:52:30,160 --> 00:52:34,079
+rest okay so okay so what I'm doing over
+आराम करो ठीक है तो ठीक है तो मैं क्या कर रहा हूँ
+
+899
+00:52:34,079 --> 00:52:35,760
+here it will be executed for the first
+यहाँ इसे पहले के लिए निष्पादित किया जाएगा
+
+900
+00:52:35,760 --> 00:52:37,280
+time Val will be passed here I am
+समय वैल यहाँ से गुजर जाएगा मैं हूँ
+
+901
+00:52:37,280 --> 00:52:39,960
+checking if that value is an array if
+जाँच करना कि क्या वह मान एक सरणी है यदि
+
+902
+00:52:39,960 --> 00:52:42,319
+that is not the case then I'll go ahead
+यह मामला नहीं है तो मैं आगे बढ़ूंगा
+
+903
+00:52:42,319 --> 00:52:44,839
+and I know that is a just a number so
+और मुझे पता है कि यह सिर्फ एक संख्या है
+
+904
+00:52:44,839 --> 00:52:46,960
+for example if in my array something is
+उदाहरण के लिए अगर मेरे सरणी में कुछ है
+
+905
+00:52:46,960 --> 00:52:49,200
+like this I'll just go ahead and push
+इस तरह मैं बस आगे बढ़ूंगा और धक्का दूंगा
+
+906
+00:52:49,200 --> 00:52:54,040
+that into this uh uh this rest door push
+इस उह उह में यह बाकी दरवाजा धक्का
+
+907
+00:52:54,040 --> 00:53:00,640
+into this and and I'll return that
+इसमें और मैं इसे वापस कर दूंगा
+
+908
+00:53:00,640 --> 00:53:03,720
+okay okay I don't have to return
+ठीक है ठीक है मुझे लौटने की जरूरत नहीं है
+
+909
+00:53:03,720 --> 00:53:07,079
+immediately okay and after that what I'm
+तुरंत ठीक है और उसके बाद मैं क्या हूँ
+
+910
+00:53:07,079 --> 00:53:09,799
+doing over here I'm checking if that is
+यहाँ पर कर मैं जाँच कर रहा हूँ अगर वह है
+
+911
+00:53:09,799 --> 00:53:11,839
+array so in this case it will be true it
+सरणी तो इस मामले में यह सच होगा
+
+912
+00:53:11,839 --> 00:53:14,440
+will be an array and as soon as I am
+एक सरणी होगी और जैसे ही मैं हूं
+
+913
+00:53:14,440 --> 00:53:18,040
+inside this uh block if block I'll
+इस उह ब्लॉक के अंदर अगर मैं ब्लॉक करूंगा
+
+914
+00:53:18,040 --> 00:53:21,040
+lerate over that array
+उस सरणी पर लिटा
+
+915
+00:53:21,040 --> 00:53:26,200
+so um okay I I trting over this I passed
+तो उम ठीक है मैं इस पर ट्रिंग मैं पास हो गया
+
+916
+00:53:26,200 --> 00:53:30,400
+the Val of I over here Val of I so Val
+मैं यहाँ पर वैल के वैल के वैल
+
+917
+00:53:30,400 --> 00:53:34,040
+of I simply means this first value it
+मैं सीधा मतलब है कि यह पहला मूल्य है
+
+918
+00:53:34,040 --> 00:53:35,640
+will be pass here it will be checked
+यहाँ पास हो जाएगा यह जाँच की जाएगी
+
+919
+00:53:35,640 --> 00:53:40,200
+again okay so I guess it should
+फिर से ठीक है तो मुझे लगता है कि यह होना चाहिए
+
+920
+00:53:40,480 --> 00:53:43,480
+work
+काम
+
+921
+00:53:44,880 --> 00:53:49,079
+um return rest
+उम वापसी आराम
+
+922
+00:53:49,119 --> 00:53:54,640
+yeah should I like try to
+हाँ, मुझे कोशिश करनी चाहिए
+
+923
+00:53:55,440 --> 00:53:59,160
+okay F the
+ठीक है च
+
+924
+00:54:10,160 --> 00:54:13,680
+aray with the
+के साथ aray
+
+925
+00:54:15,880 --> 00:54:19,160
+value is
+मूल्य है
+
+926
+00:54:19,160 --> 00:54:23,040
+there okay it is giving me empty what
+ठीक है यह मुझे खाली दे रहा है
+
+927
+00:54:23,040 --> 00:54:27,599
+okay I'm just returning it from here
+ठीक है मैं बस इसे यहाँ से वापस कर रहा हूँ
+
+928
+00:54:28,680 --> 00:54:31,949
+[Music]
+[संगीत]
+
+929
+00:54:36,480 --> 00:54:43,960
+i = z i is less than to length I
+i = z मैं लंबाई से कम है मैं
+
+930
+00:54:45,160 --> 00:54:50,119
+++ so what I'll do I'll
+++ तो मैं क्या करूँगा मैं क्या करूँगा
+
+931
+00:54:50,119 --> 00:54:51,839
+check
+जाँच करना
+
+932
+00:54:51,839 --> 00:54:57,160
+if Val of I is an array
+अगर वैल ऑफ आई एक सरणी है
+
+933
+00:55:06,160 --> 00:55:09,280
+if that's the
+अगर वह है
+
+934
+00:55:10,559 --> 00:55:14,880
+case return uh
+केस रिटर्न उह
+
+935
+00:55:14,880 --> 00:55:18,319
+rest uh okay uh it shouldn't give me
+बाकी उह ठीक है उह यह मुझे नहीं देना चाहिए
+
+936
+00:55:18,319 --> 00:55:19,720
+something like this
+कुछ इस तरह
+
+937
+00:55:19,720 --> 00:55:23,359
+it um
+यह उम
+
+938
+00:55:24,760 --> 00:55:26,880
+well I
+अच्छी तरह से मैं
+
+939
+00:55:26,880 --> 00:55:31,240
+okay so I guess it should work now what
+ठीक है तो मुझे लगता है कि यह अब क्या काम करना चाहिए
+
+940
+00:55:31,240 --> 00:55:32,880
+I have done over here I have created
+मैंने यहां किया है मैंने बनाया है
+
+941
+00:55:32,880 --> 00:55:36,000
+this empty array and I'm I trating over
+यह खाली सरणी और मैं मैं पर ट्रेटिंग कर रहा हूँ
+
+942
+00:55:36,000 --> 00:55:38,440
+this the the original array that I am
+यह मूल सरणी है कि मैं हूं
+
+943
+00:55:38,440 --> 00:55:42,200
+being passed with so this one array and
+इस एक सरणी के साथ पारित किया जा रहा है और
+
+944
+00:55:42,200 --> 00:55:45,720
+I am iterating over this and uh I'm
+मैं इस पर और उह मैं हूँ
+
+945
+00:55:45,720 --> 00:55:47,240
+checking if the current value that I'm
+जाँच कर रहा है कि वर्तमान मूल्य है कि मैं
+
+946
+00:55:47,240 --> 00:55:49,960
+iterating on SO for this value if this
+इस मूल्य के लिए ऐसा करने पर अगर यह
+
+947
+00:55:49,960 --> 00:55:52,440
+has this is an array so if that's the
+क्या यह एक सरणी है तो अगर यह है
+
+948
+00:55:52,440 --> 00:55:54,680
+case I'll call this function again with
+मामला मैं इस फ़ंक्शन को फिर से बुलाऊंगा
+
+949
+00:55:54,680 --> 00:55:56,520
+that value so it will be called with is
+उस मूल्य को तो यह कहा जाएगा
+
+950
+00:55:56,520 --> 00:56:00,160
+one and two array so again uh I'm
+एक और दो सरणी तो फिर से उह मैं
+
+951
+00:56:00,160 --> 00:56:02,599
+checking if the current value is an
+जाँच करना यदि वर्तमान मूल्य एक है
+
+952
+00:56:02,599 --> 00:56:05,359
+array okay so that won't be the case in
+सरणी ठीक है ताकि ऐसा नहीं होगा
+
+953
+00:56:05,359 --> 00:56:09,839
+this case it will go to this and it will
+यह मामला यह इस पर जाएगा और यह होगा
+
+954
+00:56:09,839 --> 00:56:13,359
+push the current value uh yes just a
+वर्तमान मूल्य उह हाँ सिर्फ एक धक्का
+
+955
+00:56:13,359 --> 00:56:15,680
+second yeah it will put push the current
+दूसरा हाँ यह धक्का धक्का लगाएगा
+
+956
+00:56:15,680 --> 00:56:18,119
+value which will be one over here inside
+मूल्य जो यहाँ पर एक होगा
+
+957
+00:56:18,119 --> 00:56:22,280
+this rest rest array and again it will
+यह आराम सरणी और फिर से यह होगा
+
+958
+00:56:22,280 --> 00:56:26,079
+check then this value will be pushed and
+जांच तब इस मान को धक्का दिया जाएगा और
+
+959
+00:56:26,079 --> 00:56:28,960
+uh this array will be returned from
+उह इस सरणी से लौटा दिया जाएगा
+
+960
+00:56:28,960 --> 00:56:30,050
+there
+वहाँ
+
+961
+00:56:30,050 --> 00:56:31,119
+[Music]
+[संगीत]
+
+962
+00:56:31,119 --> 00:56:36,400
+and and okay so once this execution for
+और ठीक है तो एक बार के लिए इस निष्पादन के लिए
+
+963
+00:56:36,400 --> 00:56:38,319
+zeroth index will be executed it will go
+शून्य सूचकांक निष्पादित किया जाएगा यह जाएगा
+
+964
+00:56:38,319 --> 00:56:41,400
+to the first index okay and it will do
+पहले सूचकांक के लिए ठीक है और यह करेगा
+
+965
+00:56:41,400 --> 00:56:45,920
+the same it should work now um
+वही अब काम करना चाहिए
+
+966
+00:56:45,920 --> 00:56:48,799
+okay uh I'm not sure why I'm getting an
+ठीक है उह मुझे यकीन नहीं है कि मुझे क्यों मिल रहा है
+
+967
+00:56:48,799 --> 00:56:51,160
+empty
+खाली
+
+968
+00:56:51,480 --> 00:56:56,440
+array uh I'm making some mistake
+सरणी उह मैं कुछ गलती कर रहा हूँ
+
+969
+00:57:10,039 --> 00:57:14,400
+going go here and
+यहाँ जा रहे हैं और
+
+970
+00:57:53,359 --> 00:57:57,079
+it is working now
+यह अब काम कर रहा है
+
+971
+00:57:57,839 --> 00:58:00,520
+that
+वह
+
+972
+00:58:08,119 --> 00:58:12,920
+I okay so uh so it is working
+मैं ठीक है तो उह तो यह काम कर रहा है
+
+973
+00:58:12,920 --> 00:58:16,760
+now your video
+अब आपका वीडियो
+
+974
+00:58:17,280 --> 00:58:20,280
+got
+प्राप्त
+
+975
+00:58:20,920 --> 00:58:24,480
+stopped yeah no okay okay I'm able to
+रोका हाँ नहीं ठीक है मैं सक्षम हूँ
+
+976
+00:58:24,480 --> 00:58:28,359
+see that okay okay voice voice is
+देखिए ठीक है ठीक है आवाज आवाज है
+
+977
+00:58:28,359 --> 00:58:32,839
+breaking okay uh just uh compress the
+ठीक है उह बस उह संपीड़ित
+
+978
+00:58:32,839 --> 00:58:34,520
+code
+कोड
+
+979
+00:58:34,520 --> 00:58:38,039
+okay and tell you what you have done
+ठीक है और आपको बताएं कि आपने क्या किया है
+
+980
+00:58:38,039 --> 00:58:40,520
+okay so over here what I have done that
+ठीक है तो यहाँ पर मैंने क्या किया है
+
+981
+00:58:40,520 --> 00:58:44,240
+instead of creating I just told you to
+बनाने के बजाय मैंने अभी आपको बताया था
+
+982
+00:58:44,240 --> 00:58:48,880
+compress means uh in a single
+संपीड़ित का अर्थ है एक एकल में उह
+
+983
+00:58:48,880 --> 00:58:54,160
+page okay so is it visible to you
+पृष्ठ ठीक है तो यह आपको दिखाई दे रहा है
+
+984
+00:58:54,160 --> 00:58:57,680
+now yeah now it's visible now it's okay
+अब हाँ अब यह दिखाई दे रहा है अब ठीक है
+
+985
+00:58:57,680 --> 00:59:00,760
+okay okay so I just compress the lines
+ठीक है ठीक है तो मैं सिर्फ लाइनों को संपीड़ित करता हूं
+
+986
+00:59:00,760 --> 00:59:03,920
+actually into this small yeah so what I
+वास्तव में इस छोटे से हाँ में तो मैं क्या
+
+987
+00:59:03,920 --> 00:59:05,680
+have done over here that I just created
+यहाँ पर किया है कि मैंने अभी बनाया है
+
+988
+00:59:05,680 --> 00:59:07,119
+this array
+यह सरणी
+
+989
+00:59:07,119 --> 00:59:10,520
+outside and I have called this function
+बाहर और मैंने इस फ़ंक्शन को बुलाया है
+
+990
+00:59:10,520 --> 00:59:13,079
+with array only so it will hold only the
+केवल सरणी के साथ यह केवल पकड़ होगा
+
+991
+00:59:13,079 --> 00:59:15,319
+original reference here so whenever I am
+जब भी मैं होता हूं, तब मूल संदर्भ
+
+992
+00:59:15,319 --> 00:59:17,280
+pushing something inside the array it
+सरणी के अंदर कुछ धक्का देना
+
+993
+00:59:17,280 --> 00:59:20,200
+will push uh I am pushing inside the
+उह धक्का मैं अंदर धकेल रहा हूँ
+
+994
+00:59:20,200 --> 00:59:22,119
+array so it will only push into this
+सरणी तो यह केवल इस में धक्का देगा
+
+995
+00:59:22,119 --> 00:59:25,000
+array so it will maintain the result
+सरणी तो यह परिणाम बनाए रखेगा
+
+996
+00:59:25,000 --> 00:59:27,119
+throughout the uh calling of this
+इस के यूएच कॉलिंग के दौरान
+
+997
+00:59:27,119 --> 00:59:32,880
+function okay okay yes okay uh should we
+समारोह ठीक है ठीक है हाँ ठीक है उह हमें चाहिए
+
+998
+00:59:32,880 --> 00:59:39,160
+move on to react yes sir okay
+प्रतिक्रिया के लिए आगे बढ़ें हाँ सर ठीक है
+
+999
+00:59:40,079 --> 00:59:43,640
+uh okay before moving on to react uh
+उह ठीक है, उह पर जाने के लिए आगे बढ़ने से पहले
+
+1000
+00:59:43,640 --> 00:59:45,440
+just tell me what are
+बस मुझे बताओ कि क्या हैं
+
+1001
+00:59:45,440 --> 00:59:48,079
+closures
+बंद
+
+1002
+00:59:48,079 --> 00:59:51,880
+okay so uh closes basically is the
+ठीक है इसलिए उह मूल रूप से बंद हो जाता है
+
+1003
+00:59:51,880 --> 00:59:55,039
+ability of any function for example in
+उदाहरण के लिए किसी भी फ़ंक्शन की क्षमता
+
+1004
+00:59:55,039 --> 00:59:57,440
+the program that we have done over here
+वह कार्यक्रम जो हमने यहां किया है
+
+1005
+00:59:57,440 --> 01:00:00,240
+so uh for the closes closes basically
+तो मूल रूप से बंद होने के लिए उह
+
+1006
+01:00:00,240 --> 01:00:02,520
+mean the ability of the function to
+फ़ंक्शन की क्षमता का मतलब है
+
+1007
+01:00:02,520 --> 01:00:05,280
+remember the values that were outside
+उन मूल्यों को याद रखें जो बाहर थे
+
+1008
+01:00:05,280 --> 01:00:08,039
+its scope in its lexical scope actually
+वास्तव में इसके शाब्दिक दायरे में इसका दायरा
+
+1009
+01:00:08,039 --> 01:00:11,000
+where it was created and if even if that
+जहां यह बनाया गया था और अगर वह भी
+
+1010
+01:00:11,000 --> 01:00:13,480
+scope has been destroyed it will still
+स्कोप नष्ट हो गया है यह अभी भी होगा
+
+1011
+01:00:13,480 --> 01:00:16,039
+maintain the uh reference to those
+उन लोगों के लिए उह संदर्भ बनाए रखें
+
+1012
+01:00:16,039 --> 01:00:18,200
+values that were created outside its
+मूल्य जो इसके बाहर बनाए गए थे
+
+1013
+01:00:18,200 --> 01:00:21,240
+scope so for example in this case when
+इस मामले में उदाहरण के लिए स्कोप करें जब
+
+1014
+01:00:21,240 --> 01:00:23,720
+we had this Curry function what it was
+हमारे पास यह करी फंक्शन था जो यह था
+
+1015
+01:00:23,720 --> 01:00:26,839
+doing it was remembering this value even
+ऐसा करना इस मूल्य को भी याद कर रहा था
+
+1016
+01:00:26,839 --> 01:00:30,839
+after this outside function was uh
+इसके बाद बाहर फ़ंक्शन उह था
+
+1017
+01:00:30,839 --> 01:00:32,480
+stopped executing
+निष्पादित करना बंद कर दिया
+
+1018
+01:00:32,480 --> 01:00:36,280
+was yes sir uh okay we will move on to
+क्या हाँ सर उह ठीक है हम आगे बढ़ेंगे
+
+1019
+01:00:36,280 --> 01:00:38,079
+react uh tell
+रिएक्ट उह बताओ
+
+1020
+01:00:38,079 --> 01:00:41,960
+me how just you will do the basic setup
+मुझे कैसे बस आप मूल सेटअप करेंगे
+
+1021
+01:00:41,960 --> 01:00:46,039
+of react project okay sir so uh like do
+रिएक्ट प्रोजेक्ट ठीक है सर तो उह की तरह
+
+1022
+01:00:46,039 --> 01:00:48,119
+I have to tell the folder structure or
+मुझे फ़ोल्डर संरचना बतानी है या
+
+1023
+01:00:48,119 --> 01:00:51,599
+what just a setup uh to set up the
+क्या बस एक सेटअप uh सेट करने के लिए क्या है
+
+1024
+01:00:51,599 --> 01:00:55,440
+project okay so so I have some Bel tools
+प्रोजेक्ट ठीक है इसलिए मेरे पास कुछ बेल टूल हैं
+
+1025
+01:00:55,440 --> 01:00:58,880
+like uh uh create react app or V create
+जैसे उह उह रिएक्ट ऐप या वी क्रिएट बनाएं
+
+1026
+01:00:58,880 --> 01:01:02,520
+V at latest I can just do that and uh
+V नवीनतम में मैं बस इतना कर सकता हूं और उह
+
+1027
+01:01:02,520 --> 01:01:05,760
+npm create V at the latest and it will
+npm नवीनतम पर v बनाएं और यह होगा
+
+1028
+01:01:05,760 --> 01:01:08,720
+just create my we uh it will create a
+बस मेरे हम उह बनाएँ यह एक बनाएगा
+
+1029
+01:01:08,720 --> 01:01:10,920
+demo application my react demo
+डेमो एप्लिकेशन मेरे रिएक्ट डेमो
+
+1030
+01:01:10,920 --> 01:01:13,160
+application which I can change my code
+एप्लिकेशन जिसे मैं अपना कोड बदल सकता हूं
+
+1031
+01:01:13,160 --> 01:01:17,799
+according to my needs okay yes
+मेरी जरूरतों के अनुसार ठीक है हाँ
+
+1032
+01:01:17,799 --> 01:01:22,039
+sir and how will you call it like the
+सर और आप इसे कैसे कहेंगे
+
+1033
+01:01:22,039 --> 01:01:25,079
+project okay I'll do something npm
+परियोजना ठीक है मैं कुछ npm करूँगा
+
+1034
+01:01:25,079 --> 01:01:28,280
+create uh we at
+हम पर उह बनाएँ
+
+1035
+01:01:28,280 --> 01:01:30,839
+latest okay yes
+नवीनतम ठीक है हाँ
+
+1036
+01:01:30,839 --> 01:01:33,720
+sir okay tell me whether react it is a
+सर ठीक है मुझे बताओ कि क्या यह प्रतिक्रिया है
+
+1037
+01:01:33,720 --> 01:01:35,000
+library or a
+पुस्तकालय या ए
+
+1038
+01:01:35,000 --> 01:01:37,880
+framework okay so like uh react
+फ्रेमवर्क ठीक है जैसे उह रिएक्ट
+
+1039
+01:01:37,880 --> 01:01:40,799
+basically is uh a
+मूल रूप से उह ए
+
+1040
+01:01:40,799 --> 01:01:44,799
+library and yes sir and framework it is
+लाइब्रेरी और हां सर और फ्रेमवर्क यह है
+
+1041
+01:01:44,799 --> 01:01:48,880
+not CU like uh Library react is a
+उह लाइब्रेरी रिएक्ट की तरह क्यू नहीं है
+
+1042
+01:01:48,880 --> 01:01:51,400
+smaller version and not smaller version
+छोटा संस्करण और छोटा संस्करण नहीं
+
+1043
+01:01:51,400 --> 01:01:55,400
+but it is a small and compact uh like uh
+लेकिन यह उह की तरह एक छोटा और कॉम्पैक्ट उह है
+
+1044
+01:01:55,400 --> 01:01:58,440
+just a second yeah library that we use
+बस एक दूसरा हाँ लाइब्रेरी जिसका हम उपयोग करते हैं
+
+1045
+01:01:58,440 --> 01:02:01,799
+in order to make some projects that it
+कुछ परियोजनाओं को बनाने के लिए
+
+1046
+01:02:01,799 --> 01:02:04,200
+gives us some reusable components code
+हमें कुछ पुन: प्रयोज्य घटक कोड देता है
+
+1047
+01:02:04,200 --> 01:02:06,960
+blocks that we use throughout our
+ब्लॉक जो हम अपने पूरे समय करते हैं
+
+1048
+01:02:06,960 --> 01:02:10,960
+project okay okay yes
+प्रोजेक्ट ठीक है ठीक है हाँ
+
+1049
+01:02:18,680 --> 01:02:21,599
+sir okay so
+सर ठीक है तो
+
+1050
+01:02:21,599 --> 01:02:26,960
+uh which is more preferred uh react for
+उह जो अधिक पसंदीदा है उह प्रतिक्रिया के लिए
+
+1051
+01:02:26,960 --> 01:02:31,920
+angular okay so it is totally uh on the
+कोणीय ठीक है तो यह पूरी तरह से उह है
+
+1052
+01:02:31,920 --> 01:02:33,920
+requirements of the project actually if
+परियोजना की आवश्यकताएं वास्तव में अगर
+
+1053
+01:02:33,920 --> 01:02:36,640
+you yes sir if you need a project that
+आप हाँ सर अगर आपको एक परियोजना की आवश्यकता है
+
+1054
+01:02:36,640 --> 01:02:39,240
+you just want to uh like framework gives
+आप बस उह की तरह फ्रेमवर्क देता है
+
+1055
+01:02:39,240 --> 01:02:42,279
+you a proper way of creating a project
+आप एक परियोजना बनाने का एक उचित तरीका है
+
+1056
+01:02:42,279 --> 01:02:44,960
+actually for example angular angular
+वास्तव में उदाहरण के लिए कोणीय कोणीय
+
+1057
+01:02:44,960 --> 01:02:47,720
+gives you a proper uh flow that you have
+आपको एक उचित यूएच प्रवाह देता है जो आपके पास है
+
+1058
+01:02:47,720 --> 01:02:50,160
+to only I mean they they just give your
+केवल मेरा मतलब है कि वे सिर्फ आपका देते हैं
+
+1059
+01:02:50,160 --> 01:02:52,880
+pre-planned things but in react you can
+पूर्व-नियोजित चीजें लेकिन प्रतिक्रिया में आप कर सकते हैं
+
+1060
+01:02:52,880 --> 01:02:55,279
+do according to your needs and it is
+अपनी जरूरतों के अनुसार करते हैं और यह है
+
+1061
+01:02:55,279 --> 01:02:57,440
+totally dependent on the developer
+पूरी तरह से डेवलपर पर निर्भर है
+
+1062
+01:02:57,440 --> 01:02:59,960
+because the learning curve in angler is
+क्योंकि एंगलर में सीखने की अवस्था है
+
+1063
+01:02:59,960 --> 01:03:02,279
+quite High than
+की तुलना में काफी अधिक है
+
+1064
+01:03:02,279 --> 01:03:05,400
+reactjs and and Community sport I would
+Reactjs और सामुदायिक खेल मैं करूँगा
+
+1065
+01:03:05,400 --> 01:03:08,559
+say for the react it is quite larger
+रिएक्ट के लिए कहो यह काफी बड़ा है
+
+1066
+01:03:08,559 --> 01:03:14,359
+than angular okay so uh tell me what's
+कोणीय ठीक है तो उह मुझे बताओ कि क्या है
+
+1067
+01:03:14,359 --> 01:03:17,279
+the advantage of react
+प्रतिक्रिया का लाभ
+
+1068
+01:03:17,279 --> 01:03:21,200
+angular okay so for the advantages it is
+कोणीय ठीक है तो यह फायदे के लिए है
+
+1069
+01:03:21,200 --> 01:03:23,720
+lightweight than compared to angular
+कोणीय की तुलना में हल्का
+
+1070
+01:03:23,720 --> 01:03:27,279
+actually and other advantage
+वास्तव में और अन्य लाभ
+
+1071
+01:03:27,279 --> 01:03:29,079
+yes sir why it is
+हाँ सर क्यों है
+
+1072
+01:03:29,079 --> 01:03:32,160
+lightweight okay so because uh angular
+हल्का ठीक है क्योंकि उह कोणीय
+
+1073
+01:03:32,160 --> 01:03:35,920
+is a angular gives you proper all the I
+एक कोणीय आपको सभी को उचित देता है
+
+1074
+01:03:35,920 --> 01:03:39,559
+mean okay so angular gives you the data
+मतलब ठीक है तो कोणीय आपको डेटा देता है
+
+1075
+01:03:39,559 --> 01:03:41,880
+and all the things that you need to
+और सभी चीजें जो आपको चाहिए
+
+1076
+01:03:41,880 --> 01:03:44,960
+create an object with but with the help
+मदद के साथ एक वस्तु बनाएं
+
+1077
+01:03:44,960 --> 01:03:47,960
+of react you just uh uh take small small
+प्रतिक्रिया के लिए आप बस उह छोटे छोटे ले लो
+
+1078
+01:03:47,960 --> 01:03:50,440
+small components and according to your
+छोटे घटक और आपके अनुसार
+
+1079
+01:03:50,440 --> 01:03:53,559
+needs you use them but uh that's not
+जरूरत है कि आप उनका उपयोग करें लेकिन उह यह नहीं है
+
+1080
+01:03:53,559 --> 01:03:55,319
+with angular angular gives you
+कोणीय कोणीय के साथ आपको देता है
+
+1081
+01:03:55,319 --> 01:03:57,520
+everything you choose that whatever you
+आप जो कुछ भी आप चुनते हैं वह सब कुछ
+
+1082
+01:03:57,520 --> 01:04:00,839
+need it need from it but in react you
+इसकी आवश्यकता है लेकिन आप प्रतिक्रिया में आप की जरूरत है
+
+1083
+01:04:00,839 --> 01:04:04,240
+can uh you can create the components you
+क्या आप आप घटकों को बना सकते हैं
+
+1084
+01:04:04,240 --> 01:04:06,079
+according to your needs and you can use
+अपनी आवश्यकताओं के अनुसार और आप उपयोग कर सकते हैं
+
+1085
+01:04:06,079 --> 01:04:08,440
+them throughout your code
+उन्हें आपके कोड में
+
+1086
+01:04:08,440 --> 01:04:11,760
+and uh there is a data flow that is in
+और उह एक डेटा प्रवाह है जो अंदर है
+
+1087
+01:04:11,760 --> 01:04:17,000
+oneway data flow in react but uh it is a
+रिएक्ट में वनवे डेटा प्रवाह लेकिन उह यह एक है
+
+1088
+01:04:17,000 --> 01:04:19,240
+multi I don't remember the word it is
+मल्टी मुझे याद नहीं है कि यह शब्द है
+
+1089
+01:04:19,240 --> 01:04:23,039
+basically twole data flow uh in
+मूल रूप से ट्वोल डेटा फ्लो यूएच में
+
+1090
+01:04:23,039 --> 01:04:26,559
+angular okay and react is a
+कोणीय ठीक है और प्रतिक्रिया एक है
+
+1091
+01:04:26,559 --> 01:04:29,160
+single level I mean single data flow one
+एकल स्तर मेरा मतलब है एकल डेटा प्रवाह एक
+
+1092
+01:04:29,160 --> 01:04:31,520
+level data flow I don't exactly remember
+स्तर डेटा प्रवाह मुझे बिल्कुल याद नहीं है
+
+1093
+01:04:31,520 --> 01:04:35,559
+the word okay unidirectional basically
+शब्द ठीक है मूल रूप से यूनिडायरेक्शनल
+
+1094
+01:04:35,559 --> 01:04:39,799
+yes a uni Direction yes uh so
+हाँ एक uni दिशा हाँ उह तो
+
+1095
+01:04:39,799 --> 01:04:45,880
+uh tell me what is uh the role of
+उह मुझे बताओ कि उह क्या है
+
+1096
+01:04:45,880 --> 01:04:48,599
+uh node models
+उह नोड मॉडल
+
+1097
+01:04:48,599 --> 01:04:52,440
+folder uh what's sir node models
+फ़ोल्डर उह क्या सर नोड मॉडल है
+
+1098
+01:04:52,440 --> 01:04:56,480
+folder node modules okay node Okay so so
+फ़ोल्डर नोड मॉड्यूल ठीक नोड ठीक है तो
+
+1099
+01:04:56,480 --> 01:04:59,440
+whenever we are uh okay so whenever we
+जब भी हम उह ठीक होते हैं तो हम जब भी हम
+
+1100
+01:04:59,440 --> 01:05:01,760
+are adding some dependencies in our
+हमारे में कुछ निर्भरता जोड़ रहे हैं
+
+1101
+01:05:01,760 --> 01:05:03,520
+project whenever we are adding some
+जब भी हम कुछ जोड़ रहे हैं परियोजना
+
+1102
+01:05:03,520 --> 01:05:06,079
+additional facilities in our project
+हमारी परियोजना में अतिरिक्त सुविधाएं
+
+1103
+01:05:06,079 --> 01:05:08,359
+that we do with the help of npm npm
+कि हम एनपीएम एनपीएम की मदद से करते हैं
+
+1104
+01:05:08,359 --> 01:05:10,640
+basically means node package manager it
+मूल रूप से इसका मतलब है नोड पैकेज मैनेजर आईटी
+
+1105
+01:05:10,640 --> 01:05:12,680
+will install all the dependencies that
+सभी निर्भरताएं स्थापित करेंगे
+
+1106
+01:05:12,680 --> 01:05:14,920
+you require for your project and uh it
+आपको अपने प्रोजेक्ट और उह की आवश्यकता है
+
+1107
+01:05:14,920 --> 01:05:17,799
+will give you an overview of uh I mean
+आपको उह का अवलोकन देगा मेरा मतलब है
+
+1108
+01:05:17,799 --> 01:05:20,039
+uh a high level view of all the
+उह सभी का एक उच्च स्तरीय दृश्य
+
+1109
+01:05:20,039 --> 01:05:21,760
+dependencies that are present in your
+निर्भरताएं जो आपके में मौजूद हैं
+
+1110
+01:05:21,760 --> 01:05:24,400
+project in the package.json file so all
+package.json फ़ाइल में प्रोजेक्ट तो सभी
+
+1111
+01:05:24,400 --> 01:05:26,799
+the dependencies that are installed are
+जो निर्भरताएं स्थापित हैं वे हैं
+
+1112
+01:05:26,799 --> 01:05:28,760
+inside your node
+अपने नोड के अंदर
+
+1113
+01:05:28,760 --> 01:05:31,520
+modules okay yes
+मॉड्यूल ठीक है हाँ
+
+1114
+01:05:31,520 --> 01:05:33,799
+sir what is the difference between
+सर क्या अंतर है के बीच
+
+1115
+01:05:33,799 --> 01:05:36,400
+stateless and stateful
+स्टेटलेस और स्टेटफुल
+
+1116
+01:05:36,400 --> 01:05:39,039
+components okay so stateless and
+घटक ठीक है तो स्टेटलेस और
+
+1117
+01:05:39,039 --> 01:05:41,079
+stateful components means that the
+राज्य के घटकों का मतलब है कि
+
+1118
+01:05:41,079 --> 01:05:43,240
+components that uh for the stateful
+घटक कि यूएच राज्य के लिए
+
+1119
+01:05:43,240 --> 01:05:45,279
+components the components that can
+घटक घटकों को कर सकते हैं
+
+1120
+01:05:45,279 --> 01:05:48,319
+manage their own State uh these
+अपने स्वयं के राज्य का प्रबंधन करें
+
+1121
+01:05:48,319 --> 01:05:50,039
+components are called stateful
+घटकों को राज्य कहा जाता है
+
+1122
+01:05:50,039 --> 01:05:52,200
+components and they are not reliable on
+घटक और वे विश्वसनीय नहीं हैं
+
+1123
+01:05:52,200 --> 01:05:54,760
+any other component to manage their
+उनके प्रबंधन के लिए कोई अन्य घटक
+
+1124
+01:05:54,760 --> 01:05:57,000
+state for the state less components they
+राज्य के कम घटकों के लिए राज्य
+
+1125
+01:05:57,000 --> 01:05:59,839
+are the components that need uh that
+ऐसे घटक हैं जिन्हें उह की आवश्यकता है
+
+1126
+01:05:59,839 --> 01:06:02,960
+that they can manage their own state by
+कि वे अपने स्वयं के राज्य का प्रबंधन कर सकते हैं
+
+1127
+01:06:02,960 --> 01:06:05,760
+themsel so
+सोसेल तो
+
+1128
+01:06:05,760 --> 01:06:08,920
+uh functional components they are
+उह कार्यात्मक घटक वे हैं
+
+1129
+01:06:08,920 --> 01:06:12,599
+stateless or stateful components okay so
+स्टेटलेस या स्टेटफुल कंपोनेंट्स ठीक है
+
+1130
+01:06:12,599 --> 01:06:14,839
+um functional components they were
+उम कार्यात्मक घटक वे थे
+
+1131
+01:06:14,839 --> 01:06:17,880
+stateless components before react 16.8
+रिएक्ट 16.8 से पहले स्टेटलेस घटक
+
+1132
+01:06:17,880 --> 01:06:21,119
+that was introduced in 2016 if I'm not
+अगर मैं नहीं तो 2016 में पेश किया गया था
+
+1133
+01:06:21,119 --> 01:06:24,799
+wrong and react in react version 16.8
+गलत और रिएक्ट रिएक्ट संस्करण 16.8 में प्रतिक्रिया
+
+1134
+01:06:24,799 --> 01:06:26,680
+there were hooks into produced so that
+उत्पादित करने में हुक थे ताकि
+
+1135
+01:06:26,680 --> 01:06:29,000
+made those components those functional
+उन घटकों को उन कार्यात्मक बना दिया
+
+1136
+01:06:29,000 --> 01:06:31,720
+components as a state full components as
+एक राज्य पूर्ण घटकों के रूप में घटक
+
+1137
+01:06:31,720 --> 01:06:34,119
+well before that they were stateless
+इससे पहले कि वे स्टेटलेस थे
+
+1138
+01:06:34,119 --> 01:06:36,760
+components okay okay yes
+घटक ठीक है ठीक है हाँ
+
+1139
+01:06:36,760 --> 01:06:40,559
+sir what's the rule of fragment in
+सर क्या में टुकड़े का नियम है
+
+1140
+01:06:40,559 --> 01:06:44,480
+jsx okay sir so jsx JavaScript XML
+jsx ठीक है सर सो JSX जावास्क्रिप्ट XML
+
+1141
+01:06:44,480 --> 01:06:48,319
+basically in that we uh whenever we are
+मूल रूप से उस उह में जब भी हम होते हैं
+
+1142
+01:06:48,319 --> 01:06:51,000
+writing some code and basically that
+कुछ कोड लिखना और मूल रूप से यह
+
+1143
+01:06:51,000 --> 01:06:54,359
+lets us write our JavaScript with the
+हम अपने जावास्क्रिप्ट के साथ लिखते हैं
+
+1144
+01:06:54,359 --> 01:06:57,119
+within the HTML together so whenever we
+HTML के भीतर एक साथ जब भी हम
+
+1145
+01:06:57,119 --> 01:06:59,119
+are writing our HTML with the help of
+की मदद से हमारे HTML लिख रहे हैं
+
+1146
+01:06:59,119 --> 01:07:01,200
+GSX when we use fragments basically
+GSX जब हम मूल रूप से टुकड़ों का उपयोग करते हैं
+
+1147
+01:07:01,200 --> 01:07:04,680
+those empty angular braces so what
+उन खाली कोणीय ब्रेसिज़ तो क्या
+
+1148
+01:07:04,680 --> 01:07:08,480
+happens that it just gives an extra Edge
+ऐसा होता है कि यह सिर्फ एक अतिरिक्त बढ़त देता है
+
+1149
+01:07:08,480 --> 01:07:11,160
+over the use of div actually it won't
+Div के उपयोग पर वास्तव में यह नहीं होगा
+
+1150
+01:07:11,160 --> 01:07:14,640
+take extra space than compared to a
+एक की तुलना में अतिरिक्त स्थान लें
+
+1151
+01:07:14,640 --> 01:07:18,520
+normal div actually it will just it will
+सामान्य डिव वास्तव में यह सिर्फ यह होगा
+
+1152
+01:07:18,520 --> 01:07:21,440
+just create an element it won't uh do
+बस एक तत्व बनाएं यह उह नहीं करेगा
+
+1153
+01:07:21,440 --> 01:07:24,520
+some it won't do something with your
+कुछ यह आपके साथ कुछ नहीं करेगा
+
+1154
+01:07:24,520 --> 01:07:26,440
+original styling actually it
+मूल स्टाइल वास्तव में यह
+
+1155
+01:07:26,440 --> 01:07:28,839
+won't affect your original styling
+आपके मूल स्टाइल को प्रभावित नहीं करेगा
+
+1156
+01:07:28,839 --> 01:07:31,039
+whereas if you will use a div it will
+जबकि यदि आप एक div का उपयोग करेंगे तो यह होगा
+
+1157
+01:07:31,039 --> 01:07:34,599
+just uh make some style uh it might make
+बस उह कुछ शैली बनाते हैं उह इसे बना सकते हैं
+
+1158
+01:07:34,599 --> 01:07:36,880
+it might make some style differences
+यह कुछ शैली के अंतर कर सकता है
+
+1159
+01:07:36,880 --> 01:07:39,880
+when you will use div over
+जब आप डिव ओवर का उपयोग करेंगे
+
+1160
+01:07:39,880 --> 01:07:43,119
+there okay uh
+ठीक है उह
+
+1161
+01:07:43,119 --> 01:07:44,960
+so what is
+तो क्या है
+
+1162
+01:07:44,960 --> 01:07:49,000
+jsx okay jsx basically is Javascript XML
+JSX ठीक है JSX मूल रूप से जावास्क्रिप्ट XML है
+
+1163
+01:07:49,000 --> 01:07:51,160
+full form is Javascript XML and it lets
+पूर्ण रूप जावास्क्रिप्ट XML है और यह देता है
+
+1164
+01:07:51,160 --> 01:07:54,760
+you write Java uh in react GSX lets you
+आप रिएक्ट जीएसएक्स में जावा उह लिखते हैं
+
+1165
+01:07:54,760 --> 01:07:57,440
+write Java script with uh together with
+उह के साथ जावा स्क्रिप्ट लिखें
+
+1166
+01:07:57,440 --> 01:08:00,640
+the HTML in only one
+केवल एक में HTML
+
+1167
+01:08:00,640 --> 01:08:04,720
+file okay yes
+ठीक है हाँ हाँ
+
+1168
+01:08:06,480 --> 01:08:09,319
+sir okay uh you have worked on both
+सर ठीक है उह आपने दोनों पर काम किया है
+
+1169
+01:08:09,319 --> 01:08:12,240
+class and function uh no I have worked
+क्लास और फंक्शन उह नहीं मैंने काम किया है
+
+1170
+01:08:12,240 --> 01:08:16,719
+on functional only okay uh so tell me uh
+कार्यात्मक केवल ठीक है उह तो मुझे बताओ उह
+
+1171
+01:08:16,719 --> 01:08:19,560
+okay what are the hooks with which you
+ठीक है कि कौन से हुक हैं जिनके साथ आप
+
+1172
+01:08:19,560 --> 01:08:21,040
+have work
+काम करना है
+
+1173
+01:08:21,040 --> 01:08:25,080
+on use State use effect use context uh
+उपयोग करने पर राज्य उपयोग प्रभाव का उपयोग संदर्भ उह
+
+1174
+01:08:25,080 --> 01:08:29,279
+and and um more are there but I can't
+और और उम अधिक हैं, लेकिन मैं नहीं कर सकता
+
+1175
+01:08:29,279 --> 01:08:31,960
+imate use effect also I guess I said it
+imate उपयोग प्रभाव भी मुझे लगता है कि मैंने कहा था
+
+1176
+01:08:31,960 --> 01:08:33,839
+but more are there but I can't just
+लेकिन अधिक हैं लेकिन मैं सिर्फ नहीं कर सकता
+
+1177
+01:08:33,839 --> 01:08:35,238
+remember the name
+नाम याद
+
+1178
+01:08:35,238 --> 01:08:38,279
+immediately okay okay for example use
+उदाहरण के लिए तुरंत ठीक है ठीक है
+
+1179
+01:08:38,279 --> 01:08:41,920
+call I'm saying you have worked on not
+कॉल मैं कह रहा हूं कि आपने काम नहीं किया है
+
+1180
+01:08:41,920 --> 01:08:42,799
+all the
+सभी
+
+1181
+01:08:42,799 --> 01:08:46,479
+hooks yes sir uh now I can remember the
+हुक हाँ सर उह अब मैं याद कर सकते हैं
+
+1182
+01:08:46,479 --> 01:08:49,158
+hooks that I worked on is use effect use
+हुक जो मैंने काम किया है वह उपयोग प्रभाव उपयोग है
+
+1183
+01:08:49,158 --> 01:08:54,198
+State use context and uh create context
+राज्य का उपयोग संदर्भ और UH संदर्भ बनाएँ
+
+1184
+01:08:54,198 --> 01:08:58,120
+um use context and and uh um I can
+उम का उपयोग संदर्भ और उह उम मैं कर सकते हैं
+
+1185
+01:08:58,120 --> 01:09:03,880
+remember only this for now okay yes
+अभी के लिए यह याद रखें ठीक है हाँ
+
+1186
+01:09:04,560 --> 01:09:10,000
+sir okay tell me uh the life cycle
+सर ठीक है मुझे उह जीवन चक्र बताओ
+
+1187
+01:09:10,000 --> 01:09:14,080
+methods okay so life cycle methods um
+तरीके ठीक है इसलिए जीवन चक्र तरीके उम
+
+1188
+01:09:14,080 --> 01:09:18,319
+and life cycle methods uh there are like
+और जीवन चक्र के तरीके उह पसंद हैं
+
+1189
+01:09:18,319 --> 01:09:21,319
+phases inside the life cycle methods and
+जीवन चक्र के तरीकों के अंदर चरण और
+
+1190
+01:09:21,319 --> 01:09:23,158
+the life cycle methods basically are
+मूल रूप से जीवन चक्र के तरीके हैं
+
+1191
+01:09:23,158 --> 01:09:26,198
+mounting um update and un mounting
+बढ़ते यूएम अपडेट और अन माउंटिंग
+
+1192
+01:09:26,198 --> 01:09:28,238
+inside mounting we have a Constructor
+माउंटिंग के अंदर हमारे पास एक कंस्ट्रक्टर है
+
+1193
+01:09:28,238 --> 01:09:32,920
+function in uh phase and then we have a
+यूएच चरण में कार्य और फिर हमारे पास ए
+
+1194
+01:09:32,920 --> 01:09:36,640
+um a Constructor phase I uh Constructor
+उम एक कंस्ट्रक्टर चरण I उह कंस्ट्रक्टर
+
+1195
+01:09:36,640 --> 01:09:39,399
+function and I can't exactly remember
+समारोह और मैं बिल्कुल याद नहीं कर सकता
+
+1196
+01:09:39,399 --> 01:09:41,839
+but there were total with the help of
+लेकिन की मदद से कुल थे
+
+1197
+01:09:41,839 --> 01:09:44,279
+functional components how will you do
+कार्यात्मक घटक आप कैसे करेंगे
+
+1198
+01:09:44,279 --> 01:09:46,520
+okay so with the help of function
+ठीक है तो फ़ंक्शन की मदद से
+
+1199
+01:09:46,520 --> 01:09:48,279
+functional components I can use use
+कार्यात्मक घटक मैं उपयोग कर सकते हैं
+
+1200
+01:09:48,279 --> 01:09:52,279
+effect hook to manage life cycle of my U
+मेरे यू के जीवन चक्र का प्रबंधन करने के लिए प्रभाव हुक
+
+1201
+01:09:52,279 --> 01:09:53,840
+uh
+उह
+
+1202
+01:09:53,840 --> 01:09:56,080
+components yeah with the help of use
+उपयोग की मदद से घटक हाँ
+
+1203
+01:09:56,080 --> 01:09:57,840
+effect you can do
+प्रभाव आप कर सकते हैं
+
+1204
+01:09:57,840 --> 01:10:00,960
+but for all the phases you will pass the
+लेकिन सभी चरणों के लिए आप पास करेंगे
+
+1205
+01:10:00,960 --> 01:10:02,760
+same parameters in
+में समान पैरामीटर
+
+1206
+01:10:02,760 --> 01:10:06,960
+use okay so so so what I can do like
+ठीक है तो मैं क्या पसंद कर सकता हूँ
+
+1207
+01:10:06,960 --> 01:10:09,199
+whenever own mounting I can return a
+जब भी खुद बढ़ते मैं वापस कर सकता हूं
+
+1208
+01:10:09,199 --> 01:10:12,000
+cleaner function in my use effect so
+मेरे उपयोग प्रभाव में क्लीनर फ़ंक्शन
+
+1209
+01:10:12,000 --> 01:10:14,000
+whenever it is return it is return on
+जब भी यह वापस आ जाता है तो यह वापस आ जाता है
+
+1210
+01:10:14,000 --> 01:10:18,080
+the unmounting of the like uh
+उह की तरह अनमाह
+
+1211
+01:10:18,080 --> 01:10:21,600
+component and uh as my parameters for
+घटक और उह मेरे मापदंडों के लिए
+
+1212
+01:10:21,600 --> 01:10:24,520
+the like a first first parameter I can
+पहले पहले पैरामीटर की तरह मैं कर सकता हूं
+
+1213
+01:10:24,520 --> 01:10:26,800
+pass a call back function and for the
+एक कॉल बैक फ़ंक्शन पास करें और के लिए
+
+1214
+01:10:26,800 --> 01:10:30,679
+second parameter I can pass an array of
+दूसरा पैरामीटर मैं एक सरणी पास कर सकता हूं
+
+1215
+01:10:30,679 --> 01:10:33,360
+dependency array which is uh which will
+निर्भरता सरणी जो उह है
+
+1216
+01:10:33,360 --> 01:10:36,280
+be basically used to monitor the changes
+मूल रूप से परिवर्तनों की निगरानी के लिए उपयोग किया जाता है
+
+1217
+01:10:36,280 --> 01:10:38,480
+if there are some changes then I want to
+अगर कुछ बदलाव हैं तो मैं चाहता हूं
+
+1218
+01:10:38,480 --> 01:10:41,480
+execute this call back function
+इस कॉल बैक फ़ंक्शन को निष्पादित करें
+
+1219
+01:10:41,480 --> 01:10:44,760
+only okay but tell me what are the exact
+केवल ठीक है, लेकिन मुझे बताओ कि सटीक क्या हैं
+
+1220
+01:10:44,760 --> 01:10:47,480
+parameters for all mounting updating and
+सभी बढ़ते अद्यतन के लिए पैरामीटर और
+
+1221
+01:10:47,480 --> 01:10:50,199
+unmounting phase for functional
+कार्यात्मक के लिए अनमाउंटिंग चरण
+
+1222
+01:10:50,199 --> 01:10:54,840
+components okay okay um okay so for now
+घटक ठीक है ठीक है उम ठीक है तो अब के लिए
+
+1223
+01:10:54,840 --> 01:10:57,719
+I only remember uh which is for the
+मुझे केवल उह याद है जो के लिए है
+
+1224
+01:10:57,719 --> 01:11:01,719
+unmounting phe that you can use this um
+अनमाउंटिंग phe कि आप इस um का उपयोग कर सकते हैं
+
+1225
+01:11:01,719 --> 01:11:03,480
+uh you can use
+उह आप उपयोग कर सकते हैं
+
+1226
+01:11:03,480 --> 01:11:06,640
+this return you can use this cleaner
+यह रिटर्न आप इस क्लीनर का उपयोग कर सकते हैं
+
+1227
+01:11:06,640 --> 01:11:09,280
+function which you will return once uh
+फ़ंक्शन जो आप एक बार उह लौट आएंगे
+
+1228
+01:11:09,280 --> 01:11:12,080
+the code has been executed and the uh
+कोड निष्पादित किया गया है और उह
+
+1229
+01:11:12,080 --> 01:11:13,560
+for the unmounting phase and for the
+अनमाउंटिंग चरण के लिए और के लिए
+
+1230
+01:11:13,560 --> 01:11:16,000
+mounting phase you can just clear
+बढ़ते चरण आप बस स्पष्ट कर सकते हैं
+
+1231
+01:11:16,000 --> 01:11:19,239
+declare an empty dependency array so
+एक खाली निर्भरता सरणी घोषित करें
+
+1232
+01:11:19,239 --> 01:11:21,800
+when when that component is mounted the
+जब उस घटक को माउंट किया जाता है
+
+1233
+01:11:21,800 --> 01:11:23,440
+call back function will be called that
+कॉल बैक फ़ंक्शन को कहा जाएगा
+
+1234
+01:11:23,440 --> 01:11:26,480
+you're passing and and for the updating
+आप पास कर रहे हैं और अद्यतन करने के लिए
+
+1235
+01:11:26,480 --> 01:11:28,880
+phase Whenever there is some uh like
+चरण जब भी कुछ उह पसंद है
+
+1236
+01:11:28,880 --> 01:11:30,880
+change in your dependency if there is a
+अगर वहाँ है तो अपनी निर्भरता में बदलें
+
+1237
+01:11:30,880 --> 01:11:33,000
+value you're storing so whenever there
+जब भी आप संग्रहीत कर रहे हैं तो मूल्य
+
+1238
+01:11:33,000 --> 01:11:35,760
+is change in that value you can call
+उस मूल्य में परिवर्तन है जिसे आप कॉल कर सकते हैं
+
+1239
+01:11:35,760 --> 01:11:39,199
+that function that call back function uh
+वह फ़ंक्शन जो कॉल बैक फ़ंक्शन उह
+
+1240
+01:11:39,199 --> 01:11:46,080
+for the updating phase okay okay okay uh
+अद्यतन चरण के लिए ठीक है ठीक है ठीक है उह
+
+1241
+01:11:46,080 --> 01:11:48,679
+uh uh
+उह उह
+
+1242
+01:11:48,679 --> 01:11:51,239
+for okay what is the difference between
+ठीक है के बीच क्या अंतर है
+
+1243
+01:11:51,239 --> 01:11:53,320
+Fetch and
+लाना और
+
+1244
+01:11:53,320 --> 01:11:56,840
+AIS Okay so the only difference that I
+ऐस ठीक है तो केवल अंतर है कि मैं
+
+1245
+01:11:56,840 --> 01:12:00,920
+know is uh that for when I'm using some
+पता है कि उह है कि जब मैं कुछ का उपयोग कर रहा हूं
+
+1246
+01:12:00,920 --> 01:12:03,400
+code in my fetch I have to write two
+मेरे लाने में कोड मुझे दो लिखना है
+
+1247
+01:12:03,400 --> 01:12:07,280
+times then actually um but in ex exus I
+समय तो वास्तव में उम लेकिन पूर्व एक्सस में मैं
+
+1248
+01:12:07,280 --> 01:12:10,840
+just have to write only once that
+बस एक बार केवल एक बार लिखना है
+
+1249
+01:12:10,840 --> 01:12:14,719
+then okay that's the only difference um
+तो ठीक है कि केवल अंतर उम है
+
+1250
+01:12:14,719 --> 01:12:17,400
+there might be others but uh as for now
+अन्य हो सकते हैं लेकिन अब के रूप में उह
+
+1251
+01:12:17,400 --> 01:12:22,080
+I can only remember these okay yes
+मैं केवल ये ठीक याद कर सकते हैं हाँ
+
+1252
+01:12:22,080 --> 01:12:25,560
+sir have you worked on Redux
+सर क्या आपने Redux पर काम किया है
+
+1253
+01:12:25,560 --> 01:12:28,400
+yes sir okay can you tell me the
+हाँ सर ठीक है आप मुझे बता सकते हैं
+
+1254
+01:12:28,400 --> 01:12:32,080
+components of Redux okay so the
+Redux के घटक ठीक है तो
+
+1255
+01:12:32,080 --> 01:12:35,440
+components of the Redux will be uh the
+Redux के घटक UH होंगे
+
+1256
+01:12:35,440 --> 01:12:40,520
+store the reducers and the middle
+reducers और बीच को स्टोर करें
+
+1257
+01:12:40,520 --> 01:12:44,600
+wear okay yes
+ठीक है हाँ
+
+1258
+01:12:45,800 --> 01:12:48,040
+sir what is the difference between
+सर क्या अंतर है के बीच
+
+1259
+01:12:48,040 --> 01:12:50,600
+client side rendering and server side
+क्लाइंट साइड रेंडरिंग और सर्वर साइड
+
+1260
+01:12:50,600 --> 01:12:53,280
+rendering okay so client side rendering
+ठीक है तो क्लाइंट साइड रेंडरिंग
+
+1261
+01:12:53,280 --> 01:12:57,120
+basically as the name suggest uh it so
+मूल रूप से नाम के रूप में यह सुझाव है कि यह ऐसा है
+
+1262
+01:12:57,120 --> 01:12:59,000
+whatever the data is coming from the
+जो भी डेटा से आ रहा है
+
+1263
+01:12:59,000 --> 01:13:04,080
+back end and uh that will be only um
+बैक एंड और उह जो केवल उम होगा
+
+1264
+01:13:04,080 --> 01:13:06,639
+okay so the data it will come from the
+ठीक है तो यह डेटा से आएगा
+
+1265
+01:13:06,639 --> 01:13:09,760
+back end and the all all the working of
+बैक एंड और ऑल द वर्किंग ऑफ़
+
+1266
+01:13:09,760 --> 01:13:12,800
+that uh the layout representation and
+कि उह लेआउट प्रतिनिधित्व और
+
+1267
+01:13:12,800 --> 01:13:15,639
+the painting of the Dome it will only be
+गुंबद की पेंटिंग केवल यह होगी
+
+1268
+01:13:15,639 --> 01:13:19,679
+uh done in front end but when you are uh
+उह सामने के अंत में किया गया था लेकिन जब आप उह हैं
+
+1269
+01:13:19,679 --> 01:13:21,320
+doing server site rering basically you
+सर्वर साइट को करना मूल रूप से आप
+
+1270
+01:13:21,320 --> 01:13:23,440
+are sending something something from
+से कुछ भेज रहे हैं
+
+1271
+01:13:23,440 --> 01:13:25,199
+back end actually that's not something
+बैक एंड वास्तव में यह कुछ नहीं है
+
+1272
+01:13:25,199 --> 01:13:28,159
+but the code HTML code from the back end
+लेकिन बैक एंड से HTML कोड कोड
+
+1273
+01:13:28,159 --> 01:13:31,000
+and it will come uh in a way that it it
+और यह इस तरह से उह आएगा कि यह यह है
+
+1274
+01:13:31,000 --> 01:13:33,679
+just needs to be shown on your front end
+बस अपने सामने के छोर पर दिखाए जाने की जरूरत है
+
+1275
+01:13:33,679 --> 01:13:36,159
+only so that that we can do with the
+केवल इतना है कि हम के साथ कर सकते हैं
+
+1276
+01:13:36,159 --> 01:13:42,080
+help of next years I guess okay yes
+अगले वर्षों की मदद मुझे लगता है कि ठीक है हाँ
+
+1277
+01:13:43,490 --> 01:13:45,480
+[Music]
+[संगीत]
+
+1278
+01:13:45,480 --> 01:13:49,360
+sir so suppose if we pass null as a
+सर तो मान लीजिए कि क्या हम एक के रूप में अशक्त पास करते हैं
+
+1279
+01:13:49,360 --> 01:13:52,280
+dependency array so what will be the
+निर्भरता सरणी तो क्या होगा
+
+1280
+01:13:52,280 --> 01:13:53,719
+situation
+परिस्थिति
+
+1281
+01:13:53,719 --> 01:13:56,960
+happening okay so so when we have null
+ठीक हो रहा है तो जब हमारे पास शून्य हो
+
+1282
+01:13:56,960 --> 01:14:00,080
+or you mean nothing in that null null we
+या आप उस शून्य शून्य में कुछ भी नहीं है
+
+1283
+01:14:00,080 --> 01:14:03,440
+are passing null as a dependency AR we
+हम एक निर्भरता के रूप में शून्य से गुजर रहे हैं
+
+1284
+01:14:03,440 --> 01:14:06,679
+are passing it something null okay like
+इसे कुछ ठीक कर रहे हैं जैसे ठीक है
+
+1285
+01:14:06,679 --> 01:14:10,840
+we Define a variable as a null sometimes
+हम एक चर को कभी -कभी एक अशक्त के रूप में परिभाषित करते हैं
+
+1286
+01:14:10,840 --> 01:14:13,239
+okay okay like that sarly we passing
+ठीक है ठीक है जैसे कि हम गुजर रहे हैं
+
+1287
+01:14:13,239 --> 01:14:18,280
+dependency as a n got it so happen got
+एक n के रूप में निर्भरता यह हो गया तो हो गया
+
+1288
+01:14:18,280 --> 01:14:22,520
+it so I'm not completely sure but I'm
+यह इसलिए मुझे पूरी तरह से यकीन नहीं है लेकिन मैं
+
+1289
+01:14:22,520 --> 01:14:25,120
+guessing it it should what it should do
+यह अनुमान लगाते हुए कि यह क्या करना चाहिए
+
+1290
+01:14:25,120 --> 01:14:28,080
+that whenever our component is rendering
+जब भी हमारा घटक प्रतिपादन कर रहा हो
+
+1291
+01:14:28,080 --> 01:14:30,639
+that uh function that call back function
+वह उह फ़ंक्शन जो फ़ंक्शन को वापस कॉल करता है
+
+1292
+01:14:30,639 --> 01:14:33,400
+inside us effect would be called every
+हमारे अंदर प्रभाव को हर कहा जाएगा
+
+1293
+01:14:33,400 --> 01:14:37,080
+time it will be called every time yes
+समय यह हर बार हाँ कहा जाएगा
+
+1294
+01:14:37,080 --> 01:14:39,840
+that I'm
+की मैं हूँ
+
+1295
+01:14:43,480 --> 01:14:49,199
+guessing okay yes sir can you tell me uh
+ठीक लगता है हाँ सर आप मुझे बता सकते हैं उह
+
+1296
+01:14:49,199 --> 01:14:50,800
+what are web
+वेब क्या हैं
+
+1297
+01:14:50,800 --> 01:14:55,040
+workers uh web workers uh no sir I don't
+श्रमिक उह वेब वर्कर्स उह नहीं सर मैं नहीं
+
+1298
+01:14:55,040 --> 01:14:57,800
+don't know about them okay no worries
+उनके बारे में पता नहीं है ठीक है कोई चिंता नहीं
+
+1299
+01:14:57,800 --> 01:15:00,239
+what is formatting in
+में स्वरूपण क्या है
+
+1300
+01:15:00,239 --> 01:15:03,520
+HTML formatting like formatting the text
+HTML स्वरूपण पाठ को प्रारूपित करने की तरह
+
+1301
+01:15:03,520 --> 01:15:09,120
+or something yes okay so formatting
+या कुछ हाँ ठीक है तो प्रारूपण
+
+1302
+01:15:09,120 --> 01:15:11,920
+basically means the way our text will be
+मूल रूप से इसका मतलब है कि हमारा पाठ जिस तरह से होगा
+
+1303
+01:15:11,920 --> 01:15:16,000
+shown on the display on this web page
+इस वेब पेज पर डिस्प्ले पर दिखाया गया है
+
+1304
+01:15:16,000 --> 01:15:20,080
+and uh we can control the text format
+और उह हम पाठ प्रारूप को नियंत्रित कर सकते हैं
+
+1305
+01:15:20,080 --> 01:15:23,639
+actually by
+वास्तव में
+
+1306
+01:15:23,639 --> 01:15:28,159
+um I I'm not able to recall any of right
+उम मैं किसी भी अधिकार को याद नहीं कर पा रहा हूँ
+
+1307
+01:15:28,159 --> 01:15:31,400
+now you can't highlight the text yes sir
+अब आप पाठ को हाइलाइट नहीं कर सकते हाँ सर
+
+1308
+01:15:31,400 --> 01:15:33,920
+okay so like that we have like to
+ठीक है कि हम पसंद करते हैं
+
+1309
+01:15:33,920 --> 01:15:37,360
+underline the text to uh we have text
+UH के पाठ को रेखांकित करें हमारे पास पाठ है
+
+1310
+01:15:37,360 --> 01:15:41,080
+underline Tex what's sir
+टेक्स को रेखांकित करें सर क्या है
+
+1311
+01:15:41,080 --> 01:15:47,440
+text tag T types tag tag okay
+पाठ टैग टी प्रकार टैग टैग ठीक है
+
+1312
+01:15:47,440 --> 01:15:50,199
+tags what are tags you are asking yeah
+टैग आप क्या टैग हैं जो आप पूछ रहे हैं हाँ
+
+1313
+01:15:50,199 --> 01:15:54,040
+you told underline text and okay no uh
+आपने अंडरलाइन टेक्स्ट और ओके नो उह बताया
+
+1314
+01:15:54,040 --> 01:15:57,800
+not tag actually I just said we can do
+नहीं टैग वास्तव में मैंने कहा कि हम कर सकते हैं
+
+1315
+01:15:57,800 --> 01:16:01,280
+uh underline the text text underline
+उह पाठ पाठ को रेखांकित करता है
+
+1316
+01:16:01,280 --> 01:16:05,480
+text and yes underline the text and uh
+पाठ और हाँ पाठ और उह को रेखांकित करें
+
+1317
+01:16:05,480 --> 01:16:08,120
+maybe giving some properties like how
+शायद कैसे कुछ गुण दे जैसे कि कैसे
+
+1318
+01:16:08,120 --> 01:16:11,840
+much line how much width will be there
+बहुत लाइन कितनी चौड़ाई होगी
+
+1319
+01:16:11,840 --> 01:16:16,000
+the how what we will do tell me
+कैसे हम मुझे क्या बताएंगे
+
+1320
+01:16:16,000 --> 01:16:18,760
+examples okay like for example underline
+उदाहरण के लिए उदाहरण के लिए ठीक है
+
+1321
+01:16:18,760 --> 01:16:21,159
+text there is one
+पाठ एक है
+
+1322
+01:16:21,159 --> 01:16:25,120
+and a line space like how we will
+और एक लाइन स्पेस जैसे हम कैसे करेंगे
+
+1323
+01:16:25,120 --> 01:16:27,800
+highlight the text is there any
+हाइलाइट पाठ वहाँ कोई है
+
+1324
+01:16:27,800 --> 01:16:30,880
+tag okay for highlighting the text we
+हम पाठ को उजागर करने के लिए ठीक है
+
+1325
+01:16:30,880 --> 01:16:36,639
+can use uh e uh sorry not e that strong
+उह ई उह सॉरी ई का उपयोग कर सकते हैं जो कि मजबूत नहीं है
+
+1326
+01:16:36,639 --> 01:16:40,679
+we can use to like highlight the
+हम हाइलाइट को पसंद करने के लिए उपयोग कर सकते हैं
+
+1327
+01:16:40,679 --> 01:16:44,639
+text so there is also bold is also there
+पाठ तो बोल्ड भी है
+
+1328
+01:16:44,639 --> 01:16:46,679
+forting now tell me the difference
+अब मुझे अंतर बताते हैं
+
+1329
+01:16:46,679 --> 01:16:49,520
+between bold and
+बोल्ड और के बीच
+
+1330
+01:16:49,520 --> 01:16:52,520
+strong
+मज़बूत
+
+1331
+01:16:53,239 --> 01:16:56,480
+okay so
+ठीक है
+
+1332
+01:16:56,480 --> 01:16:58,320
+uh
+उह
+
+1333
+01:16:58,320 --> 01:17:00,400
+okay uh
+ठीक है उह
+
+1334
+01:17:00,400 --> 01:17:03,159
+bold I'm not I'm not able to recall the
+बोल्ड मैं नहीं हूँ मैं याद नहीं कर पा रहा हूँ
+
+1335
+01:17:03,159 --> 01:17:05,080
+difference okay
+अंतर ठीक है
+
+1336
+01:17:05,080 --> 01:17:07,800
+yes basically strong tag is used to
+हां मूल रूप से मजबूत टैग का उपयोग किया जाता है
+
+1337
+01:17:07,800 --> 01:17:12,520
+provide meing C it C it sir yes sir okay
+Meing C It C IT SIR YES SIR OK
+
+1338
+01:17:12,520 --> 01:17:15,480
+uh okay what is
+उह ठीक है क्या है
+
+1339
+01:17:15,480 --> 01:17:18,480
+uh the difference between meter tag and
+उह मीटर टैग और के बीच का अंतर
+
+1340
+01:17:18,480 --> 01:17:19,840
+progress
+प्रगति
+
+1341
+01:17:19,840 --> 01:17:22,960
+tag uh meta tag and progress tag meter
+टैग उह मेटा टैग और प्रगति टैग मीटर
+
+1342
+01:17:22,960 --> 01:17:26,840
+meter tag and progress tag
+मीटर टैग और प्रगति टैग
+
+1343
+01:17:27,040 --> 01:17:32,440
+okay uh no so I haven't heard about them
+ठीक है उह नहीं तो मैंने उनके बारे में नहीं सुना है
+
+1344
+01:17:32,440 --> 01:17:35,480
+but yes what is the use of required
+लेकिन हाँ क्या आवश्यक का उपयोग है
+
+1345
+01:17:35,480 --> 01:17:36,880
+attribute
+गुण
+
+1346
+01:17:36,880 --> 01:17:41,080
+int okay so required attribute is uh
+int ठीक है इसलिए आवश्यक विशेषता उह है
+
+1347
+01:17:41,080 --> 01:17:43,920
+used whenever you want to uh whenever
+जब भी आप जब भी उह चाहते हैं
+
+1348
+01:17:43,920 --> 01:17:47,679
+you want that that element to be filled
+आप चाहते हैं कि वह तत्व भरा जाए
+
+1349
+01:17:47,679 --> 01:17:49,560
+actually whenever you want there should
+वास्तव में जब भी आप चाहते हैं
+
+1350
+01:17:49,560 --> 01:17:52,400
+be something for example when I'm using
+उदाहरण के लिए कुछ हो जब मैं उपयोग कर रहा हूं
+
+1351
+01:17:52,400 --> 01:17:55,040
+some input actually and it is it it can
+कुछ इनपुट वास्तव में और यह है कि यह हो सकता है
+
+1352
+01:17:55,040 --> 01:17:57,440
+be for name or anything what whatever
+नाम या कुछ भी जो कुछ भी हो
+
+1353
+01:17:57,440 --> 01:18:00,360
+type I want generally for which for
+टाइप मैं आम तौर पर जिसके लिए चाहता हूं
+
+1354
+01:18:00,360 --> 01:18:03,239
+email for email for password we don't
+पासवर्ड के लिए ईमेल के लिए ईमेल हम नहीं करते हैं
+
+1355
+01:18:03,239 --> 01:18:06,159
+want them to be empty so we use got it
+चाहते हैं कि वे खाली रहें इसलिए हम इसका उपयोग करें
+
+1356
+01:18:06,159 --> 01:18:11,199
+got it what is data list Ty uh data list
+यह डेटा सूची ty uh डेटा सूची क्या है
+
+1357
+01:18:11,199 --> 01:18:15,280
+yeah um no sir I don't know about that
+हाँ उम नहीं सर मैं उस बारे में नहीं जानता
+
+1358
+01:18:15,280 --> 01:18:18,080
+okay yes what is the difference between
+ठीक है हाँ के बीच क्या अंतर है
+
+1359
+01:18:18,080 --> 01:18:19,760
+em teag and
+ईएम टैग और
+
+1360
+01:18:19,760 --> 01:18:23,800
+iag okay M tag is basically used to
+iag ठीक m टैग मूल रूप से उपयोग किया जाता है
+
+1361
+01:18:23,800 --> 01:18:27,360
+emphasize the tag and uh emphasize the
+टैग पर जोर दें और उह जोर दें
+
+1362
+01:18:27,360 --> 01:18:32,480
+text inside that tag and uh whereas our
+उस टैग और उह के अंदर पाठ
+
+1363
+01:18:32,480 --> 01:18:36,360
+I I basically is used to make that tag
+मैं मूल रूप से उस टैग को बनाने के लिए उपयोग किया जाता है
+
+1364
+01:18:36,360 --> 01:18:40,159
+italic okay
+इटैलिक ठीक है
+
+1365
+01:18:41,440 --> 01:18:44,360
+yes what are empty
+हाँ क्या खाली हैं
+
+1366
+01:18:44,360 --> 01:18:48,400
+elements okay empty elements uh uh
+तत्व ठीक खाली तत्व उह उह
+
+1367
+01:18:48,400 --> 01:18:50,880
+basically okay so whenever we have
+मूल रूप से ठीक है तो जब भी हमारे पास हो
+
+1368
+01:18:50,880 --> 01:18:52,960
+created an element and if there is
+एक तत्व बनाया और अगर वहाँ है
+
+1369
+01:18:52,960 --> 01:18:55,760
+nothing inside nothing no value inside
+अंदर कुछ भी नहीं अंदर कोई मूल्य नहीं है
+
+1370
+01:18:55,760 --> 01:18:58,880
+that those tags we can call them empty
+कि वे टैग हम उन्हें खाली कह सकते हैं
+
+1371
+01:18:58,880 --> 01:19:00,280
+elements
+तत्वों
+
+1372
+01:19:00,280 --> 01:19:03,920
+examples uh so for example we have this
+उदाहरण के लिए उदाहरण के लिए हमारे पास यह है
+
+1373
+01:19:03,920 --> 01:19:05,679
+uh
+उह
+
+1374
+01:19:05,679 --> 01:19:07,719
+um
+एक
+
+1375
+01:19:07,719 --> 01:19:10,679
+uh like empty tags or you're asking me
+उह की तरह खाली टैग या आप मुझसे पूछ रहे हैं
+
+1376
+01:19:10,679 --> 01:19:14,159
+empty elements empty tags empty tags
+खाली तत्व खाली टैग खाली टैग
+
+1377
+01:19:14,159 --> 01:19:18,120
+okay so BR can be an empty tag
+ठीक है इसलिए बीआर एक खाली टैग हो सकता है
+
+1378
+01:19:18,120 --> 01:19:22,800
+and HR can be an empty yeah okay got it
+और एचआर एक खाली हाँ हो सकता है ठीक है यह मिल गया
+
+1379
+01:19:22,800 --> 01:19:25,480
+you told me everything right
+आपने मुझे सब कुछ सही बताया
+
+1380
+01:19:25,480 --> 01:19:28,040
+what's the speciality is there anything
+क्या विशेषता है कुछ भी है
+
+1381
+01:19:28,040 --> 01:19:31,000
+you can differentiate from other tags
+आप अन्य टैग से अंतर कर सकते हैं
+
+1382
+01:19:31,000 --> 01:19:33,440
+okay so we don't need to have an
+ठीक है इसलिए हमें एक होने की जरूरत नहीं है
+
+1383
+01:19:33,440 --> 01:19:35,960
+exclusively closing tag for these tag
+इन टैग के लिए विशेष रूप से बंद टैग
+
+1384
+01:19:35,960 --> 01:19:38,400
+okay got yes
+ठीक है हाँ
+
+1385
+01:19:38,400 --> 01:19:41,000
+sir what is the difference between D tag
+महोदय डी टैग के बीच क्या अंतर है
+
+1386
+01:19:41,000 --> 01:19:44,400
+and span tag okay so for the div tag
+और टैग टैग ठीक है तो डिव टैग के लिए
+
+1387
+01:19:44,400 --> 01:19:46,920
+what it does that it takes the full uh
+यह क्या करता है कि यह पूर्ण उह लेता है
+
+1388
+01:19:46,920 --> 01:19:49,040
+it takes the full width and the display
+यह पूरी चौड़ाई और प्रदर्शन लेता है
+
+1389
+01:19:49,040 --> 01:19:51,440
+of this tag is block whereas for the
+इस टैग में से ब्लॉक है
+
+1390
+01:19:51,440 --> 01:19:54,120
+span tag it takes only the width that it
+स्पैन टैग यह केवल वह चौड़ाई लेता है जो यह है
+
+1391
+01:19:54,120 --> 01:19:56,520
+is it it has required actually it
+क्या यह वास्तव में इसकी आवश्यकता है
+
+1392
+01:19:56,520 --> 01:20:00,920
+requires so and it takes on it is it's
+ऐसा करने की आवश्यकता है और यह है कि यह है
+
+1393
+01:20:00,920 --> 01:20:03,920
+basically inline tag the display of this
+मूल रूप से इनलाइन इस के प्रदर्शन को टैग करें
+
+1394
+01:20:03,920 --> 01:20:08,239
+tag is in line okay okay yes sir yes sir
+टैग लाइन में है ठीक है ठीक है हाँ सर हाँ सर
+
+1395
+01:20:08,239 --> 01:20:10,000
+what is the difference between display
+प्रदर्शन के बीच क्या अंतर है
+
+1396
+01:20:10,000 --> 01:20:11,760
+line and
+लाइन और
+
+1397
+01:20:11,760 --> 01:20:14,400
+visibility okay so display none
+दृश्यता ठीक है इसलिए कोई भी प्रदर्शित नहीं
+
+1398
+01:20:14,400 --> 01:20:15,400
+basically
+मूल रूप से
+
+1399
+01:20:15,400 --> 01:20:18,320
+means okay so display none basically it
+ठीक है, इसलिए मूल रूप से कोई भी प्रदर्शित करें
+
+1400
+01:20:18,320 --> 01:20:22,360
+means that uh whenever I am making the
+इसका मतलब है कि उह जब भी मैं बना रहा हूं
+
+1401
+01:20:22,360 --> 01:20:27,000
+display of our uh of my tag or some
+मेरे टैग या कुछ के हमारे उह का प्रदर्शन
+
+1402
+01:20:27,000 --> 01:20:30,400
+element as none it will be removed from
+तत्व के रूप में कोई भी इसे हटा दिया जाएगा
+
+1403
+01:20:30,400 --> 01:20:33,639
+the document flow and it won't Reserve
+दस्तावेज़ प्रवाह और यह आरक्षित नहीं होगा
+
+1404
+01:20:33,639 --> 01:20:37,880
+yes sir in do in document flow in
+हाँ सर में दस्तावेज़ प्रवाह में करते हैं
+
+1405
+01:20:37,880 --> 01:20:41,080
+document flow for uh display yes for
+यूएच डिस्प्ले के लिए दस्तावेज़ प्रवाह हाँ के लिए
+
+1406
+01:20:41,080 --> 01:20:44,400
+display none and uh it won't be like
+कोई नहीं और उह यह पसंद नहीं होगा
+
+1407
+01:20:44,400 --> 01:20:47,199
+shown on our UI as well but in case of
+हमारे यूआई पर भी दिखाया गया है लेकिन के मामले में
+
+1408
+01:20:47,199 --> 01:20:50,440
+visibility hidden element won't be shown
+दृश्यता छिपी हुई तत्व नहीं दिखाया जाएगा
+
+1409
+01:20:50,440 --> 01:20:52,960
+on our UI but it will be still in the
+हमारे यूआई पर लेकिन यह अभी भी होगा
+
+1410
+01:20:52,960 --> 01:20:55,400
+document flow and it will resolve the
+दस्तावेज़ प्रवाह और यह हल करेगा
+
+1411
+01:20:55,400 --> 01:20:58,600
+space okay it will resolve the space yes
+अंतरिक्ष ठीक है यह अंतरिक्ष को हल करेगा हाँ
+
+1412
+01:20:58,600 --> 01:21:02,520
+and there won't be any space like space
+और अंतरिक्ष की तरह कोई स्थान नहीं होगा
+
+1413
+01:21:02,520 --> 01:21:07,520
+taken by uh display display okay yes
+UH डिस्प्ले डिस्प्ले द्वारा लिया गया ठीक है हाँ
+
+1414
+01:21:07,520 --> 01:21:10,960
+okay can we overlap in elements in
+ठीक है हम तत्वों में ओवरलैप कर सकते हैं
+
+1415
+01:21:10,960 --> 01:21:14,679
+CS and uh overlap we can use some
+सीएस और यूएच ओवरलैप हम कुछ का उपयोग कर सकते हैं
+
+1416
+01:21:14,679 --> 01:21:17,520
+properties like uh uh we can use
+उह उह जैसे गुण हम उपयोग कर सकते हैं
+
+1417
+01:21:17,520 --> 01:21:19,440
+something like position absolute and we
+स्थिति निरपेक्ष और हम की तरह कुछ
+
+1418
+01:21:19,440 --> 01:21:23,760
+can change the like a position of that
+उस की स्थिति की तरह बदल सकते हैं
+
+1419
+01:21:23,760 --> 01:21:26,000
+maybe from Top left right however we
+शायद ऊपर बाएं दाएं से हम हालांकि हम
+
+1420
+01:21:26,000 --> 01:21:29,320
+want and to other element we can overlap
+चाहते हैं और अन्य तत्व के लिए हम ओवरलैप कर सकते हैं
+
+1421
+01:21:29,320 --> 01:21:33,320
+those elements okay yes sir what do what
+वे तत्व ठीक है हाँ सर क्या करते हैं
+
+1422
+01:21:33,320 --> 01:21:36,239
+do you mean by specificity in CSS
+क्या आप सीएसएस में विशिष्टता से मतलब रखते हैं
+
+1423
+01:21:36,239 --> 01:21:38,719
+specific specificity basically means
+मूल रूप से विशिष्ट विशिष्टता का अर्थ है
+
+1424
+01:21:38,719 --> 01:21:42,000
+that the uh priority actually how the
+उह प्राथमिकता वास्तव में कैसे
+
+1425
+01:21:42,000 --> 01:21:45,080
+priority will be given to the elements
+तत्वों को प्राथमिकता दी जाएगी
+
+1426
+01:21:45,080 --> 01:21:49,280
+by the class Name ID or stud lectors
+क्लास नाम आईडी या स्टड लेक्टर द्वारा
+
+1427
+01:21:49,280 --> 01:21:54,840
+like this okay yes sir
+इस तरह ठीक है हाँ सर
+
+1428
+01:21:55,320 --> 01:21:58,480
+how can we add gradients in
+हम ग्रेडिएंट्स को कैसे जोड़ सकते हैं
+
+1429
+01:21:58,480 --> 01:22:02,120
+CIS okay so we can use there is uh this
+सिस ठीक है तो हम इसका उपयोग कर सकते हैं उह यह है
+
+1430
+01:22:02,120 --> 01:22:05,159
+property and I exactly don't remember
+संपत्ति और मुझे बिल्कुल याद नहीं है
+
+1431
+01:22:05,159 --> 01:22:08,960
+the name but linear gradient is uh uh
+नाम लेकिन रैखिक ढाल उह उह है
+
+1432
+01:22:08,960 --> 01:22:11,480
+one of the styling okay as I can
+स्टाइल में से एक ठीक है जैसा कि मैं कर सकता हूं
+
+1433
+01:22:11,480 --> 01:22:13,639
+remember so we can use that and we can
+याद रखें कि हम इसका उपयोग कर सकते हैं और हम कर सकते हैं
+
+1434
+01:22:13,639 --> 01:22:17,719
+pass some attributes uh sorry some
+कुछ विशेषताओं को पास करें उह सॉरी कुछ
+
+1435
+01:22:17,719 --> 01:22:20,320
+values inside that which can be uh how
+उसके अंदर के मान जो उह कैसे हो सकता है
+
+1436
+01:22:20,320 --> 01:22:22,440
+many degrees we want what color we want
+कई डिग्री हम चाहते हैं कि हम क्या रंग चाहते हैं
+
+1437
+01:22:22,440 --> 01:22:25,520
+and what which color we want from until
+और हम किस रंग से चाहते हैं
+
+1438
+01:22:25,520 --> 01:22:28,000
+we uh till which color we want so like
+हम उह तक कि हम किस रंग की तरह चाहते हैं
+
+1439
+01:22:28,000 --> 01:22:31,080
+this we can pass through this
+यह हम इस से गुजर सकते हैं
+
+1440
+01:22:31,080 --> 01:22:34,000
+okay can you differentiate between Flex
+ठीक है आप फ्लेक्स के बीच अंतर कर सकते हैं
+
+1441
+01:22:34,000 --> 01:22:38,080
+work and grid Flex works and grid
+काम और ग्रिड फ्लेक्स काम करता है और ग्रिड
+
+1442
+01:22:38,080 --> 01:22:42,440
+yep okay uh okay so basically grid is a
+हाँ ठीक है उह ठीक है तो मूल रूप से ग्रिड एक है
+
+1443
+01:22:42,440 --> 01:22:44,639
+threedimensional way of representing our
+हमारे प्रतिनिधित्व करने का threedimensional तरीका
+
+1444
+01:22:44,639 --> 01:22:48,080
+elements inside our uh document inside
+हमारे UH दस्तावेज़ के अंदर के तत्व अंदर
+
+1445
+01:22:48,080 --> 01:22:50,880
+our B page but whereas the flex works is
+हमारे बी पेज लेकिन जबकि फ्लेक्स काम करता है
+
+1446
+01:22:50,880 --> 01:22:52,960
+a modern way to represent all the
+सभी का प्रतिनिधित्व करने का एक आधुनिक तरीका
+
+1447
+01:22:52,960 --> 01:22:55,280
+elements that we have on on this screen
+इस स्क्रीन पर हमारे पास मौजूद तत्व हैं
+
+1448
+01:22:55,280 --> 01:22:58,280
+and it is according to me it is more
+और यह मेरे अनुसार है यह अधिक है
+
+1449
+01:22:58,280 --> 01:23:00,800
+much more versatile and we can easily
+बहुत अधिक बहुमुखी और हम आसानी से कर सकते हैं
+
+1450
+01:23:00,800 --> 01:23:02,320
+manipulate the elements with the help of
+की मदद से तत्वों में हेरफेर करें
+
+1451
+01:23:02,320 --> 01:23:06,920
+flex Books Okay and which is 1D and 2D
+फ्लेक्स बुक्स ठीक है और जो 1 डी और 2 डी है
+
+1452
+01:23:06,920 --> 01:23:10,880
+okay uh Flex books is uh uh uh this grid
+ठीक है उह फ्लेक्स पुस्तकें उह उह इस ग्रिड है
+
+1453
+01:23:10,880 --> 01:23:14,960
+is 3D actually and the flex box is I'm
+3 डी वास्तव में है और फ्लेक्स बॉक्स मैं हूं
+
+1454
+01:23:14,960 --> 01:23:18,920
+not sure if it is 2D or
+निश्चित नहीं है कि यह 2 डी है या
+
+1455
+01:23:19,639 --> 01:23:23,199
+1D Flex box is
+1 डी फ्लेक्स बॉक्स है
+
+1456
+01:23:23,199 --> 01:23:27,800
+a you I'm not sure yes like yes I'm I'm
+आप मुझे यकीन नहीं है कि हाँ मैं हूँ मैं हूँ
+
+1457
+01:23:27,800 --> 01:23:31,560
+sure that grid is 3D actually grid is 3D
+यकीन है कि ग्रिड 3 डी है वास्तव में ग्रिड 3 डी है
+
+1458
+01:23:31,560 --> 01:23:34,239
+yes sir three dimension can you tell me
+हाँ सर तीन आयाम आप मुझे बता सकते हैं
+
+1459
+01:23:34,239 --> 01:23:37,360
+for which dimension layout it works at
+किस आयाम लेआउट के लिए यह काम करता है
+
+1460
+01:23:37,360 --> 01:23:38,840
+the same
+जो उसी
+
+1461
+01:23:38,840 --> 01:23:42,400
+time um I didn't get the question
+समय उम मुझे सवाल नहीं मिला
+
+1462
+01:23:42,400 --> 01:23:46,400
+sir what do you mean by 3D I mean it
+सर आप 3 डी से क्या मतलब है मेरा मतलब है
+
+1463
+01:23:46,400 --> 01:23:51,920
+consist of uh the uh rows columns and 3D
+UH से मिलकर UH ROWS COLUMNS और 3D
+
+1464
+01:23:51,920 --> 01:23:54,080
+means there are three things yes sir
+इसका मतलब है कि तीन बातें हैं हां सर
+
+1465
+01:23:54,080 --> 01:23:58,280
+rows and columns so you told me two
+पंक्तियाँ और कॉलम तो आपने मुझे दो बताया
+
+1466
+01:23:58,280 --> 01:24:00,560
+things tell me three things as you told
+चीजें मुझे तीन बातें बताती हैं जैसा आपने बताया था
+
+1467
+01:24:00,560 --> 01:24:03,520
+me it is a 3D layout okay I guess I have
+मुझे यह एक 3 डी लेआउट है ठीक है मुझे लगता है कि मेरे पास है
+
+1468
+01:24:03,520 --> 01:24:06,000
+mistaken somewhere
+कहीं गलत
+
+1469
+01:24:06,000 --> 01:24:11,600
+then so grid is a 2d then 2
+तो तो ग्रिड एक 2 डी है तो 2
+
+1470
+01:24:11,600 --> 01:24:15,000
+okay flexbox also works on
+ठीक है फ्लेक्सबॉक्स भी काम करता है
+
+1471
+01:24:15,000 --> 01:24:19,440
+rows and columns both and grid also
+पंक्तियाँ और स्तंभ दोनों और ग्रिड भी
+
+1472
+01:24:19,440 --> 01:24:21,800
+works on rows and columns but there is a
+पंक्तियों और स्तंभों पर काम करता है लेकिन वहाँ है
+
+1473
+01:24:21,800 --> 01:24:24,560
+slight difference
+मामूली अंतर
+
+1474
+01:24:24,560 --> 01:24:27,280
+okay at the same
+ठीक उसी पर
+
+1475
+01:24:27,280 --> 01:24:29,159
+time it
+समय
+
+1476
+01:24:29,159 --> 01:24:32,800
+works on both it can work on
+दोनों पर काम करता है यह काम कर सकता है
+
+1477
+01:24:32,800 --> 01:24:35,840
+both rows and columns at the same time
+एक ही समय में दोनों पंक्तियाँ और स्तंभ
+
+1478
+01:24:35,840 --> 01:24:40,280
+on GD okay whereas Flex boox at the same
+जीडी ठीक है, जबकि फ्लेक्स boox उसी पर
+
+1479
+01:24:40,280 --> 01:24:43,119
+time it can only work on a single thing
+समय यह केवल एक चीज पर काम कर सकता है
+
+1480
+01:24:43,119 --> 01:24:46,520
+either okay
+या तो ठीक है
+
+1481
+01:24:47,280 --> 01:24:51,560
+or got it okay uh do you know what is
+या यह ठीक है उह क्या आप जानते हैं कि क्या है
+
+1482
+01:24:51,560 --> 01:24:53,119
+CSS
+सीएसएस
+
+1483
+01:24:53,119 --> 01:24:57,360
+overl uh CSS overflow I have came across
+ओवरल यूएच सीएसएस ओवरफ्लो मैं भर आया हूं
+
+1484
+01:24:57,360 --> 01:25:00,719
+with a lot of times but I can't exactly
+बहुत बार के साथ लेकिन मैं बिल्कुल नहीं कर सकता
+
+1485
+01:25:00,719 --> 01:25:03,920
+remember about this okay okay now it
+इस बारे में याद रखें ठीक है अब यह ठीक है
+
+1486
+01:25:03,920 --> 01:25:08,639
+is okay uh do you know the property
+ठीक है उह क्या आप संपत्ति जानते हैं
+
+1487
+01:25:08,639 --> 01:25:12,000
+which is used for image
+जिसका उपयोग छवि के लिए किया जाता है
+
+1488
+01:25:12,000 --> 01:25:15,480
+reflection image
+प्रतिबिंब छवि
+
+1489
+01:25:15,480 --> 01:25:17,560
+reflection
+प्रतिबिंब
+
+1490
+01:25:17,560 --> 01:25:22,040
+um no sir I don't remember about
+उम नहीं सर मुझे याद नहीं है
+
+1491
+01:25:22,040 --> 01:25:26,040
+that okay
+यह ठीक
+
+1492
+01:25:26,560 --> 01:25:28,440
+what are attribute
+विशेषता क्या हैं
+
+1493
+01:25:28,440 --> 01:25:31,040
+selector attribute selector basically
+चयनकर्ता विशेषता चयनकर्ता मूल रूप से
+
+1494
+01:25:31,040 --> 01:25:36,040
+means that uh we can um we can select
+इसका मतलब है कि उह हम उम कर सकते हैं हम चयन कर सकते हैं
+
+1495
+01:25:36,040 --> 01:25:39,880
+the uh select an element and style it
+उह एक तत्व और शैली का चयन करें
+
+1496
+01:25:39,880 --> 01:25:42,920
+with the help of those
+उन की मदद से
+
+1497
+01:25:42,920 --> 01:25:46,800
+attributes okay okay yes do you know
+विशेषताएँ ठीक हैं ठीक है हाँ क्या आप जानते हैं
+
+1498
+01:25:46,800 --> 01:25:49,440
+what are Pudo elements in C
+सी में पुडो तत्व क्या हैं
+
+1499
+01:25:49,440 --> 01:25:53,159
+this yes cements basically they are
+यह हाँ मूल रूप से वे हैं जो वे हैं
+
+1500
+01:25:53,159 --> 01:25:54,920
+triggered whenever
+जब भी ट्रिगर किया गया
+
+1501
+01:25:54,920 --> 01:26:00,600
+the um whenever a state or or or maybe a
+उम जब भी कोई राज्य या या शायद ए
+
+1502
+01:26:00,600 --> 01:26:03,920
+specific ele specific element of that uh
+उस उह के विशिष्ट हाथ विशिष्ट तत्व
+
+1503
+01:26:03,920 --> 01:26:06,760
+of that uh specific part of that an
+उस उह विशिष्ट भाग का
+
+1504
+01:26:06,760 --> 01:26:08,840
+element is
+तत्व है
+
+1505
+01:26:08,840 --> 01:26:14,480
+selected okay specific part okay yes sir
+चयनित ठीक विशिष्ट भाग ठीक है हाँ सर
+
+1506
+01:26:14,480 --> 01:26:19,520
+okay uh I mean uh yes sir that's it for
+ठीक है उह मैं इसका मतलब है कि हाँ सर के लिए यह है
+
+1507
+01:26:19,520 --> 01:26:22,360
+the interview okay okay got it
+साक्षात्कार ठीक है ठीक है
+
+1508
+01:26:22,360 --> 01:26:26,239
+sir um
+सर वन

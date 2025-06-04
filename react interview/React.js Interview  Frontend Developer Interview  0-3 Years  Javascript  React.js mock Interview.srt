@@ -1,0 +1,3534 @@
+1
+00:00:00,000 --> 00:00:01,920
+okay hi Shivam how are you
+ठीक है हाय शिवम तुम कैसे हो
+
+2
+00:00:01,920 --> 00:00:05,939
+hi uh I'm good
+हाय उह मैं अच्छा हूँ
+
+3
+00:00:05,939 --> 00:00:07,799
+okay so can you tell me a little bit
+ठीक है तो क्या आप मुझे थोड़ा बता सकते हैं
+
+4
+00:00:07,799 --> 00:00:10,019
+about yourself key from where did you
+अपने बारे में कुंजी के बारे में आपने कहां से किया
+
+5
+00:00:10,019 --> 00:00:11,460
+graduate and when did you graduate our
+स्नातक और आपने कब स्नातक किया
+
+6
+00:00:11,460 --> 00:00:12,660
+new work experience a little bit about
+नए काम के बारे में थोड़ा सा अनुभव
+
+7
+00:00:12,660 --> 00:00:13,500
+yourself
+अपने आप को
+
+8
+00:00:13,500 --> 00:00:17,580
+yes so I am I have completed my
+हां, तो मैं अपना पूरा कर चुका हूं
+
+9
+00:00:17,580 --> 00:00:20,820
+graduation from dit in 2019 and after
+2019 में और उसके बाद DIT से स्नातक
+
+10
+00:00:20,820 --> 00:00:24,000
+that from 2021 I have been working as a
+2021 से मैं एक के रूप में काम कर रहा हूं
+
+11
+00:00:24,000 --> 00:00:27,000
+Content developer majorly uh first time
+सामग्री डेवलपर प्रमुख रूप से पहली बार उह
+
+12
+00:00:27,000 --> 00:00:29,760
+I've been in a small startup called as
+मैं एक छोटे से स्टार्टअप में रहा हूँ जिसे कहा जाता है
+
+13
+00:00:29,760 --> 00:00:32,399
+object H uh where I was handling the
+ऑब्जेक्ट एच उह जहां मैं संभाल रहा था
+
+14
+00:00:32,399 --> 00:00:36,020
+whole content stuff and uh
+पूरी सामग्री सामान और उह
+
+15
+00:00:36,020 --> 00:00:38,160
+I'm still working as a front end
+मैं अभी भी एक फ्रंट एंड के रूप में काम कर रहा हूं
+
+16
+00:00:38,160 --> 00:00:40,500
+developer but with a different company
+डेवलपर लेकिन एक अलग कंपनी के साथ
+
+17
+00:00:40,500 --> 00:00:44,660
+uh called as uh okay
+उह को उह ठीक कहा जाता है
+
+18
+00:00:47,300 --> 00:00:49,860
+that you are using in that company
+कि आप उस कंपनी में उपयोग कर रहे हैं
+
+19
+00:00:49,860 --> 00:00:53,039
+yeah so in in our first in the first
+हाँ तो पहले में हमारे पहले में
+
+20
+00:00:53,039 --> 00:00:55,199
+company the project was a e-commerce
+कंपनी परियोजना एक ई-कॉमर्स थी
+
+21
+00:00:55,199 --> 00:00:57,300
+project and the tech stack uh basically
+प्रोजेक्ट और टेक स्टैक यूएच मूल रूप से
+
+22
+00:00:57,300 --> 00:00:59,160
+in the front end where we were using the
+सामने के छोर में जहां हम उपयोग कर रहे थे
+
+23
+00:00:59,160 --> 00:01:02,579
+act against B and uh okay and uh there
+बी और उह ठीक है और उह के खिलाफ कार्य करें
+
+24
+00:01:02,579 --> 00:01:04,920
+was a framework for e-commerce called as
+ई-कॉमर्स के लिए एक रूपरेखा थी
+
+25
+00:01:04,920 --> 00:01:08,659
+Commerce tools and um
+वाणिज्य उपकरण और उम
+
+26
+00:01:09,439 --> 00:01:12,740
+in my
+मेरे में
+
+27
+00:01:22,939 --> 00:01:24,840
+some kind of
+एक तरह का
+
+28
+00:01:24,840 --> 00:01:29,100
+uh you say like not kind of coding but
+उह आप कहते हैं कि कोडिंग की तरह नहीं बल्कि
+
+29
+00:01:29,100 --> 00:01:31,159
+just like rules
+नियमों की तरह
+
+30
+00:01:31,159 --> 00:01:34,320
+so okay
+तो ठीक है
+
+31
+00:01:34,320 --> 00:01:36,960
+basically so I can say
+मूल रूप से इसलिए मैं कह सकता हूं
+
+32
+00:01:36,960 --> 00:01:38,960
+um
+एक
+
+33
+00:01:40,500 --> 00:01:42,720
+okay so I can say that you are quite
+ठीक है तो मैं कह सकता हूं कि आप काफी हैं
+
+34
+00:01:42,720 --> 00:01:44,460
+familiar with JavaScript and react right
+जावास्क्रिप्ट और रिएक्ट राइट से परिचित
+
+35
+00:01:44,460 --> 00:01:46,200
+yeah
+हाँ
+
+36
+00:01:46,200 --> 00:01:48,540
+okay so we'll start with some basic
+ठीक है तो हम कुछ बुनियादी के साथ शुरू करेंगे
+
+37
+00:01:48,540 --> 00:01:50,340
+JavaScript questions then we'll go on to
+जावास्क्रिप्ट प्रश्न तब हम आगे बढ़ेंगे
+
+38
+00:01:50,340 --> 00:01:52,460
+reality yeah sure is that okay right
+वास्तविकता हाँ यकीन है कि ठीक है सही है
+
+39
+00:01:52,460 --> 00:01:56,460
+okay so uh Sean can you tell me a little
+ठीक है तो उह सीन क्या आप मुझे थोड़ा बता सकते हैं
+
+40
+00:01:56,460 --> 00:01:58,020
+bit about closures like what do you know
+आप क्या जानते हैं जैसे क्लोजर के बारे में बिट
+
+41
+00:01:58,020 --> 00:01:59,280
+about closures
+बंद होने के बारे में
+
+42
+00:01:59,280 --> 00:02:01,979
+Yeah so basically uh in JavaScript when
+हाँ तो मूल रूप से जावास्क्रिप्ट में उह जब
+
+43
+00:02:01,979 --> 00:02:03,780
+we have two functions right like there
+हमारे पास दो फ़ंक्शन हैं जैसे कि वहाँ
+
+44
+00:02:03,780 --> 00:02:06,719
+is a top function and a function listed
+एक शीर्ष फ़ंक्शन और एक फ़ंक्शन सूचीबद्ध है
+
+45
+00:02:06,719 --> 00:02:09,780
+inside it so now if I Define a variable
+इसके अंदर अब अगर मैं एक चर को परिभाषित करता हूं
+
+46
+00:02:09,780 --> 00:02:11,819
+inside the main function
+मुख्य कार्य के अंदर
+
+47
+00:02:11,819 --> 00:02:14,640
+and start using it inside the nested
+और नेस्टेड के अंदर इसका उपयोग करना शुरू करें
+
+48
+00:02:14,640 --> 00:02:15,599
+function
+समारोह
+
+49
+00:02:15,599 --> 00:02:19,379
+and if I call the main function and it
+और अगर मैं मुख्य फ़ंक्शन और इसे कॉल करता हूं
+
+50
+00:02:19,379 --> 00:02:22,140
+completes this execution right then this
+इस निष्पादन को पूरा करता है तो यह सही है
+
+51
+00:02:22,140 --> 00:02:24,840
+particular variable which is defined uh
+विशेष रूप से चर जो कि परिभाषित किया गया है
+
+52
+00:02:24,840 --> 00:02:28,520
+won't be available anymore right but um
+अब उपलब्ध नहीं होगा लेकिन उम
+
+53
+00:02:28,520 --> 00:02:31,140
+with the help of closures the second
+दूसरे को बंद करने की मदद से
+
+54
+00:02:31,140 --> 00:02:33,360
+function which is nested inside can also
+फ़ंक्शन जो अंदर नेस्टेड है
+
+55
+00:02:33,360 --> 00:02:35,760
+access the particular variable even
+विशेष चर तक भी पहुंचें
+
+56
+00:02:35,760 --> 00:02:37,680
+after the completion of the execution of
+के निष्पादन के पूरा होने के बाद
+
+57
+00:02:37,680 --> 00:02:39,060
+the main function
+मुख्य कार्य
+
+58
+00:02:39,060 --> 00:02:41,700
+okay got it so have you used the concept
+ठीक है यह तो क्या आपने अवधारणा का उपयोग किया है
+
+59
+00:02:41,700 --> 00:02:43,920
+of closures in any real project or in
+किसी भी वास्तविक परियोजना में या में बंद
+
+60
+00:02:43,920 --> 00:02:46,680
+your company have you used it anywhere
+आपकी कंपनी ने आपने इसे कहीं भी इस्तेमाल किया है
+
+61
+00:02:46,680 --> 00:02:50,700
+uh like in real time I have not used it
+उह की तरह वास्तविक समय में मैंने इसका इस्तेमाल नहीं किया है
+
+62
+00:02:50,700 --> 00:02:54,300
+anywhere okay
+कहीं भी ठीक है
+
+63
+00:02:55,019 --> 00:02:56,519
+okay but you are clear with the concept
+ठीक है, लेकिन आप अवधारणा के साथ स्पष्ट हैं
+
+64
+00:02:56,519 --> 00:02:59,040
+right okay great
+ठीक है महान महान
+
+65
+00:02:59,040 --> 00:03:01,739
+so my second question would be key uh
+तो मेरा दूसरा सवाल कुंजी उह होगा
+
+66
+00:03:01,739 --> 00:03:03,780
+you know about promises right promises
+आप वादों के बारे में सही वादों के बारे में जानते हैं
+
+67
+00:03:03,780 --> 00:03:06,060
+and async of it okay so what is the
+और यह ठीक है तो क्या है
+
+68
+00:03:06,060 --> 00:03:07,620
+difference between a promise and a think
+एक वादे और एक विचार के बीच अंतर
+
+69
+00:03:07,620 --> 00:03:10,019
+of it and when do we use what
+इसका और कब हम क्या उपयोग करते हैं
+
+70
+00:03:10,019 --> 00:03:13,920
+so uh basically A promise is a object in
+तो उह मूल रूप से एक वादा एक वस्तु है
+
+71
+00:03:13,920 --> 00:03:16,680
+JavaScript and a promise has an
+जावास्क्रिप्ट और एक वादा एक है
+
+72
+00:03:16,680 --> 00:03:19,200
+executive function which executes some
+कार्यकारी फ़ंक्शन जो कुछ निष्पादित करता है
+
+73
+00:03:19,200 --> 00:03:21,900
+code and this executed function has
+कोड और यह निष्पादित फ़ंक्शन है
+
+74
+00:03:21,900 --> 00:03:24,900
+resolve and reject two functions so once
+दो कार्यों को एक बार हल करें और अस्वीकार करें
+
+75
+00:03:24,900 --> 00:03:28,739
+we call resolve right so it will execute
+हम सही संकल्प कहते हैं इसलिए यह निष्पादित करेगा
+
+76
+00:03:28,739 --> 00:03:31,680
+the dot then function so in promises we
+डॉट तब हम वादों में काम करते हैं
+
+77
+00:03:31,680 --> 00:03:33,780
+can chain functions like dot then and
+क्या चेन फ़ंक्शंस जैसे डॉट और तब और
+
+78
+00:03:33,780 --> 00:03:36,019
+Dot catch so whenever we call a result
+जब भी हम एक परिणाम कहते हैं तो डॉट पकड़ते हैं
+
+79
+00:03:36,019 --> 00:03:40,379
+then this dot then uh what is a callback
+फिर यह डॉट तो उह क्या कॉलबैक है
+
+80
+00:03:40,379 --> 00:03:42,360
+function will be executed and whenever
+फ़ंक्शन को निष्पादित किया जाएगा और जब भी
+
+81
+00:03:42,360 --> 00:03:45,840
+we call reject then uh this or the catch
+हम अस्वीकार करते हैं तो उह यह या पकड़
+
+82
+00:03:45,840 --> 00:03:47,879
+the function will be executed this
+फ़ंक्शन को निष्पादित किया जाएगा
+
+83
+00:03:47,879 --> 00:03:50,700
+executed function is uh we can say
+निष्पादित कार्य उह हम कह सकते हैं
+
+84
+00:03:50,700 --> 00:03:53,280
+synchronous but this resolve and reject
+सिंक्रोनस लेकिन यह संकल्प और अस्वीकार
+
+85
+00:03:53,280 --> 00:03:55,620
+and the callbacks of dot then and Dot
+और डॉट के कॉलबैक तब और डॉट
+
+86
+00:03:55,620 --> 00:03:57,680
+catch are not synchronous
+कैच सिंक्रोनस नहीं हैं
+
+87
+00:03:57,680 --> 00:04:00,840
+they are asynchronous so for example we
+वे अतुल्यकालिक हैं इसलिए उदाहरण के लिए हम
+
+88
+00:04:00,840 --> 00:04:04,560
+did a API and then that API will take us
+एक एपीआई और फिर वह एपीआई हमें ले जाएगा
+
+89
+00:04:04,560 --> 00:04:07,620
+some time and after the Epic we will do
+कुछ समय और महाकाव्य के बाद हम करेंगे
+
+90
+00:04:07,620 --> 00:04:09,920
+a result
+नतीजा # परिणाम
+
+91
+00:04:17,298 --> 00:04:19,620
+what is the need of
+क्या की जरूरत है
+
+92
+00:04:19,620 --> 00:04:21,478
+yeah what is the need of async comment
+हाँ, async टिप्पणी की क्या आवश्यकता है
+
+93
+00:04:21,478 --> 00:04:24,900
+then yeah I think of it is basically uh
+तो हाँ, मुझे लगता है कि यह मूल रूप से उह है
+
+94
+00:04:24,900 --> 00:04:28,280
+is a syntactic sugar over the promises
+वादों पर एक वाक्यविन्यास चीनी है
+
+95
+00:04:28,280 --> 00:04:32,040
+and uh it also changes the code flow so
+और उह यह भी कोड प्रवाह को बदलता है
+
+96
+00:04:32,040 --> 00:04:35,160
+basically when we await right so await
+मूल रूप से जब हम सही इंतजार कर रहे हैं तो इंतजार कर रहे हैं
+
+97
+00:04:35,160 --> 00:04:38,520
+means waiting for a promise like uh from
+का मतलब है उह से एक वादे की प्रतीक्षा कर रहा है
+
+98
+00:04:38,520 --> 00:04:40,800
+from back end we will have an API that
+बैक एंड से हमारे पास एक एपीआई होगा
+
+99
+00:04:40,800 --> 00:04:43,320
+API will be giving us some promise in a
+एपीआई हमें कुछ वादा दे रहा होगा
+
+100
+00:04:43,320 --> 00:04:46,080
+pending statement and we will wait for
+लंबित बयान और हम इंतजार करेंगे
+
+101
+00:04:46,080 --> 00:04:50,220
+it and uh like await either uh it is
+यह और उह या तो इंतजार कर रहा है उह यह है
+
+102
+00:04:50,220 --> 00:04:53,600
+getting rejected and or uh it is getting
+अस्वीकार कर रहा है और या उह हो रहा है
+
+103
+00:04:53,600 --> 00:04:57,240
+succeeded and uh depending upon that we
+सफल और उह उस पर निर्भर करता है
+
+104
+00:04:57,240 --> 00:04:58,800
+will do error handling in our main
+हमारे मुख्य में त्रुटि हैंडलिंग करेंगे
+
+105
+00:04:58,800 --> 00:05:00,900
+function wherever we are calling that
+जहां भी हम कॉल कर रहे हैं, कार्य करें
+
+106
+00:05:00,900 --> 00:05:02,460
+problem
+संकट
+
+107
+00:05:02,460 --> 00:05:05,460
+so according to you uh is there any
+तो आप के अनुसार उह कोई है
+
+108
+00:05:05,460 --> 00:05:07,500
+preference why we should use async
+वरीयता क्यों हमें async का उपयोग करना चाहिए
+
+109
+00:05:07,500 --> 00:05:09,000
+coverage from this or both are same it's
+इस या दोनों से कवरेज एक ही है
+
+110
+00:05:09,000 --> 00:05:11,699
+just the different kind of syntax what
+बस अलग तरह के वाक्यविन्यास क्या है
+
+111
+00:05:11,699 --> 00:05:14,940
+do you think yeah well like uh 90 both
+क्या आपको लगता है कि यूएच 90 दोनों की तरह हाँ
+
+112
+00:05:14,940 --> 00:05:17,160
+are same they they are like it's
+वे समान हैं वे जैसे हैं
+
+113
+00:05:17,160 --> 00:05:19,199
+different kind of syntax only it's uh
+अलग -अलग तरह के वाक्यविन्यास केवल यह उह है
+
+114
+00:05:19,199 --> 00:05:21,120
+like nowadays we are using a sink of it
+आजकल की तरह हम इसका एक सिंक का उपयोग कर रहे हैं
+
+115
+00:05:21,120 --> 00:05:23,699
+only because it's like very easy to
+केवल इसलिए कि यह बहुत आसान है
+
+116
+00:05:23,699 --> 00:05:25,380
+understand but there are a few
+समझें लेकिन कुछ हैं
+
+117
+00:05:25,380 --> 00:05:27,720
+differences like uh when we await rate
+जब हम दर का इंतजार करते हैं तो यूएच जैसे अंतर
+
+118
+00:05:27,720 --> 00:05:30,600
+the code execution the flow of execution
+कोड निष्पादन निष्पादन का प्रवाह
+
+119
+00:05:30,600 --> 00:05:33,300
+stops at that particular function but in
+उस विशेष कार्य पर रुकता है लेकिन में
+
+120
+00:05:33,300 --> 00:05:35,100
+a promise that does not happen so if I
+एक वादा जो ऐसा नहीं होता है अगर मैं
+
+121
+00:05:35,100 --> 00:05:37,020
+write a promise and if I write a
+एक वादा लिखें और अगर मैं लिखता हूं
+
+122
+00:05:37,020 --> 00:05:40,199
+console.log below it then that log will
+कंसोल.लॉग इसके नीचे तो वह लॉग होगा
+
+123
+00:05:40,199 --> 00:05:43,500
+also get printed even before the promise
+वादे से पहले भी मुद्रित हो जाओ
+
+124
+00:05:43,500 --> 00:05:45,720
+execution completes but if I have a
+निष्पादन पूरा हो जाता है लेकिन अगर मेरे पास ए
+
+125
+00:05:45,720 --> 00:05:47,400
+function in which I write await
+कार्य जिसमें मैं इंतजार करता हूं
+
+126
+00:05:47,400 --> 00:05:49,860
+something and then there is a log below
+कुछ और फिर नीचे एक लॉग है
+
+127
+00:05:49,860 --> 00:05:52,560
+it so this log will not be printed it
+यह इस लॉग को मुद्रित नहीं किया जाएगा
+
+128
+00:05:52,560 --> 00:05:56,280
+will first await for the uh definition
+पहले उह परिभाषा का इंतजार करेंगे
+
+129
+00:05:56,280 --> 00:05:59,340
+then only this uh console.log will be
+तब केवल यह उह कंसोल.लॉग होगा
+
+130
+00:05:59,340 --> 00:06:00,600
+printed so there is a slight difference
+मुद्रित तो थोड़ा अंतर है
+
+131
+00:06:00,600 --> 00:06:02,820
+in how the code execution takes this
+कोड निष्पादन कैसे लेता है
+
+132
+00:06:02,820 --> 00:06:06,860
+also will be users
+उपयोगकर्ता भी होंगे
+
+133
+00:06:07,440 --> 00:06:09,300
+taking order and you are saying
+आदेश लेना और आप कह रहे हैं
+
+134
+00:06:09,300 --> 00:06:10,380
+something about synchronous and
+सिंक्रोनस के बारे में कुछ और
+
+135
+00:06:10,380 --> 00:06:12,240
+asynchronous right can you quickly tell
+अतुल्यकालिक अधिकार आप जल्दी से बता सकते हैं
+
+136
+00:06:12,240 --> 00:06:13,500
+me the difference between what do you
+आप क्या करते हैं के बीच का अंतर
+
+137
+00:06:13,500 --> 00:06:15,780
+think asynchronizing process yeah so
+एसिंक्रोनाइज़िंग प्रक्रिया हाँ तो सोचें
+
+138
+00:06:15,780 --> 00:06:18,240
+synchronous basically means uh like code
+सिंक्रोनस मूल रूप से कोड की तरह उह का मतलब है
+
+139
+00:06:18,240 --> 00:06:20,660
+will be executing line by line from Top
+शीर्ष से लाइन द्वारा लाइन निष्पादित किया जाएगा
+
+140
+00:06:20,660 --> 00:06:24,120
+means uh for example uh there is
+उदाहरण के लिए उह का मतलब है उह है
+
+141
+00:06:24,120 --> 00:06:27,060
+something uh which takes time uh like a
+कुछ उह जो समय लेता है उह की तरह
+
+142
+00:06:27,060 --> 00:06:28,680
+API call you don't know when it will be
+एपीआई कॉल आप नहीं जानते कि यह कब होगा
+
+143
+00:06:28,680 --> 00:06:30,539
+executed so this particular function
+इस विशेष कार्य को निष्पादित किया
+
+144
+00:06:30,539 --> 00:06:32,819
+will be so basically not this whole
+इतना मूल रूप से यह पूरा नहीं होगा
+
+145
+00:06:32,819 --> 00:06:34,500
+function the Callback of this function
+इस फ़ंक्शन के कॉलबैक को कार्य करें
+
+146
+00:06:34,500 --> 00:06:36,960
+so whenever this API calls completely
+इसलिए जब भी यह एपीआई पूरी तरह से कॉल करता है
+
+147
+00:06:36,960 --> 00:06:39,600
+though so whatever callback we will have
+हालांकि हमारे पास जो भी कॉलबैक होगा
+
+148
+00:06:39,600 --> 00:06:42,539
+that will be put into the uh like what
+यह उह में डाल दिया जाएगा जैसे
+
+149
+00:06:42,539 --> 00:06:44,960
+we call as
+हम कहते हैं
+
+150
+00:07:05,780 --> 00:07:08,039
+otherwise it will just stop the main
+अन्यथा यह सिर्फ मुख्य को रोक देगा
+
+151
+00:07:08,039 --> 00:07:10,080
+thread and if the main thread stops then
+धागा और अगर मुख्य धागा बंद हो जाता है
+
+152
+00:07:10,080 --> 00:07:12,240
+other things won't be executed
+अन्य चीजों को निष्पादित नहीं किया जाएगा
+
+153
+00:07:12,240 --> 00:07:15,240
+basically
+मूल रूप से
+
+154
+00:07:21,000 --> 00:07:23,580
+yeah so event Loop basically uh what it
+हाँ तो घटना लूप मूल रूप से उह क्या है
+
+155
+00:07:23,580 --> 00:07:26,580
+does is uh like it takes care of uh
+उह की तरह उह है
+
+156
+00:07:26,580 --> 00:07:29,340
+execution of our whole JavaScript code
+हमारे पूरे जावास्क्रिप्ट कोड का निष्पादन
+
+157
+00:07:29,340 --> 00:07:31,680
+so basically all the synchronous code
+तो मूल रूप से सभी सिंक्रोनस कोड
+
+158
+00:07:31,680 --> 00:07:33,539
+right they will be put
+ठीक है उन्हें डाल दिया जाएगा
+
+159
+00:07:33,539 --> 00:07:35,340
+um like one by one into the main thread
+उम एक की तरह एक मुख्य धागे में
+
+160
+00:07:35,340 --> 00:07:38,160
+and all the Earth for example a set
+और सभी पृथ्वी उदाहरण के लिए एक सेट
+
+161
+00:07:38,160 --> 00:07:39,840
+timeout called their function or
+टाइमआउट ने उनके फ़ंक्शन को बुलाया या
+
+162
+00:07:39,840 --> 00:07:42,240
+promises callback functions those will
+कॉलबैक फ़ंक्शन का वादा करता है
+
+163
+00:07:42,240 --> 00:07:44,880
+be put into the uh like callback queue
+कॉलबैक कतार की तरह उह में डाल दिया जाए
+
+164
+00:07:44,880 --> 00:07:47,880
+and event Loop will be checking uh the
+और इवेंट लूप उह की जाँच करेगा
+
+165
+00:07:47,880 --> 00:07:50,039
+main thread and the Callback queue once
+मुख्य धागा और कॉलबैक कतार एक बार
+
+166
+00:07:50,039 --> 00:07:52,199
+this uh like main thread is empty right
+मुख्य धागे की तरह यह उह खाली सही है
+
+167
+00:07:52,199 --> 00:07:55,500
+it will start putting all this callback
+यह यह सब कॉलबैक डालना शुरू कर देगा
+
+168
+00:07:55,500 --> 00:07:57,720
+you all call backs from the Callback
+आप सभी कॉलबैक से बैक बैक
+
+169
+00:07:57,720 --> 00:07:59,819
+view into the main thread that also have
+मुख्य धागे में भी देखें
+
+170
+00:07:59,819 --> 00:08:02,699
+similarity for example uh prior promises
+उदाहरण के लिए समानता उह पूर्व वादे
+
+171
+00:08:02,699 --> 00:08:06,919
+have higher priority and a set timeout
+उच्च प्राथमिकता है और एक निर्धारित टाइमआउट है
+
+172
+00:08:07,020 --> 00:08:09,780
+right right and great now can you tell
+सही और महान अब आप बता सकते हैं
+
+173
+00:08:09,780 --> 00:08:11,940
+me about a prototype in JavaScript and
+मुझे जावास्क्रिप्ट में एक प्रोटोटाइप के बारे में और
+
+174
+00:08:11,940 --> 00:08:14,039
+what do you understand by prototype
+आप प्रोटोटाइप से क्या समझते हैं
+
+175
+00:08:14,039 --> 00:08:16,800
+so every uh like in JavaScript basically
+तो हर उह जैसे जावास्क्रिप्ट में मूल रूप से
+
+176
+00:08:16,800 --> 00:08:21,199
+every object has a prototype and uh
+हर वस्तु में एक प्रोटोटाइप और उह होता है
+
+177
+00:08:21,539 --> 00:08:23,580
+JavaScript will be achieved inheritance
+जावास्क्रिप्ट को विरासत प्राप्त की जाएगी
+
+178
+00:08:23,580 --> 00:08:25,860
+via prototype so for example if I create
+उदाहरण के लिए अगर मैं बनाता हूं तो प्रोटोटाइप के माध्यम से
+
+179
+00:08:25,860 --> 00:08:29,280
+a object right so there will be like
+एक वस्तु सही तो वहाँ की तरह होगा
+
+180
+00:08:29,280 --> 00:08:32,339
+prototype property uh in in that object
+उस ऑब्जेक्ट में प्रोटोटाइप प्रॉपर्टी यूएच
+
+181
+00:08:32,339 --> 00:08:35,099
+correct and and that will like take
+सही और वह पसंद करेंगे
+
+182
+00:08:35,099 --> 00:08:39,779
+values from the top level so for example
+उदाहरण के लिए शीर्ष स्तर से मान
+
+183
+00:08:39,779 --> 00:08:42,419
+if I have a function right and I am
+अगर मेरे पास एक फ़ंक्शन सही है और मैं हूं
+
+184
+00:08:42,419 --> 00:08:44,459
+creating object from that function or
+उस फ़ंक्शन से ऑब्जेक्ट बनाना या
+
+185
+00:08:44,459 --> 00:08:47,459
+our class same thing so if I am creating
+हमारी कक्षा एक ही बात है अगर मैं बना रहा हूं
+
+186
+00:08:47,459 --> 00:08:49,440
+an object from that function
+उस फ़ंक्शन से एक वस्तु
+
+187
+00:08:49,440 --> 00:08:53,720
+now whatever uh like like whatever uh
+अब जो भी उह पसंद है
+
+188
+00:08:53,720 --> 00:08:56,100
+details available in that prototype
+उस प्रोटोटाइप में उपलब्ध विवरण
+
+189
+00:08:56,100 --> 00:08:58,200
+function this child can also access
+कार्य यह बच्चा भी एक्सेस कर सकता है
+
+190
+00:08:58,200 --> 00:09:00,839
+those properties so basically in
+उन गुणों को मूल रूप से में
+
+191
+00:09:00,839 --> 00:09:02,580
+JavaScript we have prototypal or
+जावास्क्रिप्ट हमारे पास प्रोटोटाइप है या
+
+192
+00:09:02,580 --> 00:09:05,279
+prototypal inheritance and uh it's not
+प्रोटोटाइपल इनहेरिटेंस और उह यह नहीं है
+
+193
+00:09:05,279 --> 00:09:07,380
+like normal inheritance in other
+अन्य में सामान्य विरासत की तरह
+
+194
+00:09:07,380 --> 00:09:10,320
+languages so inheritance is when I
+भाषाएँ इतनी विरासत जब मैं
+
+195
+00:09:10,320 --> 00:09:12,240
+established in the JavaScript using
+उपयोग का उपयोग करके जावास्क्रिप्ट में स्थापित
+
+196
+00:09:12,240 --> 00:09:16,380
+products okay great great now my second
+उत्पाद ठीक महान महान अब मेरा दूसरा
+
+197
+00:09:16,380 --> 00:09:17,880
+last question is key or what do you
+अंतिम प्रश्न महत्वपूर्ण है या आप क्या करते हैं
+
+198
+00:09:17,880 --> 00:09:19,500
+understand by memorization
+याद करके समझें
+
+199
+00:09:19,500 --> 00:09:22,380
+have you heard this term yes yes I have
+क्या आपने यह शब्द सुना है हाँ हाँ मेरे पास है
+
+200
+00:09:22,380 --> 00:09:24,959
+heard this yes so basically memorization
+यह हाँ सुना है तो मूल रूप से संस्मरण
+
+201
+00:09:24,959 --> 00:09:29,820
+uses uh the concept of closures and we
+क्लोजर की अवधारणा का उपयोग करता है और हम
+
+202
+00:09:29,820 --> 00:09:31,560
+can memorize a value
+एक मूल्य याद कर सकते हैं
+
+203
+00:09:31,560 --> 00:09:35,459
+and like check for it first so for
+और इसके लिए पहले चेक की तरह
+
+204
+00:09:35,459 --> 00:09:38,880
+example I am doing a API call rate and
+उदाहरण मैं एक एपीआई कॉल दर कर रहा हूं और
+
+205
+00:09:38,880 --> 00:09:41,459
+like it's kind of a get request it's not
+जैसे यह एक तरह से अनुरोध है यह नहीं है
+
+206
+00:09:41,459 --> 00:09:43,320
+a thing that will be changing uh
+एक चीज जो उह बदल रही होगी
+
+207
+00:09:43,320 --> 00:09:45,839
+repetitively so what I can do is I can
+दोहरावली तो मैं क्या कर सकता हूं मैं कर सकता हूं
+
+208
+00:09:45,839 --> 00:09:48,200
+cache this value this get request
+इस मूल्य को कैश करें यह अनुरोध प्राप्त करें
+
+209
+00:09:48,200 --> 00:09:51,060
+response I can cash and next time
+प्रतिक्रिया मैं कैश कर सकता हूं और अगली बार
+
+210
+00:09:51,060 --> 00:09:52,920
+whenever someone calls right this get
+जब भी कोई सही कॉल करता है
+
+211
+00:09:52,920 --> 00:09:55,620
+request I can first check if it is
+अनुरोध मैं पहले जांच कर सकता हूं कि क्या यह है
+
+212
+00:09:55,620 --> 00:09:57,240
+present with me and directly use that
+मेरे साथ मौजूद है और सीधे इसका उपयोग करें
+
+213
+00:09:57,240 --> 00:10:00,300
+instead of calling the API again so that
+एपीआई को फिर से कॉल करने के बजाय ताकि
+
+214
+00:10:00,300 --> 00:10:02,339
+can be achieved via annotation for this
+इसके लिए एनोटेशन के माध्यम से प्राप्त किया जा सकता है
+
+215
+00:10:02,339 --> 00:10:05,220
+we also have like different services
+हमारे पास अलग -अलग सेवाएं भी हैं
+
+216
+00:10:05,220 --> 00:10:08,580
+like radius we have where it is keeps
+त्रिज्या की तरह हमारे पास यह है कि यह रखता है
+
+217
+00:10:08,580 --> 00:10:13,220
+the keys and values as a cache and
+एक कैश के रूप में कुंजी और मान
+
+218
+00:10:15,779 --> 00:10:18,720
+okay great great now my last question is
+ठीक है महान महान अब मेरा आखिरी सवाल है
+
+219
+00:10:18,720 --> 00:10:20,100
+key uh what do you understand by event
+कुंजी उह आप घटना से क्या समझते हैं
+
+220
+00:10:20,100 --> 00:10:21,480
+bubbling
+उत्साह से भरा हुआ
+
+221
+00:10:21,480 --> 00:10:24,120
+so even bubbling means uh like whenever
+तो यहां तक ​​कि बुदबुदाहट का मतलब है उह की तरह जब भी
+
+222
+00:10:24,120 --> 00:10:28,019
+we click on a element in Dom right so
+हम DOM सही में एक तत्व पर क्लिक करते हैं
+
+223
+00:10:28,019 --> 00:10:30,420
+this particular event like on change or
+यह विशेष घटना जैसे परिवर्तन पर या
+
+224
+00:10:30,420 --> 00:10:33,779
+on click this will be moving up uh from
+क्लिक करने पर यह उह से आगे बढ़ेगा
+
+225
+00:10:33,779 --> 00:10:36,120
+the child to the parent and then to the
+माता -पिता को बच्चा और फिर से
+
+226
+00:10:36,120 --> 00:10:39,360
+parent and then to the parent so uh in
+माता -पिता और फिर माता -पिता को तो उह में
+
+227
+00:10:39,360 --> 00:10:42,060
+this way if some if for example we have
+इस तरह अगर कुछ अगर उदाहरण के लिए हमारे पास है
+
+228
+00:10:42,060 --> 00:10:44,300
+a navigation bar and we have five links
+एक नेविगेशन बार और हमारे पास पांच लिंक हैं
+
+229
+00:10:44,300 --> 00:10:47,820
+so on each link I want to do a certain
+तो प्रत्येक लिंक पर मैं एक निश्चित करना चाहता हूं
+
+230
+00:10:47,820 --> 00:10:50,940
+same task right so there can be two
+एक ही कार्य सही तो दो हो सकते हैं
+
+231
+00:10:50,940 --> 00:10:53,519
+methods one can be uh in all the links I
+विधियाँ सभी लिंक में एक uh हो सकती है
+
+232
+00:10:53,519 --> 00:10:56,519
+will be adding the same function right
+एक ही फ़ंक्शन को सही जोड़ देगा
+
+233
+00:10:56,519 --> 00:10:58,860
+on click do this on click do this five
+क्लिक करने पर इस पर क्लिक करें यह पांच करें
+
+234
+00:10:58,860 --> 00:11:02,300
+links I can add one by one
+लिंक मैं एक -एक करके जोड़ सकता हूं
+
+235
+00:11:12,680 --> 00:11:15,240
+basically I don't have to repeat it five
+मूल रूप से मुझे इसे पांच दोहराने की ज़रूरत नहीं है
+
+236
+00:11:15,240 --> 00:11:18,060
+times and second thing is uh like some
+समय और दूसरी बात कुछ की तरह उह है
+
+237
+00:11:18,060 --> 00:11:20,220
+other day I want to add a six sixth link
+दूसरे दिन मैं एक छठा छठा लिंक जोड़ना चाहता हूं
+
+238
+00:11:20,220 --> 00:11:22,980
+as well right so that will be 100 or
+साथ ही सही तो यह 100 या होगा
+
+239
+00:11:22,980 --> 00:11:24,839
+that will be handled automatically
+कि स्वचालित रूप से संभाला जाएगा
+
+240
+00:11:24,839 --> 00:11:27,120
+because uh everything is handled by
+क्योंकि उह सब कुछ द्वारा संभाला जाता है
+
+241
+00:11:27,120 --> 00:11:29,820
+parent right and parent will remain same
+माता -पिता का अधिकार और माता -पिता समान रहेंगे
+
+242
+00:11:29,820 --> 00:11:33,000
+correct okay great so I think that's it
+सही ठीक है महान तो मुझे लगता है कि यह है
+
+243
+00:11:33,000 --> 00:11:35,040
+all about JavaScript now let's move on
+सभी जावास्क्रिप्ट के बारे में अब चलते हैं
+
+244
+00:11:35,040 --> 00:11:36,600
+to some react questions
+कुछ प्रतिक्रिया करने के लिए
+
+245
+00:11:36,600 --> 00:11:38,519
+so first of all I would like to ask you
+तो सबसे पहले मैं आपसे पूछना चाहूंगा
+
+246
+00:11:38,519 --> 00:11:40,680
+how do you pass different data between
+आप अलग -अलग डेटा कैसे पास करते हैं
+
+247
+00:11:40,680 --> 00:11:42,720
+different components in real like how do
+वास्तविक में अलग -अलग घटक जैसे कैसे करते हैं
+
+248
+00:11:42,720 --> 00:11:44,399
+you pass let's say key you have five
+आप पास करते हैं कि आप कहते हैं कि आपके पास पांच हैं
+
+249
+00:11:44,399 --> 00:11:46,019
+components and you want to pass the same
+घटक और आप एक ही पास करना चाहते हैं
+
+250
+00:11:46,019 --> 00:11:49,200
+data or same uh let's say something to
+डेटा या एक ही उह चलो कुछ कहते हैं
+
+251
+00:11:49,200 --> 00:11:51,720
+all the components so how do you do it
+सभी घटक तो आप इसे कैसे करते हैं
+
+252
+00:11:51,720 --> 00:11:54,660
+so uh like we can use props for this
+तो उह जैसे हम इसके लिए प्रॉप्स का उपयोग कर सकते हैं
+
+253
+00:11:54,660 --> 00:11:58,380
+like uh okay passing passing the data
+जैसे उह ठीक है डेटा पास करना
+
+254
+00:11:58,380 --> 00:12:01,320
+via props but that also depends so if
+प्रॉप्स के माध्यम से लेकिन यह भी निर्भर करता है कि अगर
+
+255
+00:12:01,320 --> 00:12:04,560
+the data is like if I am I'm passing a
+डेटा ऐसा है जैसे मैं हूँ मैं एक पास कर रहा हूँ
+
+256
+00:12:04,560 --> 00:12:08,640
+data from a and uh like the data is
+डेटा की तरह ए और यूएच से डेटा है
+
+257
+00:12:08,640 --> 00:12:12,320
+required at D and BC yes
+डी और बीसी हां में आवश्यक है
+
+258
+00:12:12,320 --> 00:12:16,500
+data so what I can do is keep this data
+डेटा तो मैं जो कर सकता हूं वह इस डेटा को रख सकता है
+
+259
+00:12:16,500 --> 00:12:19,920
+uh in some kind of uh like context or
+उह में किसी तरह के संदर्भ में या
+
+260
+00:12:19,920 --> 00:12:22,260
+some kind of a global store and directly
+किसी तरह की वैश्विक स्टोर और सीधे
+
+261
+00:12:22,260 --> 00:12:24,360
+use it because I don't want to like pass
+इसका उपयोग करें क्योंकि मैं पास पसंद नहीं करना चाहता
+
+262
+00:12:24,360 --> 00:12:26,160
+data to those components which are not
+उन घटकों के लिए डेटा जो नहीं हैं
+
+263
+00:12:26,160 --> 00:12:27,720
+using it like
+इसे पसंद करना
+
+264
+00:12:27,720 --> 00:12:30,600
+correct correct so that was my next
+सही सही है ताकि मेरा अगला था
+
+265
+00:12:30,600 --> 00:12:32,459
+question was okay let's say key you want
+सवाल ठीक था चलो कहते हैं कि कुंजी आप चाहते हैं
+
+266
+00:12:32,459 --> 00:12:33,660
+to pass the rate at the fifth level
+पांचवें स्तर पर दर को पारित करने के लिए
+
+267
+00:12:33,660 --> 00:12:36,600
+let's say e on F level so what do you
+आइए, एफ स्तर पर ई कहते हैं तो आप क्या करते हैं
+
+268
+00:12:36,600 --> 00:12:38,339
+use to you know handle situation like
+आप की तरह हैंडल की स्थिति का उपयोग करें
+
+269
+00:12:38,339 --> 00:12:39,779
+this where do you you don't want to pass
+यह आप कहां से पास नहीं करना चाहते हैं
+
+270
+00:12:39,779 --> 00:12:41,940
+like to every each and every parent
+प्रत्येक और हर माता -पिता की तरह
+
+271
+00:12:41,940 --> 00:12:44,160
+A to B to C to D2 you want to directly
+A से B से C से D2 आप सीधे करना चाहते हैं
+
+272
+00:12:44,160 --> 00:12:47,160
+pass from a to anywhere so for this what
+इस के लिए एक से कहीं भी गुजरें
+
+273
+00:12:47,160 --> 00:12:49,500
+do you use yeah we you like in our
+क्या आप हाँ का उपयोग करते हैं जो हम आपको पसंद करते हैं
+
+274
+00:12:49,500 --> 00:12:51,720
+project we use context for this we keep
+परियोजना हम इसके लिए संदर्भ का उपयोग करते हैं जो हम रखते हैं
+
+275
+00:12:51,720 --> 00:12:53,820
+keeping the states or like whatever
+राज्यों को रखना या जो भी हो
+
+276
+00:12:53,820 --> 00:12:55,800
+sector functions in directly in the
+सेक्टर कार्यों में सीधे में कार्य करता है
+
+277
+00:12:55,800 --> 00:12:58,380
+context context and this context will be
+संदर्भ संदर्भ और यह संदर्भ होगा
+
+278
+00:12:58,380 --> 00:13:00,980
+available to all the components so
+सभी घटकों के लिए उपलब्ध है
+
+279
+00:13:00,980 --> 00:13:03,420
+directly getting the access would have
+सीधे पहुंच प्राप्त करना होगा
+
+280
+00:13:03,420 --> 00:13:06,360
+to pass into all the Chinese
+सभी चीनी में गुजरने के लिए
+
+281
+00:13:06,360 --> 00:13:07,980
+okay cool cool
+ठीक है कूल कूल
+
+282
+00:13:07,980 --> 00:13:09,779
+so have you on have you heard about the
+तो क्या आपने इसके बारे में सुना है
+
+283
+00:13:09,779 --> 00:13:14,600
+term prop Drilling ah yes yes this is
+टर्म प्रोप ड्रिलिंग आह हाँ हाँ यह है
+
+284
+00:13:14,899 --> 00:13:18,120
+passing passing to all the components
+सभी घटकों को पास करना
+
+285
+00:13:18,120 --> 00:13:21,300
+even with some companies don't compress
+कुछ कंपनियों के साथ भी संपीड़ित नहीं हैं
+
+286
+00:13:21,300 --> 00:13:23,760
+even don't need that thing right but we
+यहां तक ​​कि उस चीज़ की जरूरत नहीं है, लेकिन हम
+
+287
+00:13:23,760 --> 00:13:27,800
+still passing it so this is
+अभी भी इसे पास कर रहा है तो यह है
+
+288
+00:13:27,920 --> 00:13:31,079
+this can also make the like Port little
+यह भी पोर्ट को छोटा बना सकता है
+
+289
+00:13:31,079 --> 00:13:33,899
+unmaintainable as well because uh right
+असमान रूप से भी क्योंकि उह सही है
+
+290
+00:13:33,899 --> 00:13:35,700
+it's difficult to track right what is
+सही को ट्रैक करना मुश्किल है कि क्या है
+
+291
+00:13:35,700 --> 00:13:37,860
+going there in like in a production
+एक उत्पादन में वहाँ जा रहे हैं
+
+292
+00:13:37,860 --> 00:13:40,040
+application where there are so many
+आवेदन जहां बहुत सारे हैं
+
+293
+00:13:40,040 --> 00:13:42,800
+components around
+घटक
+
+294
+00:13:42,800 --> 00:13:44,639
+so uh
+तो उह
+
+295
+00:13:44,639 --> 00:13:47,399
+can you tell me like which one is better
+क्या आप मुझे बता सकते हैं कि कौन सा बेहतर है
+
+296
+00:13:47,399 --> 00:13:49,560
+or when do we use what one is let's say
+या जब हम उपयोग करते हैं तो हम क्या करते हैं
+
+297
+00:13:49,560 --> 00:13:52,500
+Redux and another is context API so do
+Redux और एक अन्य संदर्भ API है तो करते हैं
+
+298
+00:13:52,500 --> 00:13:54,060
+you know about both and do you know key
+आप दोनों के बारे में जानते हैं और क्या आप कुंजी जानते हैं
+
+299
+00:13:54,060 --> 00:13:57,240
+when should we use what yeah so uh
+हमें कब उपयोग करना चाहिए क्या हाँ उह
+
+300
+00:13:57,240 --> 00:13:59,760
+context API and Redux both are used uh
+संदर्भ एपीआई और रेडक्स दोनों का उपयोग उह है
+
+301
+00:13:59,760 --> 00:14:01,800
+like for store management for State
+राज्य के लिए स्टोर प्रबंधन की तरह
+
+302
+00:14:01,800 --> 00:14:03,260
+Management
+प्रबंध
+
+303
+00:14:03,260 --> 00:14:06,360
+keeping the states at a global level or
+राज्यों को वैश्विक स्तर पर रखना या
+
+304
+00:14:06,360 --> 00:14:08,579
+at a top level so all the component
+एक शीर्ष स्तर पर तो सभी घटक
+
+305
+00:14:08,579 --> 00:14:11,519
+schedules now uh like where where should
+शेड्यूल अब उह जैसे कि कहाँ होना चाहिए
+
+306
+00:14:11,519 --> 00:14:15,180
+we use so basically uh like Redux should
+हम मूल रूप से UH की तरह उपयोग करते हैं जैसे कि Redux होना चाहिए
+
+307
+00:14:15,180 --> 00:14:16,920
+be used in like bigger application
+बड़े एप्लिकेशन की तरह इस्तेमाल किया जाए
+
+308
+00:14:16,920 --> 00:14:18,899
+Enterprise scale application why because
+एंटरप्राइज स्केल एप्लिकेशन क्यों क्योंकि
+
+309
+00:14:18,899 --> 00:14:23,220
+it's kind of more efficient and uh this
+यह अधिक कुशल और उह की तरह है
+
+310
+00:14:23,220 --> 00:14:25,079
+thing like context quantity is not that
+संदर्भ मात्रा जैसी बात यह नहीं है
+
+311
+00:14:25,079 --> 00:14:27,240
+efficient it can be used with smaller
+कुशल इसका उपयोग छोटे के साथ किया जा सकता है
+
+312
+00:14:27,240 --> 00:14:29,820
+applications and uh also the reactive
+आवेदन और यूएच भी प्रतिक्रियाशील
+
+313
+00:14:29,820 --> 00:14:32,040
+says that we should use context only
+कहते हैं कि हमें केवल संदर्भ का उपयोग करना चाहिए
+
+314
+00:14:32,040 --> 00:14:33,779
+with those states which are not changing
+उन राज्यों के साथ जो नहीं बदल रहे हैं
+
+315
+00:14:33,779 --> 00:14:36,540
+very frequent for example the theme of a
+उदाहरण के लिए बहुत बार एक का विषय
+
+316
+00:14:36,540 --> 00:14:39,180
+website that does not change very often
+वेबसाइट जो बहुत बार नहीं बदलती है
+
+317
+00:14:39,180 --> 00:14:41,279
+right so there we can use context and
+ठीक है तो हम संदर्भ का उपयोग कर सकते हैं और
+
+318
+00:14:41,279 --> 00:14:43,260
+for example a card state which changes
+उदाहरण के लिए एक कार्ड राज्य जो बदलता है
+
+319
+00:14:43,260 --> 00:14:45,540
+very often like on every step it is
+बहुत बार हर कदम पर यह है
+
+320
+00:14:45,540 --> 00:14:47,820
+changing something is discounts are
+कुछ बदलना छूट है
+
+321
+00:14:47,820 --> 00:14:50,699
+getting added and all so there we should
+जोड़ा जा रहा है और सब तो हमें चाहिए
+
+322
+00:14:50,699 --> 00:14:55,980
+use Redux and yeah that's
+Redux और हाँ का उपयोग करें
+
+323
+00:14:55,980 --> 00:14:58,860
+yeah that's right now can you tell me
+हाँ, यह अभी आप मुझे बता सकते हैं
+
+324
+00:14:58,860 --> 00:15:01,500
+some limitations of react like what do
+प्रतिक्रिया की कुछ सीमाएँ जैसे क्या करते हैं
+
+325
+00:15:01,500 --> 00:15:03,120
+you think react is missing or what are
+आपको लगता है कि रिएक्ट गायब है या क्या हैं
+
+326
+00:15:03,120 --> 00:15:05,040
+the limitations of it
+इसकी सीमाएं
+
+327
+00:15:05,040 --> 00:15:07,920
+so uh react is not a framework it's a
+तो उह प्रतिक्रिया एक रूपरेखा नहीं है यह एक है
+
+328
+00:15:07,920 --> 00:15:10,440
+library right and it does not come with
+लाइब्रेरी राइट और यह साथ नहीं आती है
+
+329
+00:15:10,440 --> 00:15:13,139
+any the hard and fast rules but to do
+कोई भी कठिन और तेज़ नियम लेकिन करने के लिए
+
+330
+00:15:13,139 --> 00:15:15,660
+things like you can do it anyways like
+आप जैसी चीजें इसे वैसे भी कर सकती हैं जैसे
+
+331
+00:15:15,660 --> 00:15:18,120
+you can call Api wherever you want you
+आप जहां चाहें एपीआई को कॉल कर सकते हैं
+
+332
+00:15:18,120 --> 00:15:20,519
+don't have to follow a structure on the
+पर एक संरचना का पालन करने के लिए नहीं है
+
+333
+00:15:20,519 --> 00:15:22,680
+contrary for example we have angular so
+उदाहरण के लिए हमारे पास कोणीय है
+
+334
+00:15:22,680 --> 00:15:24,839
+that is a framework that will bring its
+यह एक ढांचा है जो इसे लाएगा
+
+335
+00:15:24,839 --> 00:15:27,000
+own rules that Define the services here
+स्वयं के नियम जो यहां सेवाओं को परिभाषित करते हैं
+
+336
+00:15:27,000 --> 00:15:30,240
+call the services in this way but react
+इस तरह से सेवाओं को कॉल करें लेकिन प्रतिक्रिया करें
+
+337
+00:15:30,240 --> 00:15:32,040
+does not bring anything like that so
+ऐसा कुछ भी नहीं लाता है
+
+338
+00:15:32,040 --> 00:15:33,720
+this is one advantage of the attachment
+यह अनुलग्नक का एक फायदा है
+
+339
+00:15:33,720 --> 00:15:36,420
+it is very easy to learn and people can
+यह सीखना बहुत आसान है और लोग कर सकते हैं
+
+340
+00:15:36,420 --> 00:15:39,300
+understand easily but it's also a
+आसानी से समझें लेकिन यह भी एक है
+
+341
+00:15:39,300 --> 00:15:42,000
+disadvantage why because uh like people
+नुकसान क्यों क्योंकि उह लोगों की तरह
+
+342
+00:15:42,000 --> 00:15:44,699
+come and do things randomly they don't
+आओ और बेतरतीब ढंग से वे नहीं करते हैं
+
+343
+00:15:44,699 --> 00:15:47,220
+follow code practices and at the end of
+कोड प्रथाओं का पालन करें और अंत में
+
+344
+00:15:47,220 --> 00:15:49,920
+the day like uh when six months or eight
+उह की तरह दिन जब छह महीने या आठ
+
+345
+00:15:49,920 --> 00:15:52,199
+months pass so the project will be very
+महीने बीतते हैं इसलिए परियोजना बहुत होगी
+
+346
+00:15:52,199 --> 00:15:54,300
+messy because there is no particular
+गन्दा क्योंकि कोई विशेष नहीं है
+
+347
+00:15:54,300 --> 00:15:56,220
+guidelines we are calling we are just
+दिशानिर्देश हम कह रहे हैं कि हम बस हैं
+
+348
+00:15:56,220 --> 00:15:58,320
+doing whatever like people are doing
+जो कुछ भी कर रहे हैं वह कर रहे हैं
+
+349
+00:15:58,320 --> 00:15:59,940
+whatever they wanted they are not
+वे जो भी चाहते थे वे नहीं हैं
+
+350
+00:15:59,940 --> 00:16:03,060
+following a proper architecture so I I
+एक उचित वास्तुकला के बाद मैं
+
+351
+00:16:03,060 --> 00:16:04,920
+think react does not bring architecture
+लगता है कि प्रतिक्रिया वास्तुकला नहीं लाती है
+
+352
+00:16:04,920 --> 00:16:07,500
+with it it's just a library that's a
+इसके साथ यह सिर्फ एक पुस्तकालय है जो एक है
+
+353
+00:16:07,500 --> 00:16:10,279
+disadvantage
+नुकसान
+
+354
+00:16:15,199 --> 00:16:17,820
+think in terms of a company so I am
+एक कंपनी के संदर्भ में सोचें इसलिए मैं हूं
+
+355
+00:16:17,820 --> 00:16:20,279
+currently a startup but I know that for
+वर्तमान में एक स्टार्टअप लेकिन मुझे पता है कि इसके लिए
+
+356
+00:16:20,279 --> 00:16:22,620
+sure I'm gonna go big in next five years
+यकीन है कि मैं अगले पांच वर्षों में बड़ा होने वाला हूं
+
+357
+00:16:22,620 --> 00:16:25,920
+so should I choose react as my framework
+तो क्या मुझे अपने ढांचे के रूप में प्रतिक्रिया चुननी चाहिए
+
+358
+00:16:25,920 --> 00:16:28,860
+yeah react can be choose like I will
+हाँ रिएक्ट चुन सकता है जैसे मैं करूंगा
+
+359
+00:16:28,860 --> 00:16:31,440
+also uh like recommend them to use some
+इसके अलावा उह जैसे उन्हें कुछ का उपयोग करने की सलाह देते हैं
+
+360
+00:16:31,440 --> 00:16:33,360
+kind of a production framework so now as
+एक उत्पादन ढांचे की तरह अब के रूप में
+
+361
+00:16:33,360 --> 00:16:35,820
+of now the ACT is uh reacting itself
+अब यह अधिनियम उह प्रतिक्रिया कर रहा है
+
+362
+00:16:35,820 --> 00:16:38,759
+tells the use next yes now next yes will
+अगले हाँ का उपयोग बताता है अब अगला हाँ होगा
+
+363
+00:16:38,759 --> 00:16:41,759
+bring their own uh like uh next next yes
+अपने खुद के उह की तरह उह अगले अगले हाँ लाओ
+
+364
+00:16:41,759 --> 00:16:44,100
+is the framework and it brings uh its
+फ्रेमवर्क है और यह उह लाता है
+
+365
+00:16:44,100 --> 00:16:45,899
+own rules so use the act and next is
+अपने नियम इसलिए अधिनियम का उपयोग करें और अगला है
+
+366
+00:16:45,899 --> 00:16:48,839
+both if you want to have a very scalable
+यदि आप बहुत स्केलेबल करना चाहते हैं तो दोनों
+
+367
+00:16:48,839 --> 00:16:51,660
+uh option or like in five years you want
+उह विकल्प या पांच साल की तरह आप चाहते हैं
+
+368
+00:16:51,660 --> 00:16:54,360
+to do a big thing or either use angular
+एक बड़ा काम करने के लिए या या तो कोणीय का उपयोग करें
+
+369
+00:16:54,360 --> 00:16:56,639
+you know you can also but that also
+आप जानते हैं कि आप भी कर सकते हैं लेकिन यह भी
+
+370
+00:16:56,639 --> 00:16:58,920
+depends like angular is not that much in
+कोणीय की तरह निर्भर करता है कि इतना नहीं है
+
+371
+00:16:58,920 --> 00:17:00,660
+demand so you won't be getting many
+मांग तो आप बहुत से नहीं मिलेंगे
+
+372
+00:17:00,660 --> 00:17:04,500
+developers to work like but in that
+डेवलपर्स जैसे काम करने के लिए लेकिन उस में
+
+373
+00:17:04,500 --> 00:17:06,540
+terms also we have to think
+शर्तें भी हमें सोचना है
+
+374
+00:17:06,540 --> 00:17:09,419
+okay brilliant now my next question will
+ठीक है शानदार अब मेरा अगला सवाल होगा
+
+375
+00:17:09,419 --> 00:17:10,500
+be uh can you tell me the difference
+उह आप मुझे अंतर बता सकते हैं
+
+376
+00:17:10,500 --> 00:17:12,000
+between controlled and uncontrolled
+नियंत्रित और अनियंत्रित के बीच
+
+377
+00:17:12,000 --> 00:17:13,579
+components and react
+घटक और प्रतिक्रिया
+
+378
+00:17:13,579 --> 00:17:16,319
+so uh basically controller and cultural
+इसलिए उह मूल रूप से नियंत्रक और सांस्कृतिक
+
+379
+00:17:16,319 --> 00:17:19,140
+components depend upon the uh how this
+घटक यूएच पर निर्भर करते हैं कि यह कैसे है
+
+380
+00:17:19,140 --> 00:17:21,419
+the values of these things are changing
+इन चीजों के मूल्य बदल रहे हैं
+
+381
+00:17:21,419 --> 00:17:24,540
+for example if I have an input tag again
+उदाहरण के लिए यदि मेरे पास फिर से एक इनपुट टैग है
+
+382
+00:17:24,540 --> 00:17:27,240
+and I'm not doing anything like I'm not
+और मैं ऐसा कुछ नहीं कर रहा हूं जैसा मैं नहीं कर रहा हूं
+
+383
+00:17:27,240 --> 00:17:30,059
+controlling the value of this using the
+इसका उपयोग करके इस के मूल्य को नियंत्रित करना
+
+384
+00:17:30,059 --> 00:17:32,760
+new attribute with a state for example
+उदाहरण के लिए एक राज्य के साथ नई विशेषता
+
+385
+00:17:32,760 --> 00:17:35,220
+if I am typing I'm not using any kind of
+अगर मैं टाइप कर रहा हूं तो मैं किसी भी तरह का उपयोग नहीं कर रहा हूं
+
+386
+00:17:35,220 --> 00:17:37,440
+a state to control this value so then
+इस मूल्य को नियंत्रित करने के लिए एक राज्य
+
+387
+00:17:37,440 --> 00:17:39,240
+that thing is an uncontrolled component
+वह चीज एक अनियंत्रित घटक है
+
+388
+00:17:39,240 --> 00:17:41,820
+we are not changing it it's just the UI
+हम इसे नहीं बदल रहे हैं यह सिर्फ यूआई है
+
+389
+00:17:41,820 --> 00:17:44,460
+we are type right and right other thing
+हम सही और सही अन्य चीज़ हैं
+
+390
+00:17:44,460 --> 00:17:47,280
+can be uh there is a form and all the
+उह हो सकता है एक रूप और सभी है
+
+391
+00:17:47,280 --> 00:17:48,900
+particular values right like the name
+विशेष मान नाम की तरह सही
+
+392
+00:17:48,900 --> 00:17:51,059
+the email address all are controlled
+ईमेल पता सभी नियंत्रित हैं
+
+393
+00:17:51,059 --> 00:17:53,340
+like whenever you are typing we are
+जैसे कि जब भी आप टाइप कर रहे हों तो हम हैं
+
+394
+00:17:53,340 --> 00:17:55,020
+changing that state and that particular
+उस राज्य और उस विशेष को बदलना
+
+395
+00:17:55,020 --> 00:17:56,820
+thing is getting reflected in the input
+बात इनपुट में परिलक्षित हो रही है
+
+396
+00:17:56,820 --> 00:17:59,280
+box because why because we have used
+बॉक्स क्योंकि क्यों क्योंकि हमने उपयोग किया है
+
+397
+00:17:59,280 --> 00:18:01,880
+values
+मान
+
+398
+00:18:04,039 --> 00:18:06,720
+it can be uncontrolled controlled by the
+इसे अनियंत्रित द्वारा नियंत्रित किया जा सकता है
+
+399
+00:18:06,720 --> 00:18:07,980
+Dom begins
+डोम शुरू होता है
+
+400
+00:18:07,980 --> 00:18:10,380
+like the natural language without a
+बिना प्राकृतिक भाषा की तरह
+
+401
+00:18:10,380 --> 00:18:11,760
+value
+कीमत
+
+402
+00:18:11,760 --> 00:18:13,679
+recorded
+दर्ज
+
+403
+00:18:13,679 --> 00:18:16,860
+now um my another question will be key
+अब उम मेरा एक और सवाल महत्वपूर्ण होगा
+
+404
+00:18:16,860 --> 00:18:18,660
+can you tell me a few ways that you can
+क्या आप मुझे कुछ तरीके बता सकते हैं जो आप कर सकते हैं
+
+405
+00:18:18,660 --> 00:18:21,000
+optimize the react app performance some
+रिएक्ट ऐप के प्रदर्शन को अनुकूलित करें कुछ
+
+406
+00:18:21,000 --> 00:18:22,320
+few techniques through which you can
+कुछ तकनीकें जिनके माध्यम से आप कर सकते हैं
+
+407
+00:18:22,320 --> 00:18:24,120
+optimize yeah
+हाँ
+
+408
+00:18:24,120 --> 00:18:26,880
+so basically uh like first technique
+तो मूल रूप से पहली तकनीक की तरह उह
+
+409
+00:18:26,880 --> 00:18:30,600
+which works very much is using react dot
+जो बहुत काम करता है वह रिएक्ट डॉट का उपयोग कर रहा है
+
+410
+00:18:30,600 --> 00:18:33,480
+memo everywhere so react memo is just
+मेमो हर जगह तो प्रतिक्रिया मेमो बस है
+
+411
+00:18:33,480 --> 00:18:36,780
+kind of a pure component we can say in
+एक शुद्ध घटक की तरह हम कह सकते हैं
+
+412
+00:18:36,780 --> 00:18:38,640
+the class components we have some pure
+क्लास घटक हमारे पास कुछ शुद्ध हैं
+
+413
+00:18:38,640 --> 00:18:40,860
+component basically what it does is it
+घटक मूल रूप से यह क्या करता है
+
+414
+00:18:40,860 --> 00:18:43,020
+will compare the props and state and if
+प्रॉप्स और स्टेट की तुलना करेंगे और अगर
+
+415
+00:18:43,020 --> 00:18:46,380
+the props and state are like like before
+प्रॉप्स और स्टेट पहले की तरह हैं
+
+416
+00:18:46,380 --> 00:18:48,240
+our render whatever the props and
+हमारे रेंडर जो कुछ भी प्रॉप्स और
+
+417
+00:18:48,240 --> 00:18:49,860
+statements are there and after the
+बयान हैं और बाद में
+
+418
+00:18:49,860 --> 00:18:51,600
+render whatever props and state are
+जो कुछ भी प्रॉप्स और स्टेट हैं, उसे प्रस्तुत करें
+
+419
+00:18:51,600 --> 00:18:53,460
+there if both the things are same right
+वहाँ अगर दोनों चीजें समान हैं
+
+420
+00:18:53,460 --> 00:18:56,100
+it won't re-render the component because
+यह घटक को फिर से प्रस्तुत नहीं करेगा क्योंकि
+
+421
+00:18:56,100 --> 00:18:58,200
+uh it does not need that as the clubs
+उह इसकी आवश्यकता नहीं है कि क्लबों के रूप में
+
+422
+00:18:58,200 --> 00:18:59,820
+are not changing
+नहीं बदल रहे हैं
+
+423
+00:18:59,820 --> 00:19:01,980
+so first thing is using the egg dot memo
+तो पहली बात अंडे डॉट मेमो का उपयोग कर रही है
+
+424
+00:19:01,980 --> 00:19:03,900
+everywhere in every every export we
+हर जगह हर निर्यात में हम
+
+425
+00:19:03,900 --> 00:19:05,100
+should use
+का उपयोग करना चाहिए
+
+426
+00:19:05,100 --> 00:19:09,539
+next is like uh in every function uh we
+अगला हर फ़ंक्शन में उह की तरह है उह हम
+
+427
+00:19:09,539 --> 00:19:12,799
+can use use callback and use memo so
+उपयोग कॉलबैक का उपयोग कर सकते हैं और मेमो का उपयोग कर सकते हैं
+
+428
+00:19:12,799 --> 00:19:15,179
+what happens is when we have a function
+क्या होता है जब हमारे पास एक फ़ंक्शन होता है
+
+429
+00:19:15,179 --> 00:19:18,960
+right it's an object and uh even if the
+यह एक वस्तु है और भले ही भी उह है
+
+430
+00:19:18,960 --> 00:19:21,660
+function is same so I'm using react DOT
+फ़ंक्शन समान है इसलिए मैं प्रतिक्रिया डॉट का उपयोग कर रहा हूं
+
+431
+00:19:21,660 --> 00:19:24,059
+number eight to optimize the performance
+प्रदर्शन को अनुकूलित करने के लिए नंबर आठ
+
+432
+00:19:24,059 --> 00:19:26,280
+or like we will be doing a comparison
+या जैसे हम एक तुलना करेंगे
+
+433
+00:19:26,280 --> 00:19:29,039
+between the props and the states but now
+प्रॉप्स और स्टेट्स के बीच लेकिन अब
+
+434
+00:19:29,039 --> 00:19:31,860
+if I'm passing the function in the props
+अगर मैं प्रॉप्स में फ़ंक्शन पास कर रहा हूं
+
+435
+00:19:31,860 --> 00:19:35,160
+and this functions are objects and what
+और यह फ़ंक्शन ऑब्जेक्ट्स और क्या हैं
+
+436
+00:19:35,160 --> 00:19:37,260
+happens in JavaScript is two objects
+जावास्क्रिप्ट में होता है दो ऑब्जेक्ट्स
+
+437
+00:19:37,260 --> 00:19:38,940
+cannot be saved like
+की तरह बचाया नहीं जा सकता
+
+438
+00:19:38,940 --> 00:19:41,760
+until unless the memory address of these
+जब तक कि इनमें से मेमोरी एड्रेस न हो
+
+439
+00:19:41,760 --> 00:19:43,919
+objects are same right they won't be
+वस्तुएं एक ही अधिकार हैं जो वे नहीं होंगे
+
+440
+00:19:43,919 --> 00:19:45,480
+considered same even if they are saying
+यदि वे कह रहे हैं तो भी वैसा ही माना जाता है
+
+441
+00:19:45,480 --> 00:19:47,120
+like if
+जैसे
+
+442
+00:19:47,120 --> 00:19:49,559
+those threes which do three steps
+वे थ्रेड्स जो तीन चरणों करते हैं
+
+443
+00:19:49,559 --> 00:19:51,419
+another function which do is the exact
+एक और कार्य जो सटीक है
+
+444
+00:19:51,419 --> 00:19:54,059
+reason but still the first script won't
+कारण लेकिन फिर भी पहली स्क्रिप्ट नहीं होगी
+
+445
+00:19:54,059 --> 00:19:56,640
+say that these two are same it checks
+कहते हैं कि ये दोनों समान हैं
+
+446
+00:19:56,640 --> 00:19:58,919
+for the memory reference of these object
+इन ऑब्जेक्ट के मेमोरी संदर्भ के लिए
+
+447
+00:19:58,919 --> 00:20:01,260
+so to keep them that memory reference in
+तो उन्हें उस मेमोरी संदर्भ में रखने के लिए
+
+448
+00:20:01,260 --> 00:20:03,720
+we can use use callback for functions
+हम कार्यों के लिए उपयोग कॉलबैक का उपयोग कर सकते हैं
+
+449
+00:20:03,720 --> 00:20:06,600
+and of for objects and arrays we can use
+और वस्तुओं और सरणियों के लिए हम उपयोग कर सकते हैं
+
+450
+00:20:06,600 --> 00:20:08,820
+use memo so now this memory reference
+मेमो का उपयोग करें इसलिए अब यह मेमोरी संदर्भ
+
+451
+00:20:08,820 --> 00:20:11,280
+will be same so whenever there will be a
+जब भी एक होगा तो एक ही होगा
+
+452
+00:20:11,280 --> 00:20:13,520
+comparison right in props
+प्रॉप्स में तुलना सही
+
+453
+00:20:13,520 --> 00:20:17,360
+like pass like that will be true
+जैसे पास की तरह सच होगा
+
+454
+00:20:17,360 --> 00:20:19,799
+before render and after render both are
+रेंडर से पहले और रेंडर के बाद दोनों हैं
+
+455
+00:20:19,799 --> 00:20:22,320
+same uh otherwise what will happen is
+एक ही उह अन्यथा क्या होगा
+
+456
+00:20:22,320 --> 00:20:24,360
+the memory references are different and
+मेमोरी संदर्भ अलग -अलग हैं और
+
+457
+00:20:24,360 --> 00:20:26,520
+even if we are using react.form that
+भले ही हम React.Form का उपयोग कर रहे हैं
+
+458
+00:20:26,520 --> 00:20:28,740
+won't make difference because uh like
+कोई फर्क नहीं पड़ेगा क्योंकि उह पसंद है
+
+459
+00:20:28,740 --> 00:20:30,600
+what I explained right objects are not
+मैंने जो समझाया वह सही वस्तुएं नहीं हैं
+
+460
+00:20:30,600 --> 00:20:33,860
+same only correct
+वही केवल सही है
+
+461
+00:20:33,860 --> 00:20:36,660
+memory addresses so this is like using
+मेमोरी पते तो यह उपयोग करने जैसा है
+
+462
+00:20:36,660 --> 00:20:38,940
+use callback username and react number
+कॉलबैक उपयोगकर्ता नाम और प्रतिक्रिया नंबर का उपयोग करें
+
+463
+00:20:38,940 --> 00:20:40,620
+other thing is using some Frameworks
+दूसरी बात कुछ फ्रेमवर्क का उपयोग कर रही है
+
+464
+00:20:40,620 --> 00:20:43,140
+like next.js what I said earlier those
+अगला की तरह। जे। मैंने पहले क्या कहा था
+
+465
+00:20:43,140 --> 00:20:46,740
+things those Frameworks brings uh like
+उन फ्रेमवर्क की चीजें उह की तरह लाती हैं
+
+466
+00:20:46,740 --> 00:20:49,020
+many things like code splitting lazy
+कई चीजें जैसे कोड बंटवारे आलसी
+
+467
+00:20:49,020 --> 00:20:51,419
+loading on its own maybe a framework
+अपने दम पर लोड हो सकता है शायद एक रूपरेखा
+
+468
+00:20:51,419 --> 00:20:53,700
+like that if you don't make need the
+जैसे कि अगर आपको जरूरत नहीं है
+
+469
+00:20:53,700 --> 00:20:57,059
+whole next JS bundle you can bring uh
+पूरे अगले js बंडल आप उह ला सकते हैं
+
+470
+00:20:57,059 --> 00:21:00,299
+Gatsby it's lightweight okay yeah that
+GATSBY यह हल्का है ठीक है हाँ
+
+471
+00:21:00,299 --> 00:21:02,660
+will be enough
+पर्याप्त होगा
+
+472
+00:21:05,580 --> 00:21:08,299
+am I Audible
+क्या मैं श्रव्य हूं
+
+473
+00:21:09,600 --> 00:21:13,200
+uh I'm audible now yes
+उह मैं श्रव्य अब हाँ
+
+474
+00:21:13,200 --> 00:21:15,600
+okay great so right now I want to give
+ठीक है महान तो अभी मैं देना चाहता हूं
+
+475
+00:21:15,600 --> 00:21:17,700
+you a particular situation okay I want
+आप एक विशेष स्थिति ठीक है मैं चाहता हूँ
+
+476
+00:21:17,700 --> 00:21:19,440
+you to tell me like how do you handle it
+आप मुझे बताते हैं कि आप इसे कैसे संभालते हैं
+
+477
+00:21:19,440 --> 00:21:21,960
+it's a key you have a page okay you have
+यह एक कुंजी है जो आपके पास एक पृष्ठ है ठीक है आपके पास है
+
+478
+00:21:21,960 --> 00:21:23,820
+to build this thing you have to page you
+इस चीज़ को बनाने के लिए आपको पेज करना होगा
+
+479
+00:21:23,820 --> 00:21:25,380
+have a button there when you click a
+जब आप क्लिक करते हैं तो वहां एक बटन होता है
+
+480
+00:21:25,380 --> 00:21:27,360
+button click on the button below that
+बटन नीचे दिए गए बटन पर क्लिक करें
+
+481
+00:21:27,360 --> 00:21:28,919
+button a pop-up should appear like a
+बटन एक पॉप-अप एक की तरह दिखाई देना चाहिए
+
+482
+00:21:28,919 --> 00:21:31,559
+model OKAY a pop-up should appear now
+मॉडल ठीक है एक पॉप-अप अब दिखाई देना चाहिए
+
+483
+00:21:31,559 --> 00:21:33,360
+you have to close that model if you
+यदि आप उस मॉडल को बंद करना होगा यदि आप
+
+484
+00:21:33,360 --> 00:21:35,580
+click outside the model and if you click
+मॉडल के बाहर क्लिक करें और यदि आप क्लिक करते हैं
+
+485
+00:21:35,580 --> 00:21:37,260
+outside the button so if you click
+यदि आप क्लिक करते हैं तो बटन के बाहर
+
+486
+00:21:37,260 --> 00:21:38,580
+anywhere except the button and model
+बटन और मॉडल को छोड़कर कहीं भी
+
+487
+00:21:38,580 --> 00:21:41,700
+that model should close okay so how do
+उस मॉडल को ठीक करना चाहिए तो कैसे करें
+
+488
+00:21:41,700 --> 00:21:43,080
+you handle this situation like how do
+आप इस स्थिति को संभालते हैं जैसे कि कैसे करते हैं
+
+489
+00:21:43,080 --> 00:21:45,120
+you first open the model and how do you
+आप पहले मॉडल खोलते हैं और आप कैसे करते हैं
+
+490
+00:21:45,120 --> 00:21:47,580
+close it you can use react JavaScript
+इसे बंद करें आप प्रतिक्रिया जावास्क्रिप्ट का उपयोग कर सकते हैं
+
+491
+00:21:47,580 --> 00:21:49,679
+whatever you want yeah for opening the
+आप जो भी चाहते हैं, उसे खोलने के लिए हाँ
+
+492
+00:21:49,679 --> 00:21:51,720
+model we can have some kind of state
+मॉडल हमारे पास किसी तरह का राज्य हो सकता है
+
+493
+00:21:51,720 --> 00:21:54,299
+like when we click on button that state
+जैसे जब हम उस स्थिति में बटन पर क्लिक करते हैं
+
+494
+00:21:54,299 --> 00:21:55,980
+will change and this particular thing
+बदल जाएगा और यह विशेष चीज
+
+495
+00:21:55,980 --> 00:21:57,419
+will show on the screen
+स्क्रीन पर दिखाएगा
+
+496
+00:21:57,419 --> 00:21:58,799
+now
+अब
+
+497
+00:21:58,799 --> 00:22:03,539
+on close right uh like whenever we so
+जब भी हम ऐसा करते हैं
+
+498
+00:22:03,539 --> 00:22:07,140
+basically in react we do have models and
+मूल रूप से प्रतिक्रिया में हमारे पास मॉडल हैं और
+
+499
+00:22:07,140 --> 00:22:09,780
+uh yes those models we have uh overlay
+उह हाँ उन मॉडलों के लिए हमारे पास उह ओवरले हैं
+
+500
+00:22:09,780 --> 00:22:12,059
+right which is behind this yes sometimes
+सही है जो कभी -कभी इस हाँ के पीछे होता है
+
+501
+00:22:12,059 --> 00:22:13,860
+that's actually my my that model
+यह वास्तव में मेरा वह मॉडल है
+
+502
+00:22:13,860 --> 00:22:15,539
+component is very complex I have to
+घटक बहुत जटिल है मुझे करना है
+
+503
+00:22:15,539 --> 00:22:17,880
+develop it with custom so I am not using
+इसे कस्टम के साथ विकसित करें इसलिए मैं उपयोग नहीं कर रहा हूं
+
+504
+00:22:17,880 --> 00:22:20,100
+any framework or let's say I'm not using
+कोई भी ढांचा या मान लें कि मैं उपयोग नहीं कर रहा हूँ
+
+505
+00:22:20,100 --> 00:22:22,020
+bootstrap or anything like that I have
+बूटस्ट्रैप या ऐसा कुछ भी मेरे पास है
+
+506
+00:22:22,020 --> 00:22:23,460
+built the model custom and I want to
+मॉडल कस्टम का निर्माण किया और मैं चाहता हूं
+
+507
+00:22:23,460 --> 00:22:25,799
+close it through myself only like I have
+इसे केवल अपने माध्यम से बंद करें जैसे मेरे पास है
+
+508
+00:22:25,799 --> 00:22:27,360
+to write some code to close it then how
+इसे बंद करने के लिए कुछ कोड लिखने के लिए कैसे
+
+509
+00:22:27,360 --> 00:22:29,640
+do you handle it yeah so what I will do
+क्या आप इसे हाँ संभालते हैं तो मैं क्या करूंगा
+
+510
+00:22:29,640 --> 00:22:31,799
+is uh like in this case what I will do
+क्या इस मामले में उह मैं क्या करूंगा
+
+511
+00:22:31,799 --> 00:22:34,440
+is just trying to mimic that overlay
+बस उस ओवरले की नकल करने की कोशिश कर रहा है
+
+512
+00:22:34,440 --> 00:22:36,240
+thing right so
+सही बात है
+
+513
+00:22:36,240 --> 00:22:38,460
+um what happens in react bootstrap is we
+उम रिएक्ट बूटस्ट्रैप में क्या होता है हम है
+
+514
+00:22:38,460 --> 00:22:40,559
+have a model we have a overlay also
+एक मॉडल है हमारे पास एक ओवरले भी है
+
+515
+00:22:40,559 --> 00:22:42,900
+sometimes we make it visible a little
+कभी -कभी हम इसे थोड़ा दिखाई देते हैं
+
+516
+00:22:42,900 --> 00:22:45,840
+dark kind of thing okay sometimes it's
+अंधेरे तरह की बात ठीक है कभी -कभी यह होता है
+
+517
+00:22:45,840 --> 00:22:48,360
+not possible what we can do is we can
+संभव नहीं है कि हम क्या कर सकते हैं हम कर सकते हैं
+
+518
+00:22:48,360 --> 00:22:51,559
+also make him uh like
+उसे भी उह की तरह बनाओ
+
+519
+00:22:57,200 --> 00:23:01,380
+because it is uh like on top of all the
+क्योंकि यह सभी के ऊपर की तरह उह है
+
+520
+00:23:01,380 --> 00:23:04,440
+elements so basically what happens is we
+तत्व तो मूल रूप से क्या होता है हम
+
+521
+00:23:04,440 --> 00:23:06,360
+have various elements right on the Dom
+डोम पर विभिन्न तत्व हैं
+
+522
+00:23:06,360 --> 00:23:10,280
+stacked together so whatever it is
+एक साथ स्टैक किया गया है तो जो कुछ भी है
+
+523
+00:23:10,280 --> 00:23:13,020
+at the top like which which has the
+शीर्ष पर जैसे जो है
+
+524
+00:23:13,020 --> 00:23:17,159
+highest Zs Z index index
+उच्चतम zs z सूचकांक सूचकांक
+
+525
+00:23:17,159 --> 00:23:21,360
+so this overlay just below the model so
+तो यह ओवरले मॉडल के ठीक नीचे
+
+526
+00:23:21,360 --> 00:23:23,340
+whenever someone clicks outside and I
+जब भी कोई बाहर क्लिक करता है और मैं
+
+527
+00:23:23,340 --> 00:23:25,860
+will make this uh view like the color
+इस उह दृश्य को रंग की तरह बना देगा
+
+528
+00:23:25,860 --> 00:23:27,419
+and the
+और यह
+
+529
+00:23:27,419 --> 00:23:30,360
+opacity of this overlays uh
+इस ओवरले की अस्पष्टता उह
+
+530
+00:23:30,360 --> 00:23:32,820
+like uh such that it won't be but let's
+उह की तरह ऐसा है कि यह नहीं होगा लेकिन चलो
+
+531
+00:23:32,820 --> 00:23:35,700
+say if you make the
+कहो अगर तुम बनाते हो
+
+532
+00:23:35,700 --> 00:23:37,980
+touch okay so let's you are saying key
+टच ठीक है तो चलो आप कुंजी कह रहे हैं
+
+533
+00:23:37,980 --> 00:23:41,520
+let's say if I uh create on close button
+मान लीजिए
+
+534
+00:23:41,520 --> 00:23:43,440
+let's say if I create click on anywhere
+मान लीजिए कि अगर मैं कहीं भी क्लिक करता हूं
+
+535
+00:23:43,440 --> 00:23:45,720
+except the button and the model she will
+बटन और मॉडल को छोड़कर वह होगा
+
+536
+00:23:45,720 --> 00:23:48,360
+have overlay and top of everything so
+ओवरले और सब कुछ के ऊपर है
+
+537
+00:23:48,360 --> 00:23:50,280
+the Z index will be highest and now when
+Z सूचकांक सबसे अधिक होगा और अब जब
+
+538
+00:23:50,280 --> 00:23:52,020
+you click on that overlay you will
+आप उस ओवरले पर क्लिक करें जो आप करेंगे
+
+539
+00:23:52,020 --> 00:23:54,419
+change your state to let's say off false
+झूठ बोलने के लिए अपना राज्य बदलें
+
+540
+00:23:54,419 --> 00:23:57,380
+okay cool yeah
+ठीक है, हाँ
+
+541
+00:23:57,380 --> 00:24:01,440
+cool so my last question will be have
+कूल तो मेरा आखिरी सवाल होगा
+
+542
+00:24:01,440 --> 00:24:03,480
+you used error boundaries in your any
+आपने अपने किसी भी में त्रुटि सीमाओं का उपयोग किया
+
+543
+00:24:03,480 --> 00:24:05,039
+project in your the react project that
+अपने रिएक्ट प्रोजेक्ट में प्रोजेक्ट करें
+
+544
+00:24:05,039 --> 00:24:06,360
+you are making in your company or
+आप अपनी कंपनी में बना रहे हैं या
+
+545
+00:24:06,360 --> 00:24:07,919
+personal project have you used error
+व्यक्तिगत परियोजना क्या आपने त्रुटि का उपयोग किया है
+
+546
+00:24:07,919 --> 00:24:09,120
+boundaries there
+वहाँ सीमाएँ
+
+547
+00:24:09,120 --> 00:24:12,299
+yeah error boundaries like I have used
+हाँ त्रुटि सीमाओं की तरह मैंने उपयोग किया है
+
+548
+00:24:12,299 --> 00:24:15,840
+and uh what we have done is like
+और उह जो हमने किया है वह जैसा है
+
+549
+00:24:15,840 --> 00:24:18,500
+error boundary
+त्रुटि सीमा
+
+550
+00:24:18,780 --> 00:24:21,120
+if the application fails to this certain
+यदि एप्लिकेशन इस निश्चित रूप से विफल हो जाता है
+
+551
+00:24:21,120 --> 00:24:24,299
+reason then like error boundary will
+कारण तो त्रुटि सीमा की तरह होगा
+
+552
+00:24:24,299 --> 00:24:25,940
+have uh
+उह है
+
+553
+00:24:25,940 --> 00:24:31,460
+like a backup UI and it will show
+एक बैकअप यूआई की तरह और यह दिखाएगा
+
+554
+00:24:35,480 --> 00:24:38,960
+it's not available
+यह उपलब्ध नहीं है
+
+555
+00:24:57,419 --> 00:25:00,419
+issue
+मुद्दा
+
+556
+00:25:16,440 --> 00:25:19,679
+okay okay so shubham you have quite a
+ठीक है ठीक है तो शुबम आपके पास काफी है
+
+557
+00:25:19,679 --> 00:25:21,120
+good experience in terms of like uh
+उह की तरह अच्छा अनुभव
+
+558
+00:25:21,120 --> 00:25:23,220
+front-end development so can you tell me
+फ्रंट-एंड डेवलपमेंट तो क्या आप मुझे बता सकते हैं
+
+559
+00:25:23,220 --> 00:25:26,100
+some cases like where you face and uh
+कुछ मामले जैसे आप सामना करते हैं और उह
+
+560
+00:25:26,100 --> 00:25:27,840
+let's take a challenge during your work
+चलो अपने काम के दौरान एक चुनौती लेते हैं
+
+561
+00:25:27,840 --> 00:25:30,000
+in your company or anywhere while making
+आपकी कंपनी में या कहीं भी बनाते समय
+
+562
+00:25:30,000 --> 00:25:31,740
+a personal projects like watch it and
+एक व्यक्तिगत परियोजनाएं जैसे इसे देखते हैं और
+
+563
+00:25:31,740 --> 00:25:33,539
+just did you face while creating any
+बस आपको कोई भी बनाते समय सामना करना पड़ा
+
+564
+00:25:33,539 --> 00:25:35,820
+let's say any component or project any
+आइए किसी भी घटक या किसी भी प्रोजेक्ट करें
+
+565
+00:25:35,820 --> 00:25:37,140
+major challenge that you have faced till
+बड़ी चुनौती जो आपने सामना किया है
+
+566
+00:25:37,140 --> 00:25:39,960
+now and how do you solve it
+अब और आप इसे कैसे हल करते हैं
+
+567
+00:25:39,960 --> 00:25:42,720
+so our first challenge that I have faced
+इसलिए हमारी पहली चुनौती जो मैंने सामना की है
+
+568
+00:25:42,720 --> 00:25:45,480
+that was very difficult for me is we had
+मेरे लिए यह बहुत मुश्किल था
+
+569
+00:25:45,480 --> 00:25:49,140
+a very complex formula uh and so first
+एक बहुत ही जटिल सूत्र उह और इसलिए पहले
+
+570
+00:25:49,140 --> 00:25:51,720
+we built it for uh like actually the
+हमने इसे वास्तव में उह के लिए बनाया है
+
+571
+00:25:51,720 --> 00:25:53,279
+requirement change so first we built it
+आवश्यकता परिवर्तन तो पहले हमने इसे बनाया
+
+572
+00:25:53,279 --> 00:25:55,740
+for a particular scenario we have a very
+एक विशेष परिदृश्य के लिए हमारे पास एक बहुत है
+
+573
+00:25:55,740 --> 00:25:58,799
+big complex form we have built it now
+बिग कॉम्प्लेक्स फॉर्म हमने अब इसे बनाया है
+
+574
+00:25:58,799 --> 00:26:01,440
+what the requirement was to make it
+इसे बनाने के लिए क्या आवश्यकता थी
+
+575
+00:26:01,440 --> 00:26:03,480
+generalized so that particular form will
+सामान्यीकृत ताकि विशेष रूप होगा
+
+576
+00:26:03,480 --> 00:26:05,580
+be used throughout the site wherever
+जहाँ भी साइट पर इस्तेमाल किया जाए
+
+577
+00:26:05,580 --> 00:26:07,080
+that particular information is required
+उस विशेष जानकारी की आवश्यकता है
+
+578
+00:26:07,080 --> 00:26:11,220
+so for example in which we are entering
+इसलिए उदाहरण के लिए जिसमें हम प्रवेश कर रहे हैं
+
+579
+00:26:11,220 --> 00:26:12,919
+all the details of that particular
+उस विशेष के सभी विवरण
+
+580
+00:26:12,919 --> 00:26:15,539
+eyeglass so my first company is
+चश्मा तो मेरी पहली कंपनी है
+
+581
+00:26:15,539 --> 00:26:17,880
+e-commerce store right and that uh they
+ई-कॉमर्स स्टोर सही और वह उह वे
+
+582
+00:26:17,880 --> 00:26:20,220
+were selling eyeglasses so like the left
+बाईं तरह चश्मा बेच रहे थे
+
+583
+00:26:20,220 --> 00:26:22,620
+power the right power frames and all the
+सही शक्ति फ्रेम और सभी को पावर
+
+584
+00:26:22,620 --> 00:26:25,980
+details it's a very big form so now the
+विवरण यह एक बहुत बड़ा रूप है इसलिए अब
+
+585
+00:26:25,980 --> 00:26:28,380
+challenge was to separate the UI layer
+UI परत को अलग करने के लिए चुनौती थी
+
+586
+00:26:28,380 --> 00:26:30,480
+and the logic layer business logic layer
+और लॉजिक लेयर बिजनेस लॉजिक लेयर
+
+587
+00:26:30,480 --> 00:26:33,840
+why because now we have to show this UI
+क्यों क्योंकि अब हमें यह यूआई दिखाना है
+
+588
+00:26:33,840 --> 00:26:36,240
+somewhere else as well and whatever
+कहीं और भी और जो भी हो
+
+589
+00:26:36,240 --> 00:26:38,520
+business logic we have written it for
+व्यापार तर्क हमने इसके लिए लिखा है
+
+590
+00:26:38,520 --> 00:26:40,679
+the first time right sometimes it is not
+पहली बार कभी -कभी यह नहीं होता है
+
+591
+00:26:40,679 --> 00:26:43,620
+the same as well so if I'm showing that
+साथ ही साथ अगर मैं दिखा रहा हूँ
+
+592
+00:26:43,620 --> 00:26:45,679
+particular form in account my account
+मेरे खाते में विशेष रूप
+
+593
+00:26:45,679 --> 00:26:49,020
+then different things will happen it
+फिर अलग -अलग चीजें होंगी
+
+594
+00:26:49,020 --> 00:26:51,240
+won't have like the same logic so
+एक ही तर्क की तरह नहीं होगा
+
+595
+00:26:51,240 --> 00:26:53,220
+separating those two things right
+उन दो चीजों को अलग करना सही है
+
+596
+00:26:53,220 --> 00:26:55,440
+business logic and the component layer
+व्यापार तर्क और घटक परत
+
+597
+00:26:55,440 --> 00:26:57,779
+that is kind of a challenging uh task
+यह एक चुनौतीपूर्ण यूएच कार्य की तरह है
+
+598
+00:26:57,779 --> 00:27:00,539
+for me and uh I did it uh like for the
+मेरे और उह के लिए मैंने इसे उह की तरह किया
+
+599
+00:27:00,539 --> 00:27:02,700
+first time as well and from that from
+पहली बार और उस से भी
+
+600
+00:27:02,700 --> 00:27:04,980
+there I have learned a lot of things and
+वहाँ मैंने बहुत सी चीजें सीखी हैं और
+
+601
+00:27:04,980 --> 00:27:08,220
+now when I write code I know like from
+अब जब मैं कोड लिखता हूं तो मुझे पसंद है
+
+602
+00:27:08,220 --> 00:27:10,799
+the starting onwards I make the layers
+शुरू होने के बाद मैं परतें बनाता हूं
+
+603
+00:27:10,799 --> 00:27:13,860
+different using books and custom books I
+अलग -अलग किताबों और कस्टम पुस्तकों का उपयोग करके मैं
+
+604
+00:27:13,860 --> 00:27:15,840
+always separate the business logic and
+हमेशा व्यावसायिक तर्क को अलग करें और
+
+605
+00:27:15,840 --> 00:27:19,020
+the component like the view layer so
+दृश्य परत की तरह घटक तो
+
+606
+00:27:19,020 --> 00:27:21,360
+that it is always reusable not like
+कि यह हमेशा पुन: प्रयोज्य नहीं है
+
+607
+00:27:21,360 --> 00:27:23,039
+nested everything together so it could
+सब कुछ एक साथ नेस्टेड कर सकता है ताकि यह हो सके
+
+608
+00:27:23,039 --> 00:27:26,220
+be difficult to reuse that is first
+पहले है कि पुन: उपयोग करना मुश्किल है
+
+609
+00:27:26,220 --> 00:27:28,740
+thing second is like uh there's a
+दूसरी बात यह है कि उह की तरह है
+
+610
+00:27:28,740 --> 00:27:31,620
+there's one feature like end-to-end
+एंड-टू-एंड जैसी एक फीचर है
+
+611
+00:27:31,620 --> 00:27:33,480
+feature which I have developed in which
+वह सुविधा जो मैंने विकसित की है
+
+612
+00:27:33,480 --> 00:27:36,779
+we saved these prescriptions into the
+हमने इन नुस्खों को बचाया
+
+613
+00:27:36,779 --> 00:27:39,900
+like Firebase
+फायरबेस की तरह
+
+614
+00:27:39,900 --> 00:27:43,080
+and then this prescription also have a
+और फिर इस पर्चे में भी एक है
+
+615
+00:27:43,080 --> 00:27:45,480
+reminder so when this reminder comes
+अनुस्मारक इसलिए जब यह अनुस्मारक आता है
+
+616
+00:27:45,480 --> 00:27:47,400
+right so you set this amount for six
+ठीक है तो आप इस राशि को छह के लिए सेट करते हैं
+
+617
+00:27:47,400 --> 00:27:49,679
+months after sequence so after this okay
+अनुक्रम के बाद महीनों तो इसके ठीक बाद
+
+618
+00:27:49,679 --> 00:27:52,620
+it will also send a mail to you so in
+यह आपको एक मेल भी भेजेगा
+
+619
+00:27:52,620 --> 00:27:55,740
+that case we have you send it and uh all
+वह मामला हम आप इसे भेजते हैं और उह सभी
+
+620
+00:27:55,740 --> 00:27:58,200
+the integration I have done now so that
+एकीकरण मैंने अब किया है ताकि
+
+621
+00:27:58,200 --> 00:28:00,000
+was kind of a challenge because it was
+एक तरह की चुनौती थी क्योंकि यह था
+
+622
+00:28:00,000 --> 00:28:02,340
+new and it was for the first time I was
+नया और यह पहली बार था जब मैं था
+
+623
+00:28:02,340 --> 00:28:05,460
+working fully like from front end to
+सामने के छोर से पूरी तरह से काम करना
+
+624
+00:28:05,460 --> 00:28:09,020
+that ended right
+यह सही समाप्त हो गया
+
+625
+00:28:09,659 --> 00:28:12,480
+okay okay that's good and one last
+ठीक है ठीक है यह अच्छा है और एक आखिरी है
+
+626
+00:28:12,480 --> 00:28:14,039
+question I wanted to ask you let's say
+प्रश्न मैं आपसे पूछना चाहता था कि हम कहते हैं
+
+627
+00:28:14,039 --> 00:28:16,020
+if you are facing any Challenge and you
+यदि आप किसी भी चुनौती का सामना कर रहे हैं और आप
+
+628
+00:28:16,020 --> 00:28:17,820
+are not able to solve it let's say one
+इसे हल करने में सक्षम नहीं हैं चलो एक कहते हैं
+
+629
+00:28:17,820 --> 00:28:18,960
+days or two days you're not able to
+दिन या दो दिन आप सक्षम नहीं हैं
+
+630
+00:28:18,960 --> 00:28:21,000
+solve it so how do you cope up with that
+इसे हल करें ताकि आप इसका सामना कैसे करें
+
+631
+00:28:21,000 --> 00:28:22,740
+like how do you find Solutions which you
+जैसे आप समाधान कैसे पाते हैं
+
+632
+00:28:22,740 --> 00:28:24,059
+are not able to solve let's say you
+हल करने में सक्षम नहीं हैं चलो आप कहते हैं
+
+633
+00:28:24,059 --> 00:28:25,380
+Googled it and everything you have done
+इसे और आपने जो कुछ भी किया है वह सब कुछ किया
+
+634
+00:28:25,380 --> 00:28:27,059
+it but you're not able to solve it so
+यह लेकिन आप इसे हल करने में सक्षम नहीं हैं
+
+635
+00:28:27,059 --> 00:28:28,980
+what do you do at that time
+आप उस समय क्या करते हैं
+
+636
+00:28:28,980 --> 00:28:31,559
+yeah so uh like first thing what I will
+हाँ तो उह पहली बात की तरह मैं क्या करूँगा
+
+637
+00:28:31,559 --> 00:28:34,620
+do is uh like maybe some senior I will
+क्या उह की तरह शायद कुछ वरिष्ठ मैं करूँगा
+
+638
+00:28:34,620 --> 00:28:39,419
+ask for help and uh and like but with
+मदद के लिए पूछें और उह और पसंद के साथ
+
+639
+00:28:39,419 --> 00:28:41,100
+him also I will discuss what are the
+उसे भी मैं चर्चा करूंगा कि क्या हैं
+
+640
+00:28:41,100 --> 00:28:43,820
+progress I made like uh what whatever
+प्रगति मैंने उह की तरह बनाया है
+
+641
+00:28:43,820 --> 00:28:46,679
+research I have done on it and how we
+अनुसंधान मैंने इस पर किया है और हम कैसे हैं
+
+642
+00:28:46,679 --> 00:28:49,320
+can do it in some way which is kind of a
+इसे किसी तरह से कर सकते हैं जो एक तरह से है
+
+643
+00:28:49,320 --> 00:28:52,380
+hack if we have to implement it or not
+हैक है कि हमें इसे लागू करना है या नहीं
+
+644
+00:28:52,380 --> 00:28:55,380
+Implement in that way and even if uh
+उस तरह से लागू करें और भले ही उह
+
+645
+00:28:55,380 --> 00:28:58,200
+like the senior says that we know it is
+जैसे सीनियर कहते हैं कि हम जानते हैं कि यह है
+
+646
+00:28:58,200 --> 00:29:00,440
+not not at all possible then I will be
+संभव नहीं है तो मैं हो जाएगा
+
+647
+00:29:00,440 --> 00:29:03,179
+getting the same with all the knowledge
+सभी ज्ञान के साथ समान हो रहा है
+
+648
+00:29:03,179 --> 00:29:06,000
+to our product manager so that there
+हमारे उत्पाद प्रबंधक के लिए ताकि वहाँ
+
+649
+00:29:06,000 --> 00:29:09,179
+will be a very uh like Clarity of what
+क्या की स्पष्टता की तरह एक बहुत उह होगा
+
+650
+00:29:09,179 --> 00:29:11,700
+we can achieve things are always
+हम हमेशा चीजों को प्राप्त कर सकते हैं
+
+651
+00:29:11,700 --> 00:29:14,159
+achievable but it all it always comes as
+प्राप्त करने योग्य लेकिन यह सब हमेशा के रूप में आता है
+
+652
+00:29:14,159 --> 00:29:16,799
+at a price like we can do something but
+एक कीमत पर जैसे हम कुछ कर सकते हैं लेकिन
+
+653
+00:29:16,799 --> 00:29:20,039
+that will increase the performance that
+इससे प्रदर्शन बढ़ेगा
+
+654
+00:29:20,039 --> 00:29:22,140
+will increase the load time of the
+के लोड समय को बढ़ाएगा
+
+655
+00:29:22,140 --> 00:29:24,539
+application by huge margin or maybe by
+विशाल मार्जिन या शायद द्वारा आवेदन
+
+656
+00:29:24,539 --> 00:29:26,700
+five to ten seconds so that is that will
+पांच से दस सेकंड तो यही होगा
+
+657
+00:29:26,700 --> 00:29:29,820
+create a large impact on the user set so
+उपयोगकर्ता सेट पर एक बड़ा प्रभाव बनाएं
+
+658
+00:29:29,820 --> 00:29:32,159
+those kind of uh things must be taken up
+इस तरह की उह चीजों को लिया जाना चाहिए
+
+659
+00:29:32,159 --> 00:29:35,640
+by the business so how they want and uh
+व्यवसाय द्वारा ताकि वे कैसे चाहते हैं और उह
+
+660
+00:29:35,640 --> 00:29:38,460
+in that way okay if there is any
+इस तरह से ठीक है अगर कोई है
+
+661
+00:29:38,460 --> 00:29:40,740
+situation like that we handle exam for
+इस तरह की स्थिति हम के लिए परीक्षा संभालते हैं
+
+662
+00:29:40,740 --> 00:29:43,799
+example in in our one app right uh there
+उदाहरण हमारे एक ऐप में सही उह में
+
+663
+00:29:43,799 --> 00:29:46,500
+was I have been given a task to align
+क्या मुझे संरेखित करने का कार्य दिया गया था
+
+664
+00:29:46,500 --> 00:29:49,980
+the holder align everything
+धारक सब कुछ संरेखित करता है
+
+665
+00:29:49,980 --> 00:29:52,559
+the whole the problem is not the time
+पूरी समस्या समय नहीं है
+
+666
+00:29:52,559 --> 00:29:55,260
+time is First constraint like I have uh
+समय पहले बाधा है जैसे मेरे पास उह है
+
+667
+00:29:55,260 --> 00:29:56,820
+it will take a lot of time to align
+संरेखित करने में बहुत समय लगेगा
+
+668
+00:29:56,820 --> 00:29:59,880
+everything but the constraint is even if
+सब कुछ लेकिन बाधा भले ही है
+
+669
+00:29:59,880 --> 00:30:01,640
+I do everything right
+मैं सब कुछ सही करता हूं
+
+670
+00:30:01,640 --> 00:30:04,500
+either design it was such a complexism
+या तो डिजाइन यह एक ऐसी जटिलता थी
+
+671
+00:30:04,500 --> 00:30:07,559
+what they want is they wanted 22 columns
+वे जो चाहते हैं, वे 22 कॉलम चाहते हैं
+
+672
+00:30:07,559 --> 00:30:09,360
+throughout the whole app okay we
+पूरे ऐप के दौरान हम ठीक हैं
+
+673
+00:30:09,360 --> 00:30:13,440
+implemented for 12 columns now okay the
+12 कॉलम के लिए लागू किया गया अब ठीक है
+
+674
+00:30:13,440 --> 00:30:15,659
+whole app is made up of hundreds of
+पूरा ऐप सैकड़ों लोगों से बना है
+
+675
+00:30:15,659 --> 00:30:18,539
+grids right if I change the base layer
+यदि मैं आधार परत को बदल देता हूं तो ग्रिड सही है
+
+676
+00:30:18,539 --> 00:30:21,419
+22 I have to adjust everywhere first
+22 मुझे पहले हर जगह समायोजित करना है
+
+677
+00:30:21,419 --> 00:30:24,620
+thing even if I adjust it whatever
+भले ही मैं इसे समायोजित करूं
+
+678
+00:30:24,620 --> 00:30:26,820
+failing right there are hundreds of red
+विफल होने पर सैकड़ों लाल हैं
+
+679
+00:30:26,820 --> 00:30:29,700
+side whatever feeling or if if the
+जो कुछ भी लग रहा है या अगर अगर
+
+680
+00:30:29,700 --> 00:30:32,520
+columns and all are not equal the things
+कॉलम और सभी चीजों के बराबर नहीं हैं
+
+681
+00:30:32,520 --> 00:30:34,500
+will be like collapsing with each other
+एक दूसरे के साथ ढहने जैसा होगा
+
+682
+00:30:34,500 --> 00:30:37,559
+if it won't look good okay got it I'm
+अगर यह अच्छा नहीं लगेगा तो ठीक है मैं यह हूँ
+
+683
+00:30:37,559 --> 00:30:39,299
+not able to figure out what is failing
+यह पता लगाने में सक्षम नहीं है कि क्या असफल हो रहा है
+
+684
+00:30:39,299 --> 00:30:41,460
+so what we did is like we asked the
+तो हमने जो किया वह वैसा ही है जैसा हमने पूछा
+
+685
+00:30:41,460 --> 00:30:44,039
+designer back and then we took it to
+डिजाइनर वापस और फिर हम इसे ले गए
+
+686
+00:30:44,039 --> 00:30:45,779
+product manager as well because it's
+उत्पाद प्रबंधक के रूप में अच्छी तरह से क्योंकि यह है
+
+687
+00:30:45,779 --> 00:30:47,880
+kind of a very big issue if the
+एक बहुत बड़े मुद्दे की तरह अगर
+
+688
+00:30:47,880 --> 00:30:50,220
+application right right looks right
+एप्लिकेशन राइट राइट राइट राइट
+
+689
+00:30:50,220 --> 00:30:51,960
+right everything is collapsed together
+सही सब कुछ एक साथ ढह गया है
+
+690
+00:30:51,960 --> 00:30:54,299
+then the whole customer experience is
+तब पूरा ग्राहक अनुभव है
+
+691
+00:30:54,299 --> 00:30:57,899
+gone 12.
+12 गए।
+
+692
+00:31:06,779 --> 00:31:09,020
+right right okay
+ठीक है ठीक है
+
+693
+00:31:09,020 --> 00:31:11,760
+I think that's it was great having you
+मुझे लगता है कि यह आपके पास बहुत अच्छा था
+
+694
+00:31:11,760 --> 00:31:13,740
+for the interview and you have answered
+साक्षात्कार के लिए और आपने उत्तर दिया है
+
+695
+00:31:13,740 --> 00:31:15,659
+almost all of the questions so that was
+लगभग सभी सवाल यह था कि
+
+696
+00:31:15,659 --> 00:31:17,279
+really great
+बहुत बढ़िया
+
+697
+00:31:17,279 --> 00:31:20,700
+any any feedback on how I can improve or
+मैं कैसे सुधार कर सकता हूं या इस पर कोई प्रतिक्रिया
+
+698
+00:31:20,700 --> 00:31:22,919
+anything
+कुछ भी
+
+699
+00:31:22,919 --> 00:31:25,320
+yeah I think uh you can be a little bit
+हाँ, मुझे लगता है कि आप थोड़ा सा हो सकते हैं
+
+700
+00:31:25,320 --> 00:31:26,520
+more confident about your answers
+अपने उत्तरों के बारे में अधिक आश्वस्त
+
+701
+00:31:26,520 --> 00:31:28,980
+because all all of the things you are
+क्योंकि सभी चीजें आप हैं
+
+702
+00:31:28,980 --> 00:31:31,140
+saying was absolutely correct I think
+मुझे लगता है कि बिल्कुल सही था
+
+703
+00:31:31,140 --> 00:31:32,520
+just a little bit of confidence was
+बस थोड़ा सा आत्मविश्वास था
+
+704
+00:31:32,520 --> 00:31:35,580
+missing so the rest of the technical
+बाकी तकनीकी को याद कर रहा है
+
+705
+00:31:35,580 --> 00:31:37,080
+knowledge was great according to you and
+ज्ञान आपके अनुसार बहुत अच्छा था और
+
+706
+00:31:37,080 --> 00:31:39,000
+you have quite a good experience also so
+आपके पास काफी अच्छा अनुभव भी है
+
+707
+00:31:39,000 --> 00:31:42,020
+Rush everything was great
+रश सब कुछ महान था
