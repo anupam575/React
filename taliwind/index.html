@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Full Tailwind UI</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+    };
+  </script>
+  <style>
+    .scrollbar-hide::-webkit-scrollbar { display: none; }
+    .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-100 font-sans min-h-screen tracking-wide leading-relaxed antialiased selection:bg-blue-200 dark:selection:bg-blue-600">
+
+  <!-- Navbar -->
+  <header class="bg-white dark:bg-gray-800 shadow-md fixed top-0 left-0 w-full z-50 backdrop-blur bg-opacity-90 transition-all duration-300 border-b border-gray-200 dark:border-gray-700">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
+      <h1 class="text-xl font-bold tracking-wide">🌟 Tailwind UI</h1>
+      <button onclick="document.documentElement.classList.toggle('dark')"
+              class="bg-gray-200 dark:bg-gray-700 text-sm px-4 py-2 rounded-md hover:bg-gray-300 dark:hover:bg-gray-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2 dark:focus-visible:ring-offset-gray-900 transition-all duration-300 ease-in-out active:scale-95">
+        Toggle Dark
+      </button>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <aside class="fixed top-16 left-0 h-full w-64 bg-white dark:bg-gray-800 border-r dark:border-gray-700 p-4 z-40 overflow-y-auto scrollbar-hide">
+    <nav class="space-y-2">
+      <a href="#" class="block px-3 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors duration-200 font-medium">🏠 Dashboard</a>
+      <a href="#" class="block px-3 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors duration-200 font-medium">📊 Reports</a>
+      <a href="#" class="block px-3 py-2 rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors duration-200 font-medium">⚙️ Settings</a>
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="ml-64 mt-20 p-6 space-y-8 max-w-screen-xl mx-auto">
+
+    <!-- Grid Cards -->
+    <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+      <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-2xl overflow-hidden transition-all duration-300 group">
+        <img src="https://via.placeholder.com/400x200" class="w-full aspect-video object-cover transform group-hover:scale-105 transition-transform duration-300" />
+        <div class="p-4 space-y-3">
+          <h2 class="text-lg font-semibold">Card Title</h2>
+          <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">Using object-cover, spacing, shadow, transitions, etc.</p>
+          <button class="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 active:scale-95 transition duration-300 ease-in-out w-full">Read More</button>
+        </div>
+      </div>
+
+      <!-- Loading Card (Animation Example) -->
+      <div class="flex items-center justify-center h-40 bg-gray-50 dark:bg-gray-700 rounded animate-pulse">
+        <div class="h-10 w-10 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+      </div>
+    </section>
+
+    <!-- Form -->
+    <section class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow space-y-4 max-w-md">
+      <h2 class="text-xl font-bold">Contact Form</h2>
+      <form class="space-y-4">
+        <div>
+          <label class="block text-sm font-medium mb-1">Name</label>
+          <input type="text" placeholder="John Doe"
+                 class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded focus:outline-none focus:ring-2 focus:ring-blue-500 transition placeholder:text-sm autofill:bg-white bg-white dark:bg-gray-900" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-1">Email</label>
+          <input type="email" placeholder="email@example.com"
+                 class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded focus:outline-none focus:ring-2 focus:ring-purple-500 transition placeholder:text-sm bg-white dark:bg-gray-900" />
+        </div>
+        <button type="submit"
+                class="w-full bg-green-500 text-white py-2 rounded-md hover:bg-green-600 active:scale-95 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-400 transition">
+          Submit
+        </button>
+      </form>
+    </section>
+
+    <!-- Divider & Float Example -->
+    <section class="relative bg-gray-50 dark:bg-gray-700 p-4 rounded divide-y divide-gray-300 dark:divide-gray-600 shadow">
+      <div class="pb-2 font-semibold">Section One</div>
+      <div class="pt-2">Section Two</div>
+      <span class="absolute top-2 right-4 text-xs float-right text-gray-500">Floating Text</span>
+    </section>
+
+    <!-- Modal -->
+    <div id="modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center hidden z-50 transition-opacity duration-300">
+      <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg w-full max-w-xl relative">
+        <button onclick="toggleModal()" class="absolute top-2 right-2 text-gray-500 hover:text-red-500 text-xl font-bold">&times;</button>
+        <h3 class="text-lg font-bold mb-2">Modal Title</h3>
+        <p class="text-sm">This modal uses positioning, z-index, transitions, and dark mode styling.</p>
+      </div>
+    </div>
+
+    <!-- Modal Button -->
+    <button onclick="toggleModal()"
+            class="bg-purple-500 text-white px-4 py-2 rounded-md hover:bg-purple-600 active:scale-95 transition duration-300 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900">
+      Open Modal
+    </button>
+
+  </main>
+
+  <script>
+    function toggleModal() {
+      document.getElementById("modal").classList.toggle("hidden");
+    }
+  </script>
+
+</body>
+</html>
